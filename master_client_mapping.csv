@@ -1,0 +1,859 @@
+source_file,record_id,source,original_name,normalized_name,email,canonical_client_id,canonical_client_name,match_reason,review_status
+invoices.csv,Invoices_2,Invoices,Sunset Wealth,sunset wealth,kbecker@sunsetwp.com,CLIENT_0123,Sunset Wealth,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_3,Invoices,Lakeside Church,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_4,Invoices,F&F Podcast,f and f podcast,leah@faithandfire.fm,CLIENT_0038,F&F Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_5,Invoices,Torres Dental PLLC,torres dental pllc,office@torresdental.com,CLIENT_0129,Torres Dental,Verified business/contact relationship; original source name retained,VERIFIED_RELATIONSHIP
+invoices.csv,Invoices_6,Invoices,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_7,Invoices,Leah Moore,leah moore,leah@faithandfire.fm,CLIENT_0076,Leah Moore,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_8,Invoices,Elevate Builders LLC,elevate builders llc,wes@elevate.build,CLIENT_0036,Elevate Builders,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+invoices.csv,Invoices_9,Invoices,Imran Becker,imran becker,imran@metroplexmakers.fm,CLIENT_0062,Imran Becker,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_10,Invoices,Apex Roofing Co,apex roofing co,greg@apexroofingco.com,CLIENT_0001,Apex Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+invoices.csv,Invoices_11,Invoices,Lakeside Church,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_12,Invoices,Magnolia Med Spa,magnolia med spa,kelsey@magnoliamedspa.com,CLIENT_0084,Magnolia Med Spa,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_13,Invoices,Clearwater Bridal Boutique,clearwater bridal boutique,grace@clearwaterbridal.com,CLIENT_0022,Clearwater Bridal Boutique,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_14,Invoices,Faith and Fire,faith and fire,leah@faithandfire.fm,CLIENT_0039,Faith & Fire,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_15,Invoices,Metroplex Makers,metroplex makers,imran@metroplexmakers.fm,CLIENT_0092,Metroplex Makers,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_16,Invoices,Romero Law Firm,romero law firm,info@romerolaw.com,CLIENT_0113,Romero Law Firm,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_17,Invoices,Sunset Wealth Partners,sunset wealth partners,kbecker@sunsetwp.com,CLIENT_0124,Sunset Wealth Partners,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_18,Invoices,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_19,Invoices,Leah Moore,leah moore,leah@faithandfire.fm,CLIENT_0076,Leah Moore,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_20,Invoices,Lakeside Media Team,lakeside media team,media@lakesidedfw.org,CLIENT_0074,Lakeside Media Team,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_21,Invoices,Beacon,beacon,jared@beaconfit.co,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+invoices.csv,Invoices_22,Invoices,Metroplex Makers,metroplex makers,imran@metroplexmakers.fm,CLIENT_0092,Metroplex Makers,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_23,Invoices,Apex Roofing Co,apex roofing co,greg@apexroofingco.com,CLIENT_0001,Apex Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+invoices.csv,Invoices_24,Invoices,Stonebridge,stonebridge,aisha@stonebridgemedspa.com,CLIENT_0118,Stonebridge,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_25,Invoices,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_26,Invoices,Faith & Fire,faith and fire,leah@faithandfire.fm,CLIENT_0039,Faith & Fire,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_27,Invoices,Quinn Khan,quinn khan,quinn@granitebarbers.com,CLIENT_0106,Quinn Khan,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_28,Invoices,Clearwater Bridal Boutique,clearwater bridal boutique,grace@clearwaterbridal.com,CLIENT_0022,Clearwater Bridal Boutique,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_29,Invoices,Imran Becker,imran becker,imran@metroplexmakers.fm,CLIENT_0062,Imran Becker,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_30,Invoices,Faith & Fire Podcast,faith and fire podcast,leah@faithandfire.fm,CLIENT_0040,Faith & Fire Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_31,Invoices,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_32,Invoices,Leah Castillo,leah castillo,leah@lonestarrealty.com,CLIENT_0075,Leah Castillo,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_33,Invoices,Walsh Insurance,walsh insurance,reggie@walshinsures.com,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+invoices.csv,Invoices_34,Invoices,Sunset Wealth Partners,sunset wealth partners,kbecker@sunsetwp.com,CLIENT_0124,Sunset Wealth Partners,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_35,Invoices,Harbor PT Dallas,harbor pt dallas,lpatel@harborptdallas.com,CLIENT_0059,Harbor PT Dallas,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_36,Invoices,Romero Law Firm,romero law firm,info@romerolaw.com,CLIENT_0113,Romero Law Firm,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_37,Invoices,Magnolia Med Spa,magnolia med spa,kelsey@magnoliamedspa.com,CLIENT_0084,Magnolia Med Spa,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_38,Invoices,Meridian Dental,meridian dental,hello@meridiandental.com,CLIENT_0091,Meridian Dental,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_39,Invoices,Lakeside Media Team,lakeside media team,media@lakesidedfw.org,CLIENT_0074,Lakeside Media Team,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_40,Invoices,Torres Dental,torres dental,office@torresdental.com,CLIENT_0129,Torres Dental,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_41,Invoices,Stonebridge,stonebridge,aisha@stonebridgemedspa.com,CLIENT_0118,Stonebridge,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_42,Invoices,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_43,Invoices,Elevate Builders LLC,elevate builders llc,wes@elevate.build,CLIENT_0036,Elevate Builders,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+invoices.csv,Invoices_44,Invoices,F&F Podcast,f and f podcast,leah@faithandfire.fm,CLIENT_0038,F&F Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_45,Invoices,Brightline Marketing,brightline marketing,nina@brightlinemktg.com,CLIENT_0010,Brightline Marketing,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_46,Invoices,Torres Family Law,torres family law,ttorres@torresfamilylaw.com,CLIENT_0131,Torres Family Law,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_47,Invoices,Metroplex Makers Podcast,metroplex makers podcast,imran@metroplexmakers.fm,CLIENT_0093,Metroplex Makers Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_48,Invoices,Lakeside Church,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_49,Invoices,Grace Green,grace green,grace@clearwaterbridal.com,CLIENT_0049,Grace Green,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_50,Invoices,Beacon Fit,beacon fit,jared@beaconfit.co,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+invoices.csv,Invoices_51,Invoices,Faith & Fire Podcast,faith and fire podcast,leah@faithandfire.fm,CLIENT_0040,Faith & Fire Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_52,Invoices,Faith & Fire,faith and fire,leah@faithandfire.fm,CLIENT_0039,Faith & Fire,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_53,Invoices,Greg Park,greg park,greg@apexroofingco.com,CLIENT_0055,Greg Park,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_54,Invoices,Lakeside Church,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_55,Invoices,Sunset WP,sunset wp,kbecker@sunsetwp.com,CLIENT_0125,Sunset WP,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_56,Invoices,F&F Podcast,f and f podcast,leah@faithandfire.fm,CLIENT_0038,F&F Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_57,Invoices,Brightline Marketing,brightline marketing,nina@brightlinemktg.com,CLIENT_0010,Brightline Marketing,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_58,Invoices,Romero,romero,info@romerolaw.com,CLIENT_0111,Romero,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_59,Invoices,Harbor Physical Therapy,harbor physical therapy,lpatel@harborptdallas.com,CLIENT_0057,Harbor Physical Therapy,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_60,Invoices,Quinn Khan,quinn khan,quinn@granitebarbers.com,CLIENT_0106,Quinn Khan,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_61,Invoices,Walsh Insurance,walsh insurance,reggie@walshinsures.com,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+invoices.csv,Invoices_62,Invoices,Metroplex Makers Podcast,metroplex makers podcast,imran@metroplexmakers.fm,CLIENT_0093,Metroplex Makers Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_63,Invoices,Stonebridge Med Spa - Plano,stonebridge med spa plano,aisha@stonebridgemedspa.com,CLIENT_0121,Stonebridge Med Spa - Plano,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_64,Invoices,Torres Family Law,torres family law,ttorres@torresfamilylaw.com,CLIENT_0131,Torres Family Law,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_65,Invoices,Glow Gym TX,glow gym tx,derek@glowgym.co,CLIENT_0048,Glow Gym TX,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_66,Invoices,Lakeside Church,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_67,Invoices,Faith & Fire Podcast,faith and fire podcast,leah@faithandfire.fm,CLIENT_0040,Faith & Fire Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_68,Invoices,Redbird Coffee Roasters,redbird coffee roasters,joy@redbirdcoffee.com,CLIENT_0108,Redbird Coffee Roasters,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_69,Invoices,Lakeside Media Team,lakeside media team,media@lakesidedfw.org,CLIENT_0074,Lakeside Media Team,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_70,Invoices,Sage Lab,sage lab,kim@thesagelab.coffee,CLIENT_0115,Sage Lab,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_71,Invoices,Torres's Auto,torres s auto,derek@torressautospa.com,CLIENT_0135,Torres's Auto Spa,Human verified duplicate business; original source name retained,VERIFIED_MERGE
+invoices.csv,Invoices_72,Invoices,Dr. Mia Reed,dr mia reed,mreed@brightwaterfamilytherapy.com,CLIENT_0031,Dr. Mia Reed,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_73,Invoices,Imran Becker,imran becker,imran@metroplexmakers.fm,CLIENT_0062,Imran Becker,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_74,Invoices,Jared Mendez,jared mendez,jared@beaconfit.co,CLIENT_0064,Jared Mendez,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_75,Invoices,Brightline Marketing,brightline marketing,nina@brightlinemktg.com,CLIENT_0010,Brightline Marketing,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_76,Invoices,Magnolia Medspa,magnolia medspa,kelsey@magnoliamedspa.com,CLIENT_0084,Magnolia Med Spa,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+invoices.csv,Invoices_77,Invoices,Apex Roofing,apex roofing,greg@apexroofingco.com,CLIENT_0001,Apex Roofing,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_78,Invoices,Lakeside Media Team,lakeside media team,media@lakesidedfw.org,CLIENT_0074,Lakeside Media Team,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_79,Invoices,Lone Star Realty LLC,lone star realty llc,leah@lonestarrealty.com,CLIENT_0077,Lone Star Realty,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+invoices.csv,Invoices_80,Invoices,Faith and Fire,faith and fire,leah@faithandfire.fm,CLIENT_0039,Faith & Fire,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_81,Invoices,Clearwater Bridal,clearwater bridal,grace@clearwaterbridal.com,CLIENT_0021,Clearwater Bridal,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_82,Invoices,Elevate & Co Builders,elevate and co builders,wes@elevate.build,CLIENT_0036,Elevate Builders,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+invoices.csv,Invoices_83,Invoices,Dr Torres,dr torres,office@torresdental.com,CLIENT_0032,Dr Torres,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_84,Invoices,Brightline Marketing,brightline marketing,nina@brightlinemktg.com,CLIENT_0010,Brightline Marketing,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_85,Invoices,Lakeside Church,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_86,Invoices,Harbor PT,harbor pt,lpatel@harborptdallas.com,CLIENT_0058,Harbor PT,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_87,Invoices,Walsh Insurance,walsh insurance,reggie@walshinsures.com,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+invoices.csv,Invoices_88,Invoices,Romero,romero,info@romerolaw.com,CLIENT_0111,Romero,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_89,Invoices,Metroplex Makers,metroplex makers,imran@metroplexmakers.fm,CLIENT_0092,Metroplex Makers,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_90,Invoices,Dr. Kelsey Castillo,dr kelsey castillo,hello@meridiandental.com,CLIENT_0091,Meridian Dental,Verified business/contact relationship; original source name retained,VERIFIED_RELATIONSHIP
+invoices.csv,Invoices_91,Invoices,Faith & Fire Podcast,faith and fire podcast,leah@faithandfire.fm,CLIENT_0040,Faith & Fire Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_92,Invoices,Northpoint Roofing,northpoint roofing,jared@northpointroofingco.com,CLIENT_0097,Northpoint Roofing,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_93,Invoices,Granite Barbershop,granite barbershop,quinn@granitebarbers.com,CLIENT_0050,Granite Barbers,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+invoices.csv,Invoices_94,Invoices,Stonebridge Med Spa - Plano,stonebridge med spa plano,aisha@stonebridgemedspa.com,CLIENT_0121,Stonebridge Med Spa - Plano,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_95,Invoices,Lakeside Media Team,lakeside media team,media@lakesidedfw.org,CLIENT_0074,Lakeside Media Team,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_96,Invoices,Faith & Fire,faith and fire,leah@faithandfire.fm,CLIENT_0039,Faith & Fire,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_97,Invoices,Beacon Fitness,beacon fitness,jared@beaconfit.co,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+invoices.csv,Invoices_98,Invoices,Lonestar RG,lonestar rg,derek@lonestarrg.com,CLIENT_0080,Lonestar RG,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_99,Invoices,Glow,glow,derek@glowathletics.com,CLIENT_0045,Glow,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_100,Invoices,Redbird Coffee Roasters,redbird coffee roasters,joy@redbirdcoffee.com,CLIENT_0108,Redbird Coffee Roasters,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_101,Invoices,Lakeside Church,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_102,Invoices,Torres Family Law,torres family law,ttorres@torresfamilylaw.com,CLIENT_0131,Torres Family Law,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_103,Invoices,Brightline Marketing,brightline marketing,nina@brightlinemktg.com,CLIENT_0010,Brightline Marketing,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_104,Invoices,Metroplex Makers,metroplex makers,imran@metroplexmakers.fm,CLIENT_0092,Metroplex Makers,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_105,Invoices,Brightwater Family Therapy,brightwater family therapy,mreed@brightwaterfamilytherapy.com,CLIENT_0013,Brightwater Family Therapy,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_106,Invoices,Lakeside Media Team,lakeside media team,media@lakesidedfw.org,CLIENT_0074,Lakeside Media Team,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_107,Invoices,Torres's Auto Spa,torres s auto spa,derek@torressautospa.com,CLIENT_0135,Torres's Auto Spa,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_108,Invoices,Faith & Fire,faith and fire,leah@faithandfire.fm,CLIENT_0039,Faith & Fire,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_109,Invoices,Magnolia Med Spa - Plano,magnolia med spa plano,kelsey@magnoliamedspa.com,CLIENT_0086,Magnolia Med Spa - Plano,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_110,Invoices,Clearwater Bridal,clearwater bridal,grace@clearwaterbridal.com,CLIENT_0021,Clearwater Bridal,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_111,Invoices,Harbor PT,harbor pt,lpatel@harborptdallas.com,CLIENT_0058,Harbor PT,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_112,Invoices,Walsh Insurance,walsh insurance,reggie@walshinsures.com,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+invoices.csv,Invoices_113,Invoices,Faith & Fire,faith and fire,leah@faithandfire.fm,CLIENT_0039,Faith & Fire,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_114,Invoices,Romero Law Firm,romero law firm,info@romerolaw.com,CLIENT_0113,Romero Law Firm,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_115,Invoices,Apex Roofing Co,apex roofing co,greg@apexroofingco.com,CLIENT_0001,Apex Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+invoices.csv,Invoices_116,Invoices,TLC Home Care,tlc home care,joy@tlchomecare.com,CLIENT_0127,TLC Home Care,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_117,Invoices,Park's Auto Spa,park s auto spa,david@parksautospa.com,CLIENT_0104,Park's Auto Spa,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_118,Invoices,Lakeside Media Team,lakeside media team,media@lakesidedfw.org,CLIENT_0074,Lakeside Media Team,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_119,Invoices,Imran Becker,imran becker,imran@metroplexmakers.fm,CLIENT_0062,Imran Becker,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_120,Invoices,Brightline Marketing,brightline marketing,nina@brightlinemktg.com,CLIENT_0010,Brightline Marketing,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_121,Invoices,Faith and Fire,faith and fire,leah@faithandfire.fm,CLIENT_0039,Faith & Fire,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_122,Invoices,Northpoint Roofing Co,northpoint roofing co,jared@northpointroofingco.com,CLIENT_0097,Northpoint Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+invoices.csv,Invoices_123,Invoices,Granite Barbershop,granite barbershop,quinn@granitebarbers.com,CLIENT_0050,Granite Barbers,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+invoices.csv,Invoices_124,Invoices,Stonebridge Med Spa,stonebridge med spa,aisha@stonebridgemedspa.com,CLIENT_0119,Stonebridge Med Spa,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_125,Invoices,Lakeside Media Team,lakeside media team,media@lakesidedfw.org,CLIENT_0074,Lakeside Media Team,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_126,Invoices,Lone Star Realty LLC,lone star realty llc,leah@lonestarrealty.com,CLIENT_0077,Lone Star Realty,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+invoices.csv,Invoices_127,Invoices,Redbird Roasters,redbird roasters,joy@redbirdcoffee.com,CLIENT_0109,Redbird Roasters,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_128,Invoices,Leah Castillo,leah castillo,leah@lonestarrealty.com,CLIENT_0075,Leah Castillo,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_129,Invoices,Jared Mendez,jared mendez,jared@beaconfit.co,CLIENT_0064,Jared Mendez,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_130,Invoices,Dr Torres,dr torres,office@torresdental.com,CLIENT_0032,Dr Torres,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_131,Invoices,Faith & Fire Podcast,faith and fire podcast,leah@faithandfire.fm,CLIENT_0040,Faith & Fire Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_132,Invoices,Lakeside Media Team,lakeside media team,media@lakesidedfw.org,CLIENT_0074,Lakeside Media Team,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_133,Invoices,Glow Athletics,glow athletics,derek@glowathletics.com,CLIENT_0046,Glow Athletics,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_134,Invoices,Metroplex Makers Podcast,metroplex makers podcast,imran@metroplexmakers.fm,CLIENT_0093,Metroplex Makers Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_135,Invoices,Sagelab Coffee,sagelab coffee,kim@thesagelab.coffee,CLIENT_0116,Sagelab Coffee,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_136,Invoices,Elevate,elevate,wes@elevate.build,CLIENT_0036,Elevate Builders,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+invoices.csv,Invoices_137,Invoices,Park's Auto Spa,park s auto spa,david@parksautospa.com,CLIENT_0104,Park's Auto Spa,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_138,Invoices,Lone Star Realty LLC,lone star realty llc,leah@lonestarrealty.com,CLIENT_0077,Lone Star Realty,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+invoices.csv,Invoices_139,Invoices,Torres Law,torres law,ttorres@torresfamilylaw.com,CLIENT_0133,Torres Law,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_140,Invoices,Lakeside Church,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_141,Invoices,Apex Roofing Co,apex roofing co,greg@apexroofingco.com,CLIENT_0001,Apex Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+invoices.csv,Invoices_142,Invoices,Reggie Walsh,reggie walsh,reggie@walshinsures.com,CLIENT_0146,Walsh Insurance,Verified contact associated with Walsh Insurance; not a separate business,VERIFIED_RELATIONSHIP
+invoices.csv,Invoices_143,Invoices,Harbor Physical Therapy,harbor physical therapy,lpatel@harborptdallas.com,CLIENT_0057,Harbor Physical Therapy,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_144,Invoices,Romero Law Firm,romero law firm,info@romerolaw.com,CLIENT_0113,Romero Law Firm,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_145,Invoices,Derek Ramirez,derek ramirez,derek@lonestarrg.com,CLIENT_0029,Derek Ramirez,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_146,Invoices,Torres's Auto,torres s auto,derek@torressautospa.com,CLIENT_0135,Torres's Auto Spa,Human verified duplicate business; original source name retained,VERIFIED_MERGE
+invoices.csv,Invoices_147,Invoices,Brightline Marketing,brightline marketing,nina@brightlinemktg.com,CLIENT_0010,Brightline Marketing,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_148,Invoices,Brightwater Therapy,brightwater therapy,mreed@brightwaterfamilytherapy.com,CLIENT_0014,Brightwater Therapy,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_149,Invoices,Meridian Dental,meridian dental,hello@meridiandental.com,CLIENT_0091,Meridian Dental,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_150,Invoices,Northpoint Roofing,northpoint roofing,jared@northpointroofingco.com,CLIENT_0097,Northpoint Roofing,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+invoices.csv,Invoices_151,Invoices,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_152,Invoices,Faith & Fire Podcast,faith and fire podcast,leah@faithandfire.fm,CLIENT_0040,Faith & Fire Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+invoices.csv,Invoices_153,Invoices,Dr Torres,dr torres,office@torresdental.com,CLIENT_0032,Dr Torres,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_2,Bookings,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_3,Bookings,Faith and Fire,faith and fire,leah@faithandfire.fm,CLIENT_0039,Faith & Fire,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_4,Bookings,Dr. Yasmin Torres,dr yasmin torres,office@torresdental.com,CLIENT_0129,Torres Dental,Verified business/contact relationship; original source name retained,VERIFIED_RELATIONSHIP
+bookings.csv,Bookings_5,Bookings,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_6,Bookings,Metroplex Makers,metroplex makers,imran@metroplexmakers.fm,CLIENT_0092,Metroplex Makers,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_7,Bookings,F&F Podcast,f and f podcast,leah@faithandfire.fm,CLIENT_0038,F&F Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_8,Bookings,Greg Park,greg park,greg@apexroofingco.com,CLIENT_0055,Greg Park,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_9,Bookings,Elevate,elevate,wes@elevate.build,CLIENT_0036,Elevate Builders,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+bookings.csv,Bookings_10,Bookings,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_11,Bookings,Magnolia Med Spa - Frisco,magnolia med spa frisco,kelsey@magnoliamedspa.com,CLIENT_0085,Magnolia Med Spa - Frisco,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_12,Bookings,Faith & Fire Podcast,faith and fire podcast,leah.moore.mail@gmail.com,CLIENT_0040,Faith & Fire Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_13,Bookings,Clearwater Bridal Boutique,clearwater bridal boutique,grace@clearwaterbridal.com,CLIENT_0022,Clearwater Bridal Boutique,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_14,Bookings,Sunset WP,sunset wp,kbecker@sunsetwp.com,CLIENT_0125,Sunset WP,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_15,Bookings,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_16,Bookings,Metroplex Makers Podcast,metroplex makers podcast,imran@metroplexmakers.fm,CLIENT_0093,Metroplex Makers Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_17,Bookings,Faith & Fire,faith and fire,leah@faithandfire.fm,CLIENT_0039,Faith & Fire,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_18,Bookings,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_19,Bookings,Romero Law,romero law,info@romerolaw.com,CLIENT_0112,Romero Law,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_20,Bookings,Sunset Wealth Partners,sunset wealth partners,kbecker@sunsetwp.com,CLIENT_0124,Sunset Wealth Partners,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_21,Bookings,Beacon,beacon,jared@beaconfit.co,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+bookings.csv,Bookings_22,Bookings,Imran Becker,imran becker,imran@metroplexmakers.fm,CLIENT_0062,Imran Becker,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_23,Bookings,Harbor PT Dallas,harbor pt dallas,lpatel@harborptdallas.com,CLIENT_0059,Harbor PT Dallas,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_24,Bookings,Stonebridge,stonebridge,aisha@stonebridgemedspa.com,CLIENT_0118,Stonebridge,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_25,Bookings,Lakeside Church,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_26,Bookings,Leah Moore,leah moore,leah@faithandfire.fm,CLIENT_0076,Leah Moore,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_27,Bookings,Apex Roofing Co,apex roofing co,greg@apexroofingco.com,CLIENT_0001,Apex Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+bookings.csv,Bookings_28,Bookings,Clearwater Bridal Boutique,clearwater bridal boutique,grace@clearwaterbridal.com,CLIENT_0022,Clearwater Bridal Boutique,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_29,Bookings,Granite Barbers,granite barbers,quinn@granitebarbers.com,CLIENT_0050,Granite Barbers,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+bookings.csv,Bookings_30,Bookings,Metroplex Makers,metroplex makers,imran@metroplexmakers.fm,CLIENT_0092,Metroplex Makers,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_31,Bookings,Lakeside Church,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_32,Bookings,Faith and Fire,faith and fire,leah@faithandfire.fm,CLIENT_0039,Faith & Fire,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_33,Bookings,Leah Castillo,leah castillo,leah@lonestarrealty.com,CLIENT_0075,Leah Castillo,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_34,Bookings,Walsh Insurance,walsh insurance,reggie@walshinsures.com,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+bookings.csv,Bookings_35,Bookings,Torres Dental PLLC,torres dental pllc,office@torresdental.com,CLIENT_0129,Torres Dental,Verified business/contact relationship; original source name retained,VERIFIED_RELATIONSHIP
+bookings.csv,Bookings_36,Bookings,Magnolia Med Spa - Plano,magnolia med spa plano,kelsey@magnoliamedspa.com,CLIENT_0086,Magnolia Med Spa - Plano,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_37,Bookings,Meridian Dental,meridian dental,hello@meridiandental.com,CLIENT_0091,Meridian Dental,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_38,Bookings,Lakeside Media Team,lakeside media team,media@lakesidedfw.org,CLIENT_0074,Lakeside Media Team,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_39,Bookings,Faith & Fire,faith and fire,leah.moore.mail@gmail.com,CLIENT_0039,Faith & Fire,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_40,Bookings,Harbor PT,harbor pt,lpatel@harborptdallas.com,CLIENT_0058,Harbor PT,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_41,Bookings,Stonebridge Med Spa - Plano,stonebridge med spa plano,aisha@stonebridgemedspa.com,CLIENT_0121,Stonebridge Med Spa - Plano,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+bookings.csv,Bookings_42,Bookings,Walsh Ins,walsh ins,reggie@walshinsures.com,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+bookings.csv,Bookings_43,Bookings,Torres Family Law PLLC,torres family law pllc,ttorres@torresfamilylaw.com,CLIENT_0131,Torres Family Law,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+bookings.csv,Bookings_44,Bookings,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_45,Bookings,Elevate Builders,elevate builders,wes@elevate.build,CLIENT_0036,Elevate Builders,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+bookings.csv,Bookings_46,Bookings,Romero,romero,info@romerolaw.com,CLIENT_0111,Romero,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_47,Bookings,Westlake Peds,westlake peds,ddelgado@westlakepeds.com,CLIENT_0150,Westlake Peds,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_48,Bookings,Imran Becker,imran becker,imran@metroplexmakers.fm,CLIENT_0062,Imran Becker,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_49,Bookings,Sunset Wealth Partners,sunset wealth partners,kbecker@sunsetwp.com,CLIENT_0124,Sunset Wealth Partners,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_50,Bookings,Leah Moore,leah moore,leah@faithandfire.fm,CLIENT_0076,Leah Moore,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_51,Bookings,Lakeside Media Team,lakeside media team,media@lakesidedfw.org,CLIENT_0074,Lakeside Media Team,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_52,Bookings,Clearwater Bridal Boutique,clearwater bridal boutique,grace@clearwaterbridal.com,CLIENT_0022,Clearwater Bridal Boutique,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_53,Bookings,Redbird Coffee Roasters,redbird coffee roasters,joy@redbirdcoffee.com,CLIENT_0108,Redbird Coffee Roasters,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_54,Bookings,Beacon,beacon,jared@beaconfit.co,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+bookings.csv,Bookings_55,Bookings,Faith & Fire Podcast,faith and fire podcast,leah.moore.mail@gmail.com,CLIENT_0040,Faith & Fire Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_56,Bookings,Apex Roofing,apex roofing,greg@apexroofingco.com,CLIENT_0001,Apex Roofing,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+bookings.csv,Bookings_57,Bookings,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_58,Bookings,Metroplex Makers Podcast,metroplex makers podcast,imran@metroplexmakers.fm,CLIENT_0093,Metroplex Makers Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_59,Bookings,Granite Barbers,granite barbers,quinn@granitebarbers.com,CLIENT_0050,Granite Barbers,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+bookings.csv,Bookings_60,Bookings,Faith & Fire,faith and fire,leah.moore.mail@gmail.com,CLIENT_0039,Faith & Fire,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_61,Bookings,Cypress PT Dallas,cypress pt dallas,nina@brightlinemktg.com,CLIENT_0026,Cypress PT Dallas,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_62,Bookings,Stonebridge Medspa,stonebridge medspa,aisha@stonebridgemedspa.com,CLIENT_0119,Stonebridge Med Spa,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+bookings.csv,Bookings_63,Bookings,Lakeside Media Team,lakeside media team,media@lakesidedfw.org,CLIENT_0074,Lakeside Media Team,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_64,Bookings,Torres Law,torres law,ttorres@torresfamilylaw.com,CLIENT_0133,Torres Law,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_65,Bookings,Sunset WP,sunset wp,kbecker@sunsetwp.com,CLIENT_0125,Sunset WP,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_66,Bookings,Derek Moore,derek moore,derek@glowgym.co,CLIENT_0028,Derek Moore,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_67,Bookings,Faith & Fire Podcast,faith and fire podcast,leah@faithandfire.fm,CLIENT_0040,Faith & Fire Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_68,Bookings,Reggie Walsh,reggie walsh,reggie@walshinsures.com,CLIENT_0146,Walsh Insurance,Verified contact associated with Walsh Insurance; not a separate business,VERIFIED_RELATIONSHIP
+bookings.csv,Bookings_69,Bookings,Lakeside Church,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_70,Bookings,Romero Law Firm,romero law firm,info@romerolaw.com,CLIENT_0113,Romero Law Firm,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+bookings.csv,Bookings_71,Bookings,Harbor PT,harbor pt,lpatel@harborptdallas.com,CLIENT_0058,Harbor PT,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_72,Bookings,Redbird Coffee,redbird coffee,joy@redbirdcoffee.com,CLIENT_0107,Redbird Coffee,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_73,Bookings,Sagelab Coffee,sagelab coffee,kim@thesagelab.coffee,CLIENT_0116,Sagelab Coffee,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_74,Bookings,Metroplex Makers Podcast,metroplex makers podcast,imran@metroplexmakers.fm,CLIENT_0093,Metroplex Makers Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_75,Bookings,Brightwater Therapy,brightwater therapy,mreed@brightwaterfamilytherapy.com,CLIENT_0014,Brightwater Therapy,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_76,Bookings,Torress Auto,torress auto,derek@torressautospa.com,CLIENT_0135,Torres's Auto Spa,Human verified duplicate business; original source name retained,VERIFIED_MERGE
+bookings.csv,Bookings_77,Bookings,Magnolia,magnolia,kelsey@magnoliamedspa.com,CLIENT_0083,Magnolia,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_78,Bookings,Beacon Fitness,beacon fitness,jared@beaconfit.co,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+bookings.csv,Bookings_79,Bookings,Westlake Peds,westlake peds,nina@brightlinemktg.com,CLIENT_0150,Westlake Peds,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_80,Bookings,Apex Roofing Co,apex roofing co,greg@apexroofingco.com,CLIENT_0001,Apex Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+bookings.csv,Bookings_81,Bookings,Lone Star Realty,lone star realty,leah@lonestarrealty.com,CLIENT_0077,Lone Star Realty,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+bookings.csv,Bookings_82,Bookings,F&F Podcast,f and f podcast,leah@faithandfire.fm,CLIENT_0038,F&F Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_83,Bookings,Lakeside Church,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_84,Bookings,Elevate & Co Builders,elevate and co builders,wes@elevate.build,CLIENT_0036,Elevate Builders,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+bookings.csv,Bookings_85,Bookings,Clearwater Bridal Boutique,clearwater bridal boutique,grace@clearwaterbridal.com,CLIENT_0022,Clearwater Bridal Boutique,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_86,Bookings,Torres Dental,torres dental,office@torresdental.con,CLIENT_0129,Torres Dental,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+bookings.csv,Bookings_87,Bookings,Brightline - Cypress,brightline cypress,anovak@cypressptdallas.com,CLIENT_0009,Brightline - Cypress,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_88,Bookings,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_89,Bookings,Kelsey Castillo DDS,kelsey castillo dds,hello@meridiandental.com,CLIENT_0091,Meridian Dental,Verified business/contact relationship; original source name retained,VERIFIED_RELATIONSHIP
+bookings.csv,Bookings_90,Bookings,Faith & Fire,faith and fire,leah@faithandfire.fm,CLIENT_0039,Faith & Fire,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_91,Bookings,Imran Becker,imran becker,imran@metroplexmakers.fm,CLIENT_0062,Imran Becker,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_92,Bookings,Northpoint Roofing,northpoint roofing,jared@northpointroofingco.com,CLIENT_0097,Northpoint Roofing,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+bookings.csv,Bookings_93,Bookings,Granite Barbers,granite barbers,quinn@granitebarbers.com,CLIENT_0050,Granite Barbers,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+bookings.csv,Bookings_94,Bookings,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_95,Bookings,Romero Law Firm PLLC,romero law firm pllc,info@romerolaw.com,CLIENT_0113,Romero Law Firm,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+bookings.csv,Bookings_96,Bookings,Harbor PT,harbor pt,lpatel@harborptdallas.com,CLIENT_0058,Harbor PT,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_97,Bookings,Stonebridge Med Spa,stonebridge med spa,aisha@stonebridgemedspa.com,CLIENT_0119,Stonebridge Med Spa,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+bookings.csv,Bookings_98,Bookings,Walsh Insurance,walsh insurance,reggie@walshinsures.com,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+bookings.csv,Bookings_99,Bookings,F&F Podcast,f and f podcast,leah.moore.mail@gmail.com,CLIENT_0038,F&F Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_100,Bookings,Jared Mendez,jared mendez,jared@beaconfit.co,CLIENT_0064,Jared Mendez,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_101,Bookings,Lonestar RG,lonestar rg,derek@lonestarrg.com,CLIENT_0080,Lonestar RG,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_102,Bookings,Torres Family Law PLLC,torres family law pllc,ttorres@torresfamilylaw.com,CLIENT_0131,Torres Family Law,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+bookings.csv,Bookings_103,Bookings,Lakeside Media Team,lakeside media team,media@lakesidedfw.org,CLIENT_0074,Lakeside Media Team,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_104,Bookings,Sagelab Coffee,sagelab coffee,kim@thesagelab.coffee,CLIENT_0116,Sagelab Coffee,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_105,Bookings,Glow Athletics,glow athletics,derek@glowathletics.com,CLIENT_0046,Glow Athletics,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_106,Bookings,Redbird Roasters,redbird roasters,joy@redbirdcoffee.com,CLIENT_0109,Redbird Roasters,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_107,Bookings,Metroplex Makers Podcast,metroplex makers podcast,imran@metroplexmakers.fm,CLIENT_0093,Metroplex Makers Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_108,Bookings,Torress Auto,torress auto,derek@torressautospa.com,CLIENT_0135,Torres's Auto Spa,Human verified duplicate business; original source name retained,VERIFIED_MERGE
+bookings.csv,Bookings_109,Bookings,Lakeside Church,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_110,Bookings,Faith and Fire,faith and fire,leah@faithandfire.fm,CLIENT_0039,Faith & Fire,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_111,Bookings,Dr. Mia Reed,dr mia reed,mreed@brightwaterfamilytherapy.com,CLIENT_0031,Dr. Mia Reed,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_112,Bookings,Westlake Pediatrics,westlake pediatrics,ddelgado@westlakepeds.com,CLIENT_0149,Westlake Pediatrics,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_113,Bookings,Magnolia Medspa,magnolia medspa,kelsey@magnoliamedspa.com,CLIENT_0084,Magnolia Med Spa,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+bookings.csv,Bookings_114,Bookings,Greg Park,greg park,greg@apexroofingco.com,CLIENT_0055,Greg Park,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_115,Bookings,Clearwater Bridal,clearwater bridal,grace@clearwaterbridal.com,CLIENT_0021,Clearwater Bridal,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_116,Bookings,Park's Auto Spa,park s auto spa,david@parksautospa.com,CLIENT_0104,Park's Auto Spa,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_117,Bookings,Lakeside Media Team,lakeside media team,media@lakesidedfw.org,CLIENT_0074,Lakeside Media Team,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_118,Bookings,Faith & Fire Podcast,faith and fire podcast,leah@faithandfire.fm,CLIENT_0040,Faith & Fire Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_119,Bookings,TLC Home Care,tlc home care,joy@tlchomecare.com,CLIENT_0127,TLC Home Care,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+bookings.csv,Bookings_120,Bookings,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_121,Bookings,Romero Law Firm,romero law firm,info@romerolaw.com,CLIENT_0113,Romero Law Firm,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+bookings.csv,Bookings_122,Bookings,Harbor Physical Therapy,harbor physical therapy,lpatel@harborptdallas.com,CLIENT_0057,Harbor Physical Therapy,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_123,Bookings,Walsh Ins,walsh ins,reggie@walshinsures.com,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+bookings.csv,Bookings_124,Bookings,Imran Becker,imran becker,imran@metroplexmakers.fm,CLIENT_0062,Imran Becker,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_125,Bookings,Brightline - Cypress,brightline cypress,nina@brightlinemktg.com,CLIENT_0009,Brightline - Cypress,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_126,Bookings,F&F Podcast,f and f podcast,leah@faithandfire.fm,CLIENT_0038,F&F Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_127,Bookings,Jared Whitfield,jared whitfield,jared@northpointroofingco.com,CLIENT_0065,Jared Whitfield,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_128,Bookings,Quinn Khan,quinn khan,quinn@granitebarbers.com,CLIENT_0106,Quinn Khan,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_129,Bookings,Leah Castillo,leah castillo,leah@lonestarrealty.com,CLIENT_0075,Leah Castillo,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_130,Bookings,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_131,Bookings,Stonebridge Med Spa - Plano,stonebridge med spa plano,aisha@stonebridgemedspa.com,CLIENT_0121,Stonebridge Med Spa - Plano,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+bookings.csv,Bookings_132,Bookings,Redbird Coffee,redbird coffee,joy@redbirdcoffee.com,CLIENT_0107,Redbird Coffee,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_133,Bookings,Beacon Fitness,beacon fitness,jared@beaconfit.co,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+bookings.csv,Bookings_134,Bookings,Dr Torres,dr torres,office@torresdental.com,CLIENT_0032,Dr Torres,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_135,Bookings,Lakeside Church,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_136,Bookings,Faith & Fire,faith and fire,leah.moore.mail@gmail.com,CLIENT_0039,Faith & Fire,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_137,Bookings,Imran Becker,imran becker,imran@metroplexmakers.fm,CLIENT_0062,Imran Becker,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_138,Bookings,Leah Castillo,leah castillo,leah@lonestarrealty.com,CLIENT_0075,Leah Castillo,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_139,Bookings,The Sage Lab,the sage lab,kim@thesagelab.coffee,CLIENT_0126,The Sage Lab,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_140,Bookings,Glow,glow,derek@glowathletics.com,CLIENT_0045,Glow,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_141,Bookings,Elevate Builders,elevate builders,wes@elevate.build,CLIENT_0036,Elevate Builders,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+bookings.csv,Bookings_142,Bookings,Park's Auto,park s auto,david@parksautospa.com,CLIENT_0104,Park's Auto Spa,Human verified duplicate business; original source name retained,VERIFIED_MERGE
+bookings.csv,Bookings_143,Bookings,Torres Family Law PLLC,torres family law pllc,ttorres@torresfamilylaw.com,CLIENT_0131,Torres Family Law,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+bookings.csv,Bookings_144,Bookings,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_145,Bookings,Apex Roofing Co,apex roofing co,greg@apexroofingco.com,CLIENT_0001,Apex Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+bookings.csv,Bookings_146,Bookings,Torres's Auto,torres s auto,derek@torressautospa.com,CLIENT_0135,Torres's Auto Spa,Human verified duplicate business; original source name retained,VERIFIED_MERGE
+bookings.csv,Bookings_147,Bookings,Westlake Peds,westlake peds,ddelgado@westlakepeds.com,CLIENT_0150,Westlake Peds,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_148,Bookings,Kelsey Castillo DDS,kelsey castillo dds,hello@meridiandental.com,CLIENT_0091,Meridian Dental,Verified business/contact relationship; original source name retained,VERIFIED_RELATIONSHIP
+bookings.csv,Bookings_149,Bookings,Derek Ramirez,derek ramirez,derek@lonestarrg.com,CLIENT_0029,Derek Ramirez,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_150,Bookings,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_151,Bookings,Faith & Fire,faith and fire,leah@faithandfire.fm,CLIENT_0039,Faith & Fire,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_152,Bookings,Brightwater Family Therapy,brightwater family therapy,mreed@brightwaterfamilytherapy.com,CLIENT_0013,Brightwater Family Therapy,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_153,Bookings,Northpoint Roofing Co,northpoint roofing co,jared@northpointroofingco.com,CLIENT_0097,Northpoint Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+bookings.csv,Bookings_154,Bookings,Leah Castillo,leah castillo,leah@lonestarrealty.com,CLIENT_0075,Leah Castillo,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_155,Bookings,Imran Becker,imran becker,imran@metroplexmakers.fm,CLIENT_0062,Imran Becker,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_156,Bookings,Grace Green,grace green,grace@clearwaterbridal.com,CLIENT_0049,Grace Green,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_157,Bookings,Beacon Fit,beacon fit,jared@beaconfit.co,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+bookings.csv,Bookings_158,Bookings,Walsh Insurance Group,walsh insurance group,reggie@walshinsures.com,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+bookings.csv,Bookings_159,Bookings,F&F Podcast,f and f podcast,leah.moore.mail@gmail.com,CLIENT_0038,F&F Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_160,Bookings,Magnolia Med Spa - Plano,magnolia med spa plano,kelsey@magnoliamedspa.com,CLIENT_0086,Magnolia Med Spa - Plano,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_161,Bookings,Harbor PT,harbor pt,lpatel@harborptdallas.com,CLIENT_0058,Harbor PT,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_162,Bookings,Romero Law Firm PLLC,romero law firm pllc,info@romerolaw.com,CLIENT_0113,Romero Law Firm,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+bookings.csv,Bookings_163,Bookings,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_164,Bookings,Granite Barbershop,granite barbershop,quinn@granitebarbers.com,CLIENT_0050,Granite Barbers,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+bookings.csv,Bookings_165,Bookings,Cypress PT,cypress pt,nina@brightlinemktg.com,CLIENT_0025,Cypress PT,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_166,Bookings,Faith & Fire,faith and fire,leah@faithandfire.fm,CLIENT_0039,Faith & Fire,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_167,Bookings,Stonebridge,stonebridge,aisha@stonebridgemedspa.com,CLIENT_0118,Stonebridge,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+bookings.csv,Bookings_168,Bookings,Glow Athletics,glow athletics,derek@glowathletics.com,CLIENT_0046,Glow Athletics,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+leads.csv,Leads_2,Leads,Leah Moore,leah moore,leah@faithandfire.fm,CLIENT_0076,Leah Moore,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+leads.csv,Leads_4,Leads,Khan Landscaping,khan landscaping,carlos@khanlandscaping.com,CLIENT_0069,Khan Landscaping,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_5,Leads,Jackson Coffee,jackson coffee,leah@jacksoncoffee.com,CLIENT_0063,Jackson Coffee,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_6,Leads,Novak Coffee,novak coffee,tony@novakcoffee.com,CLIENT_0099,Novak Coffee,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_8,Leads,Dr. Yasmin Torres,dr yasmin torres,office@torresdental.com,CLIENT_0129,Torres Dental,Verified business/contact relationship; original source name retained,VERIFIED_RELATIONSHIP
+leads.csv,Leads_9,Leads,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+leads.csv,Leads_10,Leads,Grant Med Spa,grant med spa,paula@grantmedspa.com,CLIENT_0052,Grant Med Spa,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+leads.csv,Leads_11,Leads,Elevate Builders,elevate builders,wes@elevate.build,CLIENT_0036,Elevate Builders,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+leads.csv,Leads_13,Leads,Imran Becker,imran becker,imran@metroplexmakers.fm,CLIENT_0062,Imran Becker,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+leads.csv,Leads_14,Leads,Foster Pediatrics,foster pediatrics,jen@fosterpediatrics.com,CLIENT_0044,Foster Pediatrics,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_15,Leads,Magnolia Medspa,magnolia medspa,kelsey@magnoliamedspa.com,CLIENT_0084,Magnolia Med Spa,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+leads.csv,Leads_16,Leads,Brooks Pediatrics,brooks pediatrics,carlos@brookspediatrics.com,CLIENT_0015,Brooks Pediatrics,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_17,Leads,Greg Park,greg park,greg@apexroofingco.com,CLIENT_0055,Greg Park,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+leads.csv,Leads_18,Leads,Tran Roofing,tran roofing,darnell@tranroofing.com,CLIENT_0139,Tran Roofing,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_19,Leads,Sunset Wealth Partners,sunset wealth partners,kbecker@sunsetwp.com,CLIENT_0124,Sunset Wealth Partners,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+leads.csv,Leads_20,Leads,Clearwater Bridal Boutique,clearwater bridal boutique,grace@clearwaterbridal.com,CLIENT_0022,Clearwater Bridal Boutique,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+leads.csv,Leads_21,Leads,Romero Law,romero law,info@romerolaw.com,CLIENT_0112,Romero Law,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+leads.csv,Leads_22,Leads,Beacon Fit,beacon fit,jared@beaconfit.co,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+leads.csv,Leads_23,Leads,Harbor Physical Therapy,harbor physical therapy,lpatel@harborptdallas.com,CLIENT_0057,Harbor Physical Therapy,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+leads.csv,Leads_24,Leads,Ibarra Insurance,ibarra insurance,nadia@ibarrainsurance.com,CLIENT_0061,Ibarra Insurance,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_25,Leads,Torres Tax Services,torres tax services,andre@torrestaxservices.com,CLIENT_0136,Torres Tax Services,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+leads.csv,Leads_27,Leads,Stonebridge,stonebridge,aisha@stonebridgemedspa.com,CLIENT_0118,Stonebridge,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+leads.csv,Leads_28,Leads,Granite Barbershop,granite barbershop,quinn@granitebarbers.com,CLIENT_0050,Granite Barbers,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+leads.csv,Leads_30,Leads,Fischer Pet Grooming,fischer pet grooming,sam@fischerpetgrooming.com,CLIENT_0043,Fischer Pet Grooming,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_32,Leads,Haddad Realty,haddad realty,hannah@haddadrealty.com,CLIENT_0056,Haddad Realty,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_34,Leads,Walsh Family Dentistry,walsh family dentistry,tony@walshfamilydentistry.com,CLIENT_0144,Walsh Family Dentistry,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_35,Leads,Walsh Insurance Group,walsh insurance group,reggie@walshinsures.com,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+leads.csv,Leads_37,Leads,Park Law Office,park law office,paul@parklawoffice.com,CLIENT_0102,Park Law Office,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_38,Leads,Leah Castillo,leah castillo,leah@lonestarrealty.com,CLIENT_0075,Leah Castillo,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+leads.csv,Leads_39,Leads,Meridian Dental,meridian dental,hello@meridiandental.com,CLIENT_0091,Meridian Dental,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+leads.csv,Leads_40,Leads,Kim Pediatrics,kim pediatrics,joy@kimpediatrics.com,CLIENT_0071,Kim Pediatrics,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_41,Leads,Becker Dental Care,becker dental care,femi@beckerdentalcare.com,CLIENT_0006,Becker Dental Care,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_42,Leads,Ochoa Pediatrics,ochoa pediatrics,alan@ochoapediatrics.com,CLIENT_0100,Ochoa Pediatrics,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_43,Leads,Moore Tax Services,moore tax services,hannah@mooretaxservices.com,CLIENT_0095,Moore Tax Services,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+leads.csv,Leads_44,Leads,Westlake Pediatrics,westlake pediatrics,ddelgado@westlakepeds.com,CLIENT_0149,Westlake Pediatrics,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+leads.csv,Leads_45,Leads,Daniels Landscaping,daniels landscaping,tanya@danielslandscaping.com,CLIENT_0027,Daniels Landscaping,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_46,Leads,Brightline Marketing,brightline marketing,nina@brightlinemktg.com,CLIENT_0010,Brightline Marketing,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+leads.csv,Leads_48,Leads,Torres Dental,torres dental,office@torresdental.com,CLIENT_0129,Torres Dental,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+leads.csv,Leads_51,Leads,Fischer Chiropractic,fischer chiropractic,quinn@fischerchiropractic.com,CLIENT_0041,Fischer Chiropractic,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_52,Leads,Torres Family Law,torres family law,ttorres@torresfamilylaw.com,CLIENT_0131,Torres Family Law,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+leads.csv,Leads_53,Leads,Redbird Coffee Roasters,redbird coffee roasters,joy@redbirdcoffee.com,CLIENT_0108,Redbird Coffee Roasters,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+leads.csv,Leads_54,Leads,Vega Salon,vega salon,megan@vegasalon.com,CLIENT_0143,Vega Salon,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_56,Leads,Vega Coffee,vega coffee,david@vegacoffee.com,CLIENT_0142,Vega Coffee,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_57,Leads,Moore Auto Group,moore auto group,reggie@mooreautogroup.com,CLIENT_0094,Moore Auto Group,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_58,Leads,Mendez Pediatrics,mendez pediatrics,lucia@mendezpediatrics.com,CLIENT_0090,Mendez Pediatrics,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_59,Leads,Cypress Physical Therapy,cypress physical therapy,anovak@cypressptdallas.com,CLIENT_0024,Cypress Physical Therapy,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+leads.csv,Leads_60,Leads,Ortiz HVAC,ortiz hvac,carlos@ortizhvac.com,CLIENT_0101,Ortiz HVAC,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_61,Leads,Glow Gym,glow gym,derek@glowgym.co,CLIENT_0047,Glow Gym,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+leads.csv,Leads_62,Leads,Brightwater Family Therapy,brightwater family therapy,mreed@brightwaterfamilytherapy.com,CLIENT_0013,Brightwater Family Therapy,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+leads.csv,Leads_63,Leads,The Sage Lab,the sage lab,kim@thesagelab.coffee,CLIENT_0126,The Sage Lab,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+leads.csv,Leads_64,Leads,Whitfield HVAC,whitfield hvac,sofia@whitfieldhvac.com,CLIENT_0151,Whitfield HVAC,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_65,Leads,Torres's Auto,torres s auto,derek@torressautospa.com,CLIENT_0135,Torres's Auto Spa,Human verified duplicate business; original source name retained,VERIFIED_MERGE
+leads.csv,Leads_66,Leads,Mendez Chiropractic,mendez chiropractic,femi@mendezchiropractic.com,CLIENT_0088,Mendez Chiropractic,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_67,Leads,Grant Yoga Studio,grant yoga studio,jordan@grantyogastudio.com,CLIENT_0053,Grant Yoga Studio,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_68,Leads,Castillo Roofing,castillo roofing,derek@castilloroofing.com,CLIENT_0019,Castillo Roofing,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_69,Leads,Northpoint Roofing Co,northpoint roofing co,jared@northpointroofingco.com,CLIENT_0097,Northpoint Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+leads.csv,Leads_70,Leads,Vega Bakery,vega bakery,ben@vegabakery.com,CLIENT_0141,Vega Bakery,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_71,Leads,Nguyen Med Spa,nguyen med spa,ethan@nguyenmedspa.com,CLIENT_0096,Nguyen Med Spa,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_72,Leads,Fischer Pet Grooming,fischer pet grooming,quinn@fischerpetgrooming.com,CLIENT_0043,Fischer Pet Grooming,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_73,Leads,Khan Pet Grooming,khan pet grooming,megan@khanpetgrooming.com,CLIENT_0070,Khan Pet Grooming,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_74,Leads,Magnolia Med Spa - Frisco,magnolia med spa frisco,frisco@magnoliamedspa.com,CLIENT_0085,Magnolia Med Spa - Frisco,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_75,Leads,Shah Tax Services,shah tax services,victor@shahtaxservices.com,CLIENT_0117,Shah Tax Services,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_77,Leads,Lonestar RG,lonestar rg,derek@lonestarrg.com,CLIENT_0080,Lonestar RG,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+leads.csv,Leads_78,Leads,Glow Athletics,glow athletics,derek@glowathletics.com,CLIENT_0046,Glow Athletics,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+leads.csv,Leads_79,Leads,Green Insurance,green insurance,raj@greeninsurance.com,CLIENT_0054,Green Insurance,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_80,Leads,Carter Yoga Studio,carter yoga studio,simone@carteryogastudio.com,CLIENT_0017,Carter Yoga Studio,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_83,Leads,Mendez Law Office,mendez law office,paula@mendezlawoffice.com,CLIENT_0089,Mendez Law Office,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_84,Leads,Fischer Law Office,fischer law office,dana@fischerlawoffice.com,CLIENT_0042,Fischer Law Office,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_85,Leads,Bennett Auto Group,bennett auto group,nina@bennettautogroup.com,CLIENT_0008,Bennett Auto Group,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_86,Leads,Park's Auto,park s auto,david@parksautospa.com,CLIENT_0104,Park's Auto Spa,Human verified duplicate business; original source name retained,VERIFIED_MERGE
+leads.csv,Leads_87,Leads,Joy Ramirez,joy ramirez,joy@tlchomecare.com,CLIENT_0066,Joy Ramirez,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+leads.csv,Leads_90,Leads,Zamora Salon,zamora salon,nina@zamorasalon.com,CLIENT_0155,Zamora Salon,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_91,Leads,Tran Med Spa,tran med spa,carlos@tranmedspa.com,CLIENT_0138,Tran Med Spa,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+leads.csv,Leads_94,Leads,Chen Family Dentistry,chen family dentistry,trent@chenfamilydentistry.com,CLIENT_0020,Chen Family Dentistry,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_96,Leads,Becker Insurance,becker insurance,paul@beckerinsurance.com,CLIENT_0007,Becker Insurance,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_97,Leads,Cole Fitness,cole fitness,wes@colefitness.com,CLIENT_0023,Cole Fitness,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_98,Leads,Ibarra Family Dentistry,ibarra family dentistry,darnell@ibarrafamilydentistry.com,CLIENT_0060,Ibarra Family Dentistry,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_99,Leads,Romero Law Firm,romero law firm,alana@romerolaw.com,CLIENT_0113,Romero Law Firm,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+leads.csv,Leads_100,Leads,Castillo Auto Group,castillo auto group,hector@castilloautogroup.com,CLIENT_0018,Castillo Auto Group,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_101,Leads,Whitfield Roofing,whitfield roofing,jen@whitfieldroofing.com,CLIENT_0152,Whitfield Roofing,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+leads.csv,Leads_102,Leads,Lopez Landscaping,lopez landscaping,sofia@lopezlandscaping.com,CLIENT_0081,Lopez Landscaping,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+payments.csv,Payments_2,Payments,CARLOS ROMERO,carlos romero,media@lakesidedfw.org,CLIENT_0016,CARLOS ROMERO,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_3,Payments,LAKESIDE CHURCH,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_4,Payments,FAITH & FIRE PODCAST,faith and fire podcast,leah@faithandfire.fm,CLIENT_0040,Faith & Fire Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_5,Payments,Faith & Fire Podcast,faith and fire podcast,leah@faithandfire.fm,CLIENT_0040,Faith & Fire Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_6,Payments,METROPLEX MAKERS PODCAST,metroplex makers podcast,imran@metroplexmakers.fm,CLIENT_0093,Metroplex Makers Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_7,Payments,Sunset Wealth,sunset wealth,kbecker@sunsetwp.com,CLIENT_0123,Sunset Wealth,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_8,Payments,Apex Roofing Co,apex roofing co,greg@apexroofingco.com,CLIENT_0001,Apex Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+payments.csv,Payments_9,Payments,YASMIN TORRES,yasmin torres,office@torresdental.com,CLIENT_0129,Torres Dental,Verified business/contact relationship; original source name retained,VERIFIED_RELATIONSHIP
+payments.csv,Payments_10,Payments,LAKESIDE DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_11,Payments,WES ORTIZ,wes ortiz,wes@elevate.build,CLIENT_0148,WES ORTIZ,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_12,Payments,Magnolia Med Spa - Frisco,magnolia med spa frisco,kelsey@magnoliamedspa.com,CLIENT_0085,Magnolia Med Spa - Frisco,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_13,Payments,ROMERO LAW FIRM,romero law firm,info@romerolaw.com,CLIENT_0113,Romero Law Firm,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+payments.csv,Payments_14,Payments,METROPLEX MAKERS PODCAST,metroplex makers podcast,imran@metroplexmakers.fm,CLIENT_0093,Metroplex Makers Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_15,Payments,Sunset WP,sunset wp,kbecker@sunsetwp.com,CLIENT_0125,Sunset WP,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_16,Payments,Faith and Fire,faith and fire,leah@faithandfire.fm,CLIENT_0039,Faith & Fire,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_17,Payments,Lakeside Church,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_18,Payments,CLEARWATER BRIDAL,clearwater bridal,grace@clearwaterbridal.com,CLIENT_0021,Clearwater Bridal,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_19,Payments,FAITH & FIRE PODCAST,faith and fire podcast,leah@faithandfire.fm,CLIENT_0040,Faith & Fire Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_20,Payments,BEACON,beacon,jared@beaconfit.co,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+payments.csv,Payments_21,Payments,Lakeside Media Team,lakeside media team,media@lakesidedfw.org,CLIENT_0074,Lakeside Media Team,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_22,Payments,Faith & Fire Podcast,faith and fire podcast,leah@faithandfire.fm,CLIENT_0040,Faith & Fire Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_23,Payments,Clearwater Bridal Boutique,clearwater bridal boutique,grace@clearwaterbridal.com,CLIENT_0022,Clearwater Bridal Boutique,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_24,Payments,QUINN KHAN,quinn khan,quinn@granitebarbers.com,CLIENT_0106,Quinn Khan,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_25,Payments,APEX ROOFING CO,apex roofing co,greg@apexroofingco.com,CLIENT_0001,Apex Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+payments.csv,Payments_26,Payments,Lakeside Church,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_27,Payments,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_28,Payments,HARBOR PHYSICAL THERAPY,harbor physical therapy,lpatel@harborptdallas.com,CLIENT_0057,Harbor Physical Therapy,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_29,Payments,ROMERO LAW FIRM,romero law firm,info@romerolaw.com,CLIENT_0113,Romero Law Firm,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+payments.csv,Payments_30,Payments,STONEBRIDGE MEDSPA,stonebridge medspa,aisha@stonebridgemedspa.com,CLIENT_0119,Stonebridge Med Spa,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+payments.csv,Payments_31,Payments,Imran Becker,imran becker,imran@metroplexmakers.fm,CLIENT_0062,Imran Becker,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_32,Payments,Walsh Ins,walsh ins,reggie@walshinsures.com,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+payments.csv,Payments_33,Payments,Metroplex Makers,metroplex makers,imran@metroplexmakers.fm,CLIENT_0092,Metroplex Makers,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_34,Payments,KELSEY CASTILLO,kelsey castillo,hello@meridiandental.com,CLIENT_0091,Meridian Dental,Verified business/contact relationship; original source name retained,VERIFIED_RELATIONSHIP
+payments.csv,Payments_35,Payments,Leah Moore,leah moore,leah@faithandfire.fm,CLIENT_0076,Leah Moore,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_36,Payments,TORRES DENTAL,torres dental,office@torresdental.com,CLIENT_0129,Torres Dental,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_37,Payments,F&F Podcast,f and f podcast,leah@faithandfire.fm,CLIENT_0038,F&F Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_38,Payments,LAKESIDE CHURCH,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_39,Payments,Elevate Builders LLC,elevate builders llc,wes@elevate.build,CLIENT_0036,Elevate Builders,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+payments.csv,Payments_40,Payments,TORRES LAW,torres law,ttorres@torresfamilylaw.com,CLIENT_0133,Torres Law,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_41,Payments,STONEBRIDGE MEDSPA,stonebridge medspa,aisha@stonebridgemedspa.com,CLIENT_0119,Stonebridge Med Spa,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+payments.csv,Payments_42,Payments,Magnolia Med Spa - Plano,magnolia med spa plano,kelsey@magnoliamedspa.com,CLIENT_0086,Magnolia Med Spa - Plano,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_43,Payments,Stonebridge Med Spa - Plano,stonebridge med spa plano,aisha@stonebridgemedspa.com,CLIENT_0121,Stonebridge Med Spa - Plano,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+payments.csv,Payments_44,Payments,Sunset WP,sunset wp,kbecker@sunsetwp.com,CLIENT_0125,Sunset WP,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_45,Payments,Lakeside Church,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_46,Payments,LEAH CASTILLO,leah castillo,leah@lonestarrealty.com,CLIENT_0075,Leah Castillo,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_47,Payments,METROPLEX MAKERS,metroplex makers,imran@metroplexmakers.fm,CLIENT_0092,Metroplex Makers,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_48,Payments,Lakeside Church,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_49,Payments,Leah Moore,leah moore,leah@faithandfire.fm,CLIENT_0076,Leah Moore,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_50,Payments,Leah Moore,leah moore,leah@faithandfire.fm,CLIENT_0076,Leah Moore,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_51,Payments,GRACE GREEN,grace green,grace@clearwaterbridal.com,CLIENT_0049,Grace Green,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_52,Payments,LAKESIDE DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_53,Payments,Romero,romero,info@romerolaw.com,CLIENT_0111,Romero,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_54,Payments,GRANITE BARBERS,granite barbers,quinn@granitebarbers.com,CLIENT_0050,Granite Barbers,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+payments.csv,Payments_55,Payments,GREG PARK,greg park,greg@apexroofingco.com,CLIENT_0055,Greg Park,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_56,Payments,METROPLEX MAKERS,metroplex makers,imran@metroplexmakers.fm,CLIENT_0092,Metroplex Makers,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_57,Payments,BRIGHTLINE MARKETING LLC,brightline marketing llc,nina@brightlinemktg.com,CLIENT_0010,Brightline Marketing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+payments.csv,Payments_58,Payments,BEACON FITNESS,beacon fitness,jared@beaconfit.co,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+payments.csv,Payments_59,Payments,WALSH INSURANCE GROUP,walsh insurance group,reggie@walshinsures.com,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+payments.csv,Payments_60,Payments,HARBOR PT,harbor pt,lpatel@harborptdallas.com,CLIENT_0058,Harbor PT,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_61,Payments,Sunset Wealth Partners,sunset wealth partners,kbecker@sunsetwp.com,CLIENT_0124,Sunset Wealth Partners,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_62,Payments,GLOW,glow,derek@glowgym.co,CLIENT_0045,Glow,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_63,Payments,STONEBRIDGE MED SPA,stonebridge med spa,aisha@stonebridgemedspa.com,CLIENT_0119,Stonebridge Med Spa,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+payments.csv,Payments_64,Payments,Torres Family Law,torres family law,ttorres@torresfamilylaw.com,CLIENT_0131,Torres Family Law,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+payments.csv,Payments_65,Payments,Brightwater Therapy,brightwater therapy,mreed@brightwaterfamilytherapy.com,CLIENT_0014,Brightwater Therapy,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_66,Payments,Sagelab Coffee,sagelab coffee,kim@thesagelab.coffee,CLIENT_0116,Sagelab Coffee,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_67,Payments,METROPLEX MAKERS,metroplex makers,imran@metroplexmakers.fm,CLIENT_0092,Metroplex Makers,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_68,Payments,Magnolia Med Spa - Frisco,magnolia med spa frisco,kelsey@magnoliamedspa.com,CLIENT_0085,Magnolia Med Spa - Frisco,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_69,Payments,Torress Auto,torress auto,derek@torressautospa.com,CLIENT_0135,Torres's Auto Spa,Human verified duplicate business; original source name retained,VERIFIED_MERGE
+payments.csv,Payments_70,Payments,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_71,Payments,Lone Star Realty LLC,lone star realty llc,leah@lonestarrealty.com,CLIENT_0077,Lone Star Realty,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+payments.csv,Payments_72,Payments,Redbird Coffee,redbird coffee,joy@redbirdcoffee.com,CLIENT_0107,Redbird Coffee,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_73,Payments,Clearwater Bridal Boutique,clearwater bridal boutique,grace@clearwaterbridal.com,CLIENT_0022,Clearwater Bridal Boutique,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_74,Payments,APEX ROOFING,apex roofing,greg@apexroofingco.com,CLIENT_0001,Apex Roofing,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+payments.csv,Payments_75,Payments,Lakeside Church,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_76,Payments,YASMIN TORRES,yasmin torres,office@torresdental.com,CLIENT_0129,Torres Dental,Verified business/contact relationship; original source name retained,VERIFIED_RELATIONSHIP
+payments.csv,Payments_77,Payments,ELEVATE BUILDERS LLC,elevate builders llc,wes@elevate.build,CLIENT_0036,Elevate Builders,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+payments.csv,Payments_78,Payments,LEAH MOORE,leah moore,,CLIENT_0076,Leah Moore,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+payments.csv,Payments_79,Payments,BRIGHTLINE MARKETING LLC,brightline marketing llc,nina@brightlinemktg.com,CLIENT_0010,Brightline Marketing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+payments.csv,Payments_80,Payments,LUIS PATEL,luis patel,lpatel@harborptdallas.com,CLIENT_0082,LUIS PATEL,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_81,Payments,Meridian Dental,meridian dental,hello@meridiandental.com,CLIENT_0091,Meridian Dental,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_82,Payments,Lakeside Media Team,lakeside media team,media@lakesidedfw.org,CLIENT_0074,Lakeside Media Team,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_83,Payments,Walsh Insurance Group,walsh insurance group,reggie@walshinsures.com,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+payments.csv,Payments_84,Payments,BEACON,beacon,jared@beaconfit.co,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+payments.csv,Payments_85,Payments,Romero,romero,info@romerolaw.com,CLIENT_0111,Romero,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_86,Payments,Faith and Fire,faith and fire,leah@faithandfire.fm,CLIENT_0039,Faith & Fire,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_87,Payments,Metroplex Makers,metroplex makers,imran@metroplexmakers.fm,CLIENT_0092,Metroplex Makers,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_88,Payments,Quinn Khan,quinn khan,quinn@granitebarbers.com,CLIENT_0106,Quinn Khan,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_89,Payments,BEACON,beacon,jared@beaconfit.co,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+payments.csv,Payments_90,Payments,GLOW,glow,derek@glowathletics.com,CLIENT_0045,Glow,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_91,Payments,Stonebridge Med Spa - Plano,stonebridge med spa plano,aisha@stonebridgemedspa.com,CLIENT_0121,Stonebridge Med Spa - Plano,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+payments.csv,Payments_92,Payments,Lakeside Church,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_93,Payments,FAITH & FIRE PODCAST,faith and fire podcast,leah@faithandfire.fm,CLIENT_0040,Faith & Fire Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_94,Payments,Jared Whitfield,jared whitfield,jared@northpointroofingco.com,CLIENT_0065,Jared Whitfield,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_95,Payments,Imran Becker,imran becker,imran@metroplexmakers.fm,CLIENT_0062,Imran Becker,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_96,Payments,LAKESIDE CHURCH,lakeside church,media@lakesidedfw.org,CLIENT_0072,Lakeside Church,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_97,Payments,Redbird Coffee Roasters,redbird coffee roasters,joy@redbirdcoffee.com,CLIENT_0108,Redbird Coffee Roasters,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_98,Payments,HARBOR PT,harbor pt,lpatel@harborptdallas.com,CLIENT_0058,Harbor PT,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_99,Payments,Apex Roofing,apex roofing,greg@apexroofingco.com,CLIENT_0001,Apex Roofing,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_BOTH
+payments.csv,Payments_100,Payments,BRIGHTLINE MARKETING LLC,brightline marketing llc,nina@brightlinemktg.com,CLIENT_0010,Brightline Marketing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+payments.csv,Payments_101,Payments,CARLOS ROMERO,carlos romero,media@lakesidedfw.org,CLIENT_0016,CARLOS ROMERO,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_102,Payments,Torres's Auto Spa,torres s auto spa,derek@torressautospa.com,CLIENT_0135,Torres's Auto Spa,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_103,Payments,Walsh Ins,walsh ins,reggie@walshinsures.com,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+payments.csv,Payments_104,Payments,Lakeside DFW,lakeside dfw,media@lakesidedfw.org,CLIENT_0073,Lakeside DFW,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_105,Payments,Imran Becker,imran becker,imran@metroplexmakers.fm,CLIENT_0062,Imran Becker,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_106,Payments,Faith and Fire,faith and fire,leah@faithandfire.fm,CLIENT_0039,Faith & Fire,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_107,Payments,Magnolia Med Spa - Frisco,magnolia med spa frisco,kelsey@magnoliamedspa.com,CLIENT_0085,Magnolia Med Spa - Frisco,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_108,Payments,FAITH & FIRE PODCAST,faith and fire podcast,leah@faithandfire.fm,CLIENT_0040,Faith & Fire Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_109,Payments,LEAH MOORE,leah moore,leah@faithandfire.fm,CLIENT_0076,Leah Moore,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_110,Payments,QUINN KHAN,quinn khan,quinn@granitebarbers.com,CLIENT_0106,Quinn Khan,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_111,Payments,Lone Star Realty LLC,lone star realty llc,leah@lonestarrealty.com,CLIENT_0077,Lone Star Realty,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+payments.csv,Payments_112,Payments,Redbird Coffee Roasters,redbird coffee roasters,joy@redbirdcoffee.com,CLIENT_0108,Redbird Coffee Roasters,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_113,Payments,Beacon,beacon,jared@beaconfit.co,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+payments.csv,Payments_114,Payments,Parks Auto,parks auto,david@parksautospa.com,CLIENT_0104,Park's Auto Spa,Human verified duplicate business; original source name retained,VERIFIED_MERGE
+payments.csv,Payments_115,Payments,Leah Castillo,leah castillo,leah@lonestarrealty.com,CLIENT_0075,Leah Castillo,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_116,Payments,Lakeside Media Team,lakeside media team,media@lakesidedfw.org,CLIENT_0074,Lakeside Media Team,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_117,Payments,JARED WHITFIELD,jared whitfield,,CLIENT_0065,Jared Whitfield,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+payments.csv,Payments_118,Payments,Stonebridge Med Spa - Frisco,stonebridge med spa frisco,aisha@stonebridgemedspa.com,CLIENT_0120,Stonebridge Med Spa - Frisco,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_119,Payments,Faith & Fire Podcast,faith and fire podcast,leah@faithandfire.fm,CLIENT_0040,Faith & Fire Podcast,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_SHARED_EMAIL
+payments.csv,Payments_120,Payments,BRIGHTLINE MARKETING LLC,brightline marketing llc,nina@brightlinemktg.com,CLIENT_0010,Brightline Marketing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_2,Production,Dr Torres,dr torres,,CLIENT_0032,Dr Torres,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_3,Production,Dr. Yasmin Torres,dr yasmin torres,,CLIENT_0129,Torres Dental,Verified business/contact relationship; original source name retained,VERIFIED_RELATIONSHIP
+production_board.csv,Production_4,Production,Dr. Yasmin Torres,dr yasmin torres,,CLIENT_0129,Torres Dental,Verified business/contact relationship; original source name retained,VERIFIED_RELATIONSHIP
+production_board.csv,Production_5,Production,Torres Dental,torres dental,,CLIENT_0129,Torres Dental,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_6,Production,Apex Roofing,apex roofing,,CLIENT_0001,Apex Roofing,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_7,Production,Apex Roofing,apex roofing,,CLIENT_0001,Apex Roofing,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_8,Production,Apex Roofing,apex roofing,,CLIENT_0001,Apex Roofing,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_9,Production,Elevate Builders LLC,elevate builders llc,,CLIENT_0036,Elevate Builders,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_10,Production,Elevate Builders,elevate builders,,CLIENT_0036,Elevate Builders,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_11,Production,Elevate & Co Builders,elevate and co builders,,CLIENT_0036,Elevate Builders,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_12,Production,Elevate Builders,elevate builders,,CLIENT_0036,Elevate Builders,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_13,Production,Magnolia,magnolia,,CLIENT_0083,Magnolia,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_14,Production,Magnolia Med Spa - Frisco,magnolia med spa frisco,,CLIENT_0085,Magnolia Med Spa - Frisco,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_15,Production,Magnolia Med Spa - Frisco,magnolia med spa frisco,,CLIENT_0085,Magnolia Med Spa - Frisco,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_16,Production,Magnolia,magnolia,,CLIENT_0083,Magnolia,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_17,Production,Clearwater Bridal Boutique,clearwater bridal boutique,,CLIENT_0022,Clearwater Bridal Boutique,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_18,Production,Clearwater Bridal,clearwater bridal,,CLIENT_0021,Clearwater Bridal,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_19,Production,Grace Green,grace green,,CLIENT_0049,Grace Green,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_20,Production,Sunset WP,sunset wp,,CLIENT_0125,Sunset WP,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_21,Production,Sunset Wealth,sunset wealth,,CLIENT_0123,Sunset Wealth,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_22,Production,Sunset Wealth Partners,sunset wealth partners,,CLIENT_0124,Sunset Wealth Partners,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_23,Production,Sunset Wealth,sunset wealth,,CLIENT_0123,Sunset Wealth,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_24,Production,Romero Law,romero law,,CLIENT_0112,Romero Law,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_25,Production,Romero Law Firm,romero law firm,,CLIENT_0113,Romero Law Firm,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_26,Production,Romero,romero,,CLIENT_0111,Romero,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_27,Production,Romero Law Firm,romero law firm,,CLIENT_0113,Romero Law Firm,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_28,Production,Sunset Wealth,sunset wealth,,CLIENT_0123,Sunset Wealth,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_29,Production,Sunset Wealth Partners,sunset wealth partners,,CLIENT_0124,Sunset Wealth Partners,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_30,Production,Sunset Wealth,sunset wealth,,CLIENT_0123,Sunset Wealth,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_31,Production,Sunset WP,sunset wp,,CLIENT_0125,Sunset WP,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_32,Production,Beacon,beacon,,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_33,Production,Jared Mendez,jared mendez,,CLIENT_0064,Jared Mendez,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_34,Production,Jared Mendez,jared mendez,,CLIENT_0064,Jared Mendez,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_35,Production,Harbor Physical Therapy,harbor physical therapy,,CLIENT_0057,Harbor Physical Therapy,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_36,Production,Harbor PT Dallas,harbor pt dallas,,CLIENT_0059,Harbor PT Dallas,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_37,Production,Harbor PT Dallas,harbor pt dallas,,CLIENT_0059,Harbor PT Dallas,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_38,Production,Harbor Physical Therapy,harbor physical therapy,,CLIENT_0057,Harbor Physical Therapy,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_39,Production,Stonebridge,stonebridge,,CLIENT_0118,Stonebridge,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_40,Production,Stonebridge Medspa,stonebridge medspa,,CLIENT_0119,Stonebridge Med Spa,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_41,Production,Stonebridge Medspa,stonebridge medspa,,CLIENT_0119,Stonebridge Med Spa,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_42,Production,Apex Roofing Co,apex roofing co,,CLIENT_0001,Apex Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_43,Production,Apex Roofing,apex roofing,,CLIENT_0001,Apex Roofing,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_44,Production,Apex Roofing Co,apex roofing co,,CLIENT_0001,Apex Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_45,Production,Grace Green,grace green,,CLIENT_0049,Grace Green,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_46,Production,Clearwater Bridal Boutique,clearwater bridal boutique,,CLIENT_0022,Clearwater Bridal Boutique,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_47,Production,Grace Green,grace green,,CLIENT_0049,Grace Green,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_48,Production,Granite Barbers,granite barbers,,CLIENT_0050,Granite Barbers,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_49,Production,Quinn Khan,quinn khan,,CLIENT_0106,Quinn Khan,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_50,Production,Granite Barbers,granite barbers,,CLIENT_0050,Granite Barbers,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_51,Production,Lone Star Realty,lone star realty,,CLIENT_0077,Lone Star Realty,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_52,Production,Lone Star Realty,lone star realty,,CLIENT_0077,Lone Star Realty,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_53,Production,Lone Star Realty LLC,lone star realty llc,,CLIENT_0077,Lone Star Realty,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_54,Production,Lone Star Realty,lone star realty,,CLIENT_0077,Lone Star Realty,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_55,Production,Walsh Insurance Group,walsh insurance group,,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_56,Production,Walsh Insurance Group,walsh insurance group,,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_57,Production,Walsh Ins,walsh ins,,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_58,Production,Walsh Ins,walsh ins,,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_59,Production,Torres Dental PLLC,torres dental pllc,,CLIENT_0129,Torres Dental,Verified business/contact relationship; original source name retained,VERIFIED_RELATIONSHIP
+production_board.csv,Production_60,Production,Yasmin Torres DDS,yasmin torres dds,,CLIENT_0154,Yasmin Torres DDS,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_61,Production,Torres Dental PLLC,torres dental pllc,,CLIENT_0129,Torres Dental,Verified business/contact relationship; original source name retained,VERIFIED_RELATIONSHIP
+production_board.csv,Production_62,Production,Dr. Yasmin Torres,dr yasmin torres,,CLIENT_0129,Torres Dental,Verified business/contact relationship; original source name retained,VERIFIED_RELATIONSHIP
+production_board.csv,Production_63,Production,Magnolia Med Spa - Frisco,magnolia med spa frisco,,CLIENT_0085,Magnolia Med Spa - Frisco,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_64,Production,Magnolia,magnolia,,CLIENT_0083,Magnolia,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_65,Production,Magnolia,magnolia,,CLIENT_0083,Magnolia,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_66,Production,Magnolia Med Spa - Frisco,magnolia med spa frisco,,CLIENT_0085,Magnolia Med Spa - Frisco,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_67,Production,Kelsey Castillo DDS,kelsey castillo dds,,CLIENT_0091,Meridian Dental,Verified business/contact relationship; original source name retained,VERIFIED_RELATIONSHIP
+production_board.csv,Production_68,Production,Dr. Kelsey Castillo,dr kelsey castillo,,CLIENT_0091,Meridian Dental,Verified business/contact relationship; original source name retained,VERIFIED_RELATIONSHIP
+production_board.csv,Production_69,Production,Meridian Dental,meridian dental,,CLIENT_0091,Meridian Dental,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_70,Production,Meridian Dental,meridian dental,,CLIENT_0091,Meridian Dental,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_71,Production,Harbor Physical Therapy,harbor physical therapy,,CLIENT_0057,Harbor Physical Therapy,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_72,Production,Harbor PT,harbor pt,,CLIENT_0058,Harbor PT,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_73,Production,Harbor PT Dallas,harbor pt dallas,,CLIENT_0059,Harbor PT Dallas,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_74,Production,Harbor PT,harbor pt,,CLIENT_0058,Harbor PT,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_75,Production,Stonebridge,stonebridge,,CLIENT_0118,Stonebridge,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_76,Production,Stonebridge,stonebridge,,CLIENT_0118,Stonebridge,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_77,Production,Stonebridge Medspa,stonebridge medspa,,CLIENT_0119,Stonebridge Med Spa,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_78,Production,Reggie Walsh,reggie walsh,,CLIENT_0146,Walsh Insurance,Verified contact associated with Walsh Insurance; not a separate business,VERIFIED_RELATIONSHIP
+production_board.csv,Production_79,Production,Walsh Insurance,walsh insurance,,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_80,Production,Walsh Insurance,walsh insurance,,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_81,Production,Walsh Insurance Group,walsh insurance group,,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_82,Production,Torres Law,torres law,,CLIENT_0133,Torres Law,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_83,Production,Torres Family Law,torres family law,,CLIENT_0131,Torres Family Law,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_84,Production,Trent Torres,trent torres,,CLIENT_0140,Trent Torres,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_85,Production,Elevate & Co Builders,elevate and co builders,,CLIENT_0036,Elevate Builders,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_86,Production,Elevate Builders,elevate builders,,CLIENT_0036,Elevate Builders,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_87,Production,Elevate,elevate,,CLIENT_0036,Elevate Builders,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_88,Production,Elevate Builders,elevate builders,,CLIENT_0036,Elevate Builders,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_89,Production,Romero Law Firm,romero law firm,,CLIENT_0113,Romero Law Firm,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_90,Production,Romero Law,romero law,,CLIENT_0112,Romero Law,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_91,Production,Romero,romero,,CLIENT_0111,Romero,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_92,Production,Romero Law Firm PLLC,romero law firm pllc,,CLIENT_0113,Romero Law Firm,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_93,Production,Westlake Peds,westlake peds,,CLIENT_0150,Westlake Peds,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_94,Production,Westlake Peds,westlake peds,,CLIENT_0150,Westlake Peds,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_95,Production,Westlake Pediatrics,westlake pediatrics,,CLIENT_0149,Westlake Pediatrics,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_96,Production,Sunset Wealth,sunset wealth,,CLIENT_0123,Sunset Wealth,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_97,Production,Sunset Wealth,sunset wealth,,CLIENT_0123,Sunset Wealth,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_98,Production,Sunset WP,sunset wp,,CLIENT_0125,Sunset WP,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_99,Production,Sunset Wealth,sunset wealth,,CLIENT_0123,Sunset Wealth,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_100,Production,Grace Green,grace green,,CLIENT_0049,Grace Green,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_101,Production,Grace Green,grace green,,CLIENT_0049,Grace Green,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_102,Production,Clearwater Bridal,clearwater bridal,,CLIENT_0021,Clearwater Bridal,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_103,Production,Redbird Coffee,redbird coffee,,CLIENT_0107,Redbird Coffee,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_104,Production,Redbird Roasters,redbird roasters,,CLIENT_0109,Redbird Roasters,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_105,Production,Redbird Roasters,redbird roasters,,CLIENT_0109,Redbird Roasters,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_106,Production,Beacon Fit,beacon fit,,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_107,Production,Beacon Fitness,beacon fitness,,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_108,Production,Beacon,beacon,,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_109,Production,Greg Park,greg park,,CLIENT_0055,Greg Park,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_110,Production,Apex Roofing Co,apex roofing co,,CLIENT_0001,Apex Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_111,Production,Greg Park,greg park,,CLIENT_0055,Greg Park,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_112,Production,Granite Barbershop,granite barbershop,,CLIENT_0050,Granite Barbers,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_113,Production,Granite Barbershop,granite barbershop,,CLIENT_0050,Granite Barbers,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_114,Production,Quinn Khan,quinn khan,,CLIENT_0106,Quinn Khan,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_115,Production,Cypress Physical Therapy,cypress physical therapy,,CLIENT_0024,Cypress Physical Therapy,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_116,Production,Brightline - Cypress,brightline cypress,,CLIENT_0009,Brightline - Cypress,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_117,Production,Brightline - Cypress,brightline cypress,,CLIENT_0009,Brightline - Cypress,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_118,Production,Stonebridge,stonebridge,,CLIENT_0118,Stonebridge,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_119,Production,Stonebridge,stonebridge,,CLIENT_0118,Stonebridge,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_120,Production,Stonebridge Med Spa,stonebridge med spa,,CLIENT_0119,Stonebridge Med Spa,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_121,Production,Torres Law,torres law,,CLIENT_0133,Torres Law,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_122,Production,Torres Family Law PLLC,torres family law pllc,,CLIENT_0131,Torres Family Law,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_123,Production,Trent Torres,trent torres,,CLIENT_0140,Trent Torres,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_124,Production,Sunset Wealth Partners,sunset wealth partners,,CLIENT_0124,Sunset Wealth Partners,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_125,Production,Sunset Wealth Partners,sunset wealth partners,,CLIENT_0124,Sunset Wealth Partners,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_126,Production,Sunset Wealth,sunset wealth,,CLIENT_0123,Sunset Wealth,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_127,Production,Sunset WP,sunset wp,,CLIENT_0125,Sunset WP,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_128,Production,Derek Moore,derek moore,,CLIENT_0028,Derek Moore,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_129,Production,Glow Gym,glow gym,,CLIENT_0047,Glow Gym,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_130,Production,Glow Gym TX,glow gym tx,,CLIENT_0048,Glow Gym TX,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_131,Production,Reggie Walsh,reggie walsh,,CLIENT_0146,Walsh Insurance,Verified contact associated with Walsh Insurance; not a separate business,VERIFIED_RELATIONSHIP
+production_board.csv,Production_132,Production,Walsh Insurance,walsh insurance,,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_133,Production,Walsh Insurance Group,walsh insurance group,,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_134,Production,Walsh Insurance,walsh insurance,,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_135,Production,Romero,romero,,CLIENT_0111,Romero,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_136,Production,Romero Law,romero law,,CLIENT_0112,Romero Law,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_137,Production,Romero Law Firm PLLC,romero law firm pllc,,CLIENT_0113,Romero Law Firm,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_138,Production,Romero,romero,,CLIENT_0111,Romero,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_139,Production,Harbor PT,harbor pt,,CLIENT_0058,Harbor PT,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_140,Production,Harbor PT,harbor pt,,CLIENT_0058,Harbor PT,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_141,Production,Harbor PT,harbor pt,,CLIENT_0058,Harbor PT,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_142,Production,Harbor PT Dallas,harbor pt dallas,,CLIENT_0059,Harbor PT Dallas,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_143,Production,Redbird Coffee,redbird coffee,,CLIENT_0107,Redbird Coffee,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_144,Production,Redbird Coffee,redbird coffee,,CLIENT_0107,Redbird Coffee,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_145,Production,Redbird Coffee,redbird coffee,,CLIENT_0107,Redbird Coffee,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_146,Production,Sage Lab,sage lab,,CLIENT_0115,Sage Lab,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_147,Production,Sagelab Coffee,sagelab coffee,,CLIENT_0116,Sagelab Coffee,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_148,Production,Sagelab Coffee,sagelab coffee,,CLIENT_0116,Sagelab Coffee,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_149,Production,Brightwater Family Therapy,brightwater family therapy,,CLIENT_0013,Brightwater Family Therapy,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_150,Production,Dr. Mia Reed,dr mia reed,,CLIENT_0031,Dr. Mia Reed,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_151,Production,Dr. Mia Reed,dr mia reed,,CLIENT_0031,Dr. Mia Reed,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_152,Production,Dr. Mia Reed,dr mia reed,,CLIENT_0031,Dr. Mia Reed,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_153,Production,Torres's Auto Spa,torres s auto spa,,CLIENT_0135,Torres's Auto Spa,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_154,Production,Torress Auto,torress auto,,CLIENT_0135,Torres's Auto Spa,Human verified duplicate business; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_155,Production,Torres's Auto Spa,torres s auto spa,,CLIENT_0135,Torres's Auto Spa,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_156,Production,Magnolia Medspa,magnolia medspa,,CLIENT_0084,Magnolia Med Spa,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_157,Production,Magnolia Medspa,magnolia medspa,,CLIENT_0084,Magnolia Med Spa,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_158,Production,Magnolia Med Spa,magnolia med spa,,CLIENT_0084,Magnolia Med Spa,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_159,Production,Magnolia Med Spa,magnolia med spa,,CLIENT_0084,Magnolia Med Spa,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_160,Production,Beacon,beacon,,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_161,Production,Beacon,beacon,,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_162,Production,Beacon Fit,beacon fit,,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_163,Production,Westlake Peds,westlake peds,,CLIENT_0150,Westlake Peds,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_164,Production,Westlake Pediatrics,westlake pediatrics,,CLIENT_0149,Westlake Pediatrics,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_165,Production,Brightline - Westlake,brightline westlake,,CLIENT_0012,Brightline - Westlake,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_166,Production,Apex Roofing Co,apex roofing co,,CLIENT_0001,Apex Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_167,Production,Apex Roofing,apex roofing,,CLIENT_0001,Apex Roofing,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_168,Production,Apex Roofing,apex roofing,,CLIENT_0001,Apex Roofing,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_169,Production,Lone Star Realty,lone star realty,,CLIENT_0077,Lone Star Realty,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_170,Production,Lone Star Realty,lone star realty,,CLIENT_0077,Lone Star Realty,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_171,Production,Lone Star Realty LLC,lone star realty llc,,CLIENT_0077,Lone Star Realty,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_172,Production,Lone Star Realty LLC,lone star realty llc,,CLIENT_0077,Lone Star Realty,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_173,Production,Elevate Builders,elevate builders,,CLIENT_0036,Elevate Builders,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_174,Production,Elevate Builders LLC,elevate builders llc,,CLIENT_0036,Elevate Builders,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_175,Production,Elevate & Co Builders,elevate and co builders,,CLIENT_0036,Elevate Builders,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_176,Production,Elevate Builders LLC,elevate builders llc,,CLIENT_0036,Elevate Builders,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_177,Production,Clearwater Bridal Boutique,clearwater bridal boutique,,CLIENT_0022,Clearwater Bridal Boutique,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_178,Production,Clearwater Bridal,clearwater bridal,,CLIENT_0021,Clearwater Bridal,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_179,Production,Grace Green,grace green,,CLIENT_0049,Grace Green,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_180,Production,Dr Torres,dr torres,,CLIENT_0032,Dr Torres,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_181,Production,Torres Dental PLLC,torres dental pllc,,CLIENT_0129,Torres Dental,Verified business/contact relationship; original source name retained,VERIFIED_RELATIONSHIP
+production_board.csv,Production_182,Production,Dr. Yasmin Torres,dr yasmin torres,,CLIENT_0129,Torres Dental,Verified business/contact relationship; original source name retained,VERIFIED_RELATIONSHIP
+production_board.csv,Production_183,Production,Dr. Yasmin Torres,dr yasmin torres,,CLIENT_0129,Torres Dental,Verified business/contact relationship; original source name retained,VERIFIED_RELATIONSHIP
+production_board.csv,Production_184,Production,Cypress PT,cypress pt,,CLIENT_0025,Cypress PT,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_185,Production,Cypress PT,cypress pt,,CLIENT_0025,Cypress PT,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_186,Production,Brightline - Cypress,brightline cypress,,CLIENT_0009,Brightline - Cypress,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_187,Production,Meridian Dental,meridian dental,,CLIENT_0091,Meridian Dental,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_188,Production,Meridian Dental,meridian dental,,CLIENT_0091,Meridian Dental,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_189,Production,Meridian Dental,meridian dental,,CLIENT_0091,Meridian Dental,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_190,Production,Meridian Dental,meridian dental,,CLIENT_0091,Meridian Dental,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_191,Production,Northpoint Roofing Co,northpoint roofing co,,CLIENT_0097,Northpoint Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_192,Production,Northpoint Roofing Co,northpoint roofing co,,CLIENT_0097,Northpoint Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_193,Production,Jared Whitfield,jared whitfield,,CLIENT_0065,Jared Whitfield,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_194,Production,Quinn Khan,quinn khan,,CLIENT_0106,Quinn Khan,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_195,Production,Granite Barbers,granite barbers,,CLIENT_0050,Granite Barbers,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_196,Production,Quinn Khan,quinn khan,,CLIENT_0106,Quinn Khan,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_197,Production,Romero Law Firm,romero law firm,,CLIENT_0113,Romero Law Firm,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_198,Production,Romero Law Firm,romero law firm,,CLIENT_0113,Romero Law Firm,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_199,Production,Romero Law,romero law,,CLIENT_0112,Romero Law,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_200,Production,Romero Law Firm,romero law firm,,CLIENT_0113,Romero Law Firm,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_201,Production,Harbor Physical Therapy,harbor physical therapy,,CLIENT_0057,Harbor Physical Therapy,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_202,Production,Harbor PT,harbor pt,,CLIENT_0058,Harbor PT,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_203,Production,Harbor PT,harbor pt,,CLIENT_0058,Harbor PT,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_204,Production,Harbor Physical Therapy,harbor physical therapy,,CLIENT_0057,Harbor Physical Therapy,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_205,Production,Stonebridge Med Spa - Frisco,stonebridge med spa frisco,,CLIENT_0120,Stonebridge Med Spa - Frisco,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_206,Production,Stonebridge,stonebridge,,CLIENT_0118,Stonebridge,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_207,Production,Stonebridge,stonebridge,,CLIENT_0118,Stonebridge,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_208,Production,Walsh Ins,walsh ins,,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_209,Production,Walsh Insurance Group,walsh insurance group,,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_210,Production,Walsh Insurance Group,walsh insurance group,,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_211,Production,Walsh Insurance,walsh insurance,,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_212,Production,Jared Mendez,jared mendez,,CLIENT_0064,Jared Mendez,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_213,Production,Beacon,beacon,,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_214,Production,Jared Mendez,jared mendez,,CLIENT_0064,Jared Mendez,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_215,Production,Lonestar Realty Group,lonestar realty group,,CLIENT_0079,Lonestar Realty Group,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_216,Production,Derek Ramirez,derek ramirez,,CLIENT_0029,Derek Ramirez,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_217,Production,Lonestar RG,lonestar rg,,CLIENT_0080,Lonestar RG,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_218,Production,Lonestar RG,lonestar rg,,CLIENT_0080,Lonestar RG,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_219,Production,Trent Torres,trent torres,,CLIENT_0140,Trent Torres,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_220,Production,Torres Law,torres law,,CLIENT_0133,Torres Law,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_221,Production,Trent Torres,trent torres,,CLIENT_0140,Trent Torres,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_222,Production,The Sage Lab,the sage lab,,CLIENT_0126,The Sage Lab,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_223,Production,Sagelab Coffee,sagelab coffee,,CLIENT_0116,Sagelab Coffee,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_224,Production,Sagelab Coffee,sagelab coffee,,CLIENT_0116,Sagelab Coffee,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_225,Production,Glow,glow,,CLIENT_0045,Glow,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_226,Production,Glow Athletics,glow athletics,,CLIENT_0046,Glow Athletics,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_227,Production,Glow,glow,,CLIENT_0045,Glow,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_228,Production,Redbird Coffee Roasters,redbird coffee roasters,,CLIENT_0108,Redbird Coffee Roasters,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_229,Production,Redbird Coffee,redbird coffee,,CLIENT_0107,Redbird Coffee,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_230,Production,Redbird Coffee,redbird coffee,,CLIENT_0107,Redbird Coffee,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_231,Production,Torress Auto,torress auto,,CLIENT_0135,Torres's Auto Spa,Human verified duplicate business; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_232,Production,Torres's Auto,torres s auto,,CLIENT_0135,Torres's Auto Spa,Human verified duplicate business; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_233,Production,Torres's Auto,torres s auto,,CLIENT_0135,Torres's Auto Spa,Human verified duplicate business; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_234,Production,Brightwater Therapy,brightwater therapy,,CLIENT_0014,Brightwater Therapy,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_235,Production,Dr. Mia Reed,dr mia reed,,CLIENT_0031,Dr. Mia Reed,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_236,Production,Dr. Mia Reed,dr mia reed,,CLIENT_0031,Dr. Mia Reed,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_237,Production,Dr. Mia Reed,dr mia reed,,CLIENT_0031,Dr. Mia Reed,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_238,Production,Brightline - Westlake,brightline westlake,,CLIENT_0012,Brightline - Westlake,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_239,Production,Brightline - Westlake,brightline westlake,,CLIENT_0012,Brightline - Westlake,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_240,Production,Westlake Peds,westlake peds,,CLIENT_0150,Westlake Peds,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_241,Production,Magnolia Med Spa - Frisco,magnolia med spa frisco,,CLIENT_0085,Magnolia Med Spa - Frisco,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_242,Production,Magnolia Med Spa - Frisco,magnolia med spa frisco,,CLIENT_0085,Magnolia Med Spa - Frisco,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_243,Production,Magnolia Medspa,magnolia medspa,,CLIENT_0084,Magnolia Med Spa,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_244,Production,Magnolia Med Spa,magnolia med spa,,CLIENT_0084,Magnolia Med Spa,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_245,Production,Apex Roofing Co,apex roofing co,,CLIENT_0001,Apex Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_246,Production,Apex Roofing Co,apex roofing co,,CLIENT_0001,Apex Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_247,Production,Apex Roofing Co,apex roofing co,,CLIENT_0001,Apex Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_248,Production,Clearwater Bridal Boutique,clearwater bridal boutique,,CLIENT_0022,Clearwater Bridal Boutique,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_249,Production,Clearwater Bridal,clearwater bridal,,CLIENT_0021,Clearwater Bridal,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_250,Production,Clearwater Bridal Boutique,clearwater bridal boutique,,CLIENT_0022,Clearwater Bridal Boutique,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_251,Production,Park's Auto,park s auto,,CLIENT_0104,Park's Auto Spa,Human verified duplicate business; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_252,Production,Park's Auto,park s auto,,CLIENT_0104,Park's Auto Spa,Human verified duplicate business; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_253,Production,Parks Auto,parks auto,,CLIENT_0104,Park's Auto Spa,Human verified duplicate business; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_254,Production,TLC Home Care,tlc home care,,CLIENT_0127,TLC Home Care,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_255,Production,Joy Ramirez,joy ramirez,,CLIENT_0066,Joy Ramirez,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_256,Production,Joy Ramirez,joy ramirez,,CLIENT_0066,Joy Ramirez,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_257,Production,TLC Homecare,tlc homecare,,CLIENT_0127,TLC Home Care,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_258,Production,Romero,romero,,CLIENT_0111,Romero,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_259,Production,Romero,romero,,CLIENT_0111,Romero,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_260,Production,Romero,romero,,CLIENT_0111,Romero,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_261,Production,Romero Law Firm,romero law firm,,CLIENT_0113,Romero Law Firm,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_262,Production,Harbor PT Dallas,harbor pt dallas,,CLIENT_0059,Harbor PT Dallas,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_263,Production,Harbor PT Dallas,harbor pt dallas,,CLIENT_0059,Harbor PT Dallas,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_264,Production,Harbor PT Dallas,harbor pt dallas,,CLIENT_0059,Harbor PT Dallas,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_265,Production,Harbor PT,harbor pt,,CLIENT_0058,Harbor PT,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_266,Production,Walsh Ins,walsh ins,,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_267,Production,Walsh Insurance,walsh insurance,,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_268,Production,Walsh Insurance Group,walsh insurance group,,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_269,Production,Walsh Ins,walsh ins,,CLIENT_0146,Walsh Insurance,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_270,Production,Cypress PT,cypress pt,,CLIENT_0025,Cypress PT,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_271,Production,Brightline - Cypress,brightline cypress,,CLIENT_0009,Brightline - Cypress,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_272,Production,Cypress PT Dallas,cypress pt dallas,,CLIENT_0026,Cypress PT Dallas,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_273,Production,Northpoint Roofing,northpoint roofing,,CLIENT_0097,Northpoint Roofing,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_274,Production,Northpoint Roofing Co,northpoint roofing co,,CLIENT_0097,Northpoint Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_275,Production,Northpoint Roofing Co,northpoint roofing co,,CLIENT_0097,Northpoint Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_276,Production,Quinn Khan,quinn khan,,CLIENT_0106,Quinn Khan,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_277,Production,Granite Barbers,granite barbers,,CLIENT_0050,Granite Barbers,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_278,Production,Quinn Khan,quinn khan,,CLIENT_0106,Quinn Khan,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_279,Production,Lone Star Realty LLC,lone star realty llc,,CLIENT_0077,Lone Star Realty,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_280,Production,Lone Star Realty LLC,lone star realty llc,,CLIENT_0077,Lone Star Realty,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_281,Production,Leah Castillo,leah castillo,,CLIENT_0075,Leah Castillo,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_282,Production,Lone Star Realty LLC,lone star realty llc,,CLIENT_0077,Lone Star Realty,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_283,Production,Stonebridge,stonebridge,,CLIENT_0118,Stonebridge,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_284,Production,Stonebridge Med Spa,stonebridge med spa,,CLIENT_0119,Stonebridge Med Spa,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_285,Production,Stonebridge,stonebridge,,CLIENT_0118,Stonebridge,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_286,Production,Redbird Coffee,redbird coffee,,CLIENT_0107,Redbird Coffee,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_287,Production,Redbird Coffee,redbird coffee,,CLIENT_0107,Redbird Coffee,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_288,Production,Redbird Roasters,redbird roasters,,CLIENT_0109,Redbird Roasters,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_289,Production,Beacon Fit,beacon fit,,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_290,Production,Beacon,beacon,,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_291,Production,Beacon,beacon,,CLIENT_0005,Beacon Fitness,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_292,Production,Dr Torres,dr torres,,CLIENT_0032,Dr Torres,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_293,Production,Dr Torres,dr torres,,CLIENT_0032,Dr Torres,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_294,Production,Torres Dental PLLC,torres dental pllc,,CLIENT_0129,Torres Dental,Verified business/contact relationship; original source name retained,VERIFIED_RELATIONSHIP
+production_board.csv,Production_295,Production,Dr Torres,dr torres,,CLIENT_0032,Dr Torres,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_296,Production,Sage Lab,sage lab,,CLIENT_0115,Sage Lab,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_297,Production,The Sage Lab,the sage lab,,CLIENT_0126,The Sage Lab,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_298,Production,Sagelab Coffee,sagelab coffee,,CLIENT_0116,Sagelab Coffee,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_299,Production,Glow,glow,,CLIENT_0045,Glow,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_300,Production,Glow Athletics,glow athletics,,CLIENT_0046,Glow Athletics,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_301,Production,Glow Athletics,glow athletics,,CLIENT_0046,Glow Athletics,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_302,Production,Elevate Builders LLC,elevate builders llc,,CLIENT_0036,Elevate Builders,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_303,Production,Elevate Builders,elevate builders,,CLIENT_0036,Elevate Builders,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_304,Production,Elevate & Co Builders,elevate and co builders,,CLIENT_0036,Elevate Builders,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_305,Production,Elevate,elevate,,CLIENT_0036,Elevate Builders,Verified same business; shared email and cross-source evidence,VERIFIED_MERGE
+production_board.csv,Production_306,Production,Parks Auto,parks auto,,CLIENT_0104,Park's Auto Spa,Human verified duplicate business; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_307,Production,Park's Auto Spa,park s auto spa,,CLIENT_0104,Park's Auto Spa,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_308,Production,Park's Auto,park s auto,,CLIENT_0104,Park's Auto Spa,Human verified duplicate business; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_309,Production,Park's Auto,park s auto,,CLIENT_0104,Park's Auto Spa,Human verified duplicate business; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_310,Production,Torres Family Law,torres family law,,CLIENT_0131,Torres Family Law,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_311,Production,Torres Law,torres law,,CLIENT_0133,Torres Law,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_312,Production,Torres Law,torres law,,CLIENT_0133,Torres Law,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_313,Production,Greg Park,greg park,,CLIENT_0055,Greg Park,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_314,Production,Greg Park,greg park,,CLIENT_0055,Greg Park,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_315,Production,Apex Roofing Co,apex roofing co,,CLIENT_0001,Apex Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_316,Production,Torres's Auto Spa,torres s auto spa,,CLIENT_0135,Torres's Auto Spa,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_317,Production,Torres's Auto,torres s auto,,CLIENT_0135,Torres's Auto Spa,Human verified duplicate business; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_318,Production,Torress Auto,torress auto,,CLIENT_0135,Torres's Auto Spa,Human verified duplicate business; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_319,Production,Westlake Peds,westlake peds,,CLIENT_0150,Westlake Peds,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_320,Production,Westlake Pediatrics,westlake pediatrics,,CLIENT_0149,Westlake Pediatrics,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_321,Production,Westlake Pediatrics,westlake pediatrics,,CLIENT_0149,Westlake Pediatrics,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_322,Production,Meridian Dental,meridian dental,,CLIENT_0091,Meridian Dental,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_323,Production,Meridian Dental,meridian dental,,CLIENT_0091,Meridian Dental,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_324,Production,Meridian Dental,meridian dental,,CLIENT_0091,Meridian Dental,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_325,Production,Kelsey Castillo DDS,kelsey castillo dds,,CLIENT_0091,Meridian Dental,Verified business/contact relationship; original source name retained,VERIFIED_RELATIONSHIP
+production_board.csv,Production_326,Production,Lonestar RG,lonestar rg,,CLIENT_0080,Lonestar RG,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_327,Production,Lonestar RG,lonestar rg,,CLIENT_0080,Lonestar RG,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_328,Production,Lonestar Realty Group,lonestar realty group,,CLIENT_0079,Lonestar Realty Group,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_329,Production,Lonestar Realty Group,lonestar realty group,,CLIENT_0079,Lonestar Realty Group,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_330,Production,Dr. Mia Reed,dr mia reed,,CLIENT_0031,Dr. Mia Reed,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_331,Production,Brightwater Family Therapy,brightwater family therapy,,CLIENT_0013,Brightwater Family Therapy,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_332,Production,Dr. Mia Reed,dr mia reed,,CLIENT_0031,Dr. Mia Reed,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_333,Production,Dr. Mia Reed,dr mia reed,,CLIENT_0031,Dr. Mia Reed,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_334,Production,Northpoint Roofing Co,northpoint roofing co,,CLIENT_0097,Northpoint Roofing,Verified duplicate business name; original source name retained,VERIFIED_MERGE
+production_board.csv,Production_335,Production,Jared Whitfield,jared whitfield,,CLIENT_0065,Jared Whitfield,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_336,Production,Jared Whitfield,jared whitfield,,CLIENT_0065,Jared Whitfield,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_337,Production,Lone Star Realty,lone star realty,,CLIENT_0077,Lone Star Realty,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_338,Production,Lone Star Realty,lone star realty,,CLIENT_0077,Lone Star Realty,Exact normalized-name grouping only; not independently verified,REVIEW_REQUIRED_POSSIBLE_DUPLICATE
+production_board.csv,Production_339,Production,Leah Castillo,leah castillo,,CLIENT_0075,Leah Castillo,Exact normalized-name grouping only; not independently verified,PROVISIONAL
+production_board.csv,Production_340,Production,Lone Star Realty LLC,lone star realty llc,,CLIENT_0077,Lone Star Realty,Verified duplicate business name; original source name retained,VERIFIED_MERGE

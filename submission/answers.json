@@ -1,0 +1,2286 @@
+{
+  "pack_id": "165",
+  "your_name": "Noor Fatima",
+  "your_email": "noorf3531@gmail.com",
+  "live_link": "",
+  "video_link": "",
+  "code_or_files_link": "",
+  "client_count": 127,
+  "clients": [
+    {
+      "name": "Apex Roofing",
+      "other_names_used_in_the_data": [
+        "APEX ROOFING",
+        "APEX ROOFING CO",
+        "Apex Roofing",
+        "Apex Roofing Co"
+      ],
+      "emails": [
+        "greg@apexroofingco.com"
+      ],
+      "phones": [
+        "817-555-0134"
+      ]
+    },
+    {
+      "name": "Beacon Fitness",
+      "other_names_used_in_the_data": [
+        "BEACON",
+        "BEACON FITNESS",
+        "Beacon",
+        "Beacon Fit",
+        "Beacon Fitness"
+      ],
+      "emails": [
+        "jared@beaconfit.co"
+      ],
+      "phones": [
+        "214-555-0148"
+      ]
+    },
+    {
+      "name": "Becker Dental Care",
+      "other_names_used_in_the_data": [
+        "Becker Dental Care"
+      ],
+      "emails": [
+        "femi@beckerdentalcare.com"
+      ],
+      "phones": [
+        "214-555-0196"
+      ]
+    },
+    {
+      "name": "Becker Insurance",
+      "other_names_used_in_the_data": [
+        "Becker Insurance"
+      ],
+      "emails": [
+        "paul@beckerinsurance.com"
+      ],
+      "phones": [
+        "972-555-0129"
+      ]
+    },
+    {
+      "name": "Bennett Auto Group",
+      "other_names_used_in_the_data": [
+        "Bennett Auto Group"
+      ],
+      "emails": [
+        "nina@bennettautogroup.com"
+      ],
+      "phones": [
+        "817-555-0189"
+      ]
+    },
+    {
+      "name": "Brightline - Cypress",
+      "other_names_used_in_the_data": [
+        "Brightline - Cypress"
+      ],
+      "emails": [
+        "anovak@cypressptdallas.com",
+        "nina@brightlinemktg.com"
+      ],
+      "phones": [
+        "469-555-0104",
+        "469-555-0172"
+      ]
+    },
+    {
+      "name": "Brightline Marketing",
+      "other_names_used_in_the_data": [
+        "BRIGHTLINE MARKETING LLC",
+        "Brightline Marketing"
+      ],
+      "emails": [
+        "nina@brightlinemktg.com"
+      ],
+      "phones": [
+        "469-555-0172"
+      ]
+    },
+    {
+      "name": "Brightline - Westlake",
+      "other_names_used_in_the_data": [
+        "Brightline - Westlake"
+      ],
+      "emails": [],
+      "phones": []
+    },
+    {
+      "name": "Brightwater Family Therapy",
+      "other_names_used_in_the_data": [
+        "Brightwater Family Therapy"
+      ],
+      "emails": [
+        "mreed@brightwaterfamilytherapy.com"
+      ],
+      "phones": [
+        "972-555-0185"
+      ]
+    },
+    {
+      "name": "Brightwater Therapy",
+      "other_names_used_in_the_data": [
+        "Brightwater Therapy"
+      ],
+      "emails": [
+        "mreed@brightwaterfamilytherapy.com"
+      ],
+      "phones": [
+        "972-555-0185"
+      ]
+    },
+    {
+      "name": "Brooks Pediatrics",
+      "other_names_used_in_the_data": [
+        "Brooks Pediatrics"
+      ],
+      "emails": [
+        "carlos@brookspediatrics.com"
+      ],
+      "phones": [
+        "972-555-0182"
+      ]
+    },
+    {
+      "name": "CARLOS ROMERO",
+      "other_names_used_in_the_data": [
+        "CARLOS ROMERO"
+      ],
+      "emails": [
+        "media@lakesidedfw.org"
+      ],
+      "phones": [
+        "469-555-0176"
+      ]
+    },
+    {
+      "name": "Carter Yoga Studio",
+      "other_names_used_in_the_data": [
+        "Carter Yoga Studio"
+      ],
+      "emails": [
+        "simone@carteryogastudio.com"
+      ],
+      "phones": [
+        "214-555-0183"
+      ]
+    },
+    {
+      "name": "Castillo Auto Group",
+      "other_names_used_in_the_data": [
+        "Castillo Auto Group"
+      ],
+      "emails": [
+        "hector@castilloautogroup.com"
+      ],
+      "phones": [
+        "469-555-0195"
+      ]
+    },
+    {
+      "name": "Castillo Roofing",
+      "other_names_used_in_the_data": [
+        "Castillo Roofing"
+      ],
+      "emails": [
+        "derek@castilloroofing.com"
+      ],
+      "phones": [
+        "469-555-0153"
+      ]
+    },
+    {
+      "name": "Chen Family Dentistry",
+      "other_names_used_in_the_data": [
+        "Chen Family Dentistry"
+      ],
+      "emails": [
+        "trent@chenfamilydentistry.com"
+      ],
+      "phones": [
+        "972-555-0175"
+      ]
+    },
+    {
+      "name": "Clearwater Bridal",
+      "other_names_used_in_the_data": [
+        "CLEARWATER BRIDAL",
+        "Clearwater Bridal"
+      ],
+      "emails": [
+        "grace@clearwaterbridal.com"
+      ],
+      "phones": [
+        "972-555-0159"
+      ]
+    },
+    {
+      "name": "Clearwater Bridal Boutique",
+      "other_names_used_in_the_data": [
+        "Clearwater Bridal Boutique"
+      ],
+      "emails": [
+        "grace@clearwaterbridal.com"
+      ],
+      "phones": [
+        "972-555-0159"
+      ]
+    },
+    {
+      "name": "Cole Fitness",
+      "other_names_used_in_the_data": [
+        "Cole Fitness"
+      ],
+      "emails": [
+        "wes@colefitness.com"
+      ],
+      "phones": [
+        "469-555-0105"
+      ]
+    },
+    {
+      "name": "Cypress Physical Therapy",
+      "other_names_used_in_the_data": [
+        "Cypress Physical Therapy"
+      ],
+      "emails": [
+        "anovak@cypressptdallas.com"
+      ],
+      "phones": [
+        "469-555-0104"
+      ]
+    },
+    {
+      "name": "Cypress PT",
+      "other_names_used_in_the_data": [
+        "Cypress PT"
+      ],
+      "emails": [
+        "nina@brightlinemktg.com"
+      ],
+      "phones": [
+        "469-555-0172"
+      ]
+    },
+    {
+      "name": "Cypress PT Dallas",
+      "other_names_used_in_the_data": [
+        "Cypress PT Dallas"
+      ],
+      "emails": [
+        "nina@brightlinemktg.com"
+      ],
+      "phones": [
+        "469-555-0172"
+      ]
+    },
+    {
+      "name": "Daniels Landscaping",
+      "other_names_used_in_the_data": [
+        "Daniels Landscaping"
+      ],
+      "emails": [
+        "tanya@danielslandscaping.com"
+      ],
+      "phones": [
+        "214-555-0182"
+      ]
+    },
+    {
+      "name": "Derek Moore",
+      "other_names_used_in_the_data": [
+        "Derek Moore"
+      ],
+      "emails": [
+        "derek@glowgym.co"
+      ],
+      "phones": [
+        "469-555-0167"
+      ]
+    },
+    {
+      "name": "Derek Ramirez",
+      "other_names_used_in_the_data": [
+        "Derek Ramirez"
+      ],
+      "emails": [
+        "derek@lonestarrg.com"
+      ],
+      "phones": [
+        "817-555-0142"
+      ]
+    },
+    {
+      "name": "Dr. Mia Reed",
+      "other_names_used_in_the_data": [
+        "Dr. Mia Reed"
+      ],
+      "emails": [
+        "mreed@brightwaterfamilytherapy.com"
+      ],
+      "phones": [
+        "972-555-0185"
+      ]
+    },
+    {
+      "name": "Dr Torres",
+      "other_names_used_in_the_data": [
+        "Dr Torres"
+      ],
+      "emails": [
+        "office@torresdental.com"
+      ],
+      "phones": [
+        "817-555-0173"
+      ]
+    },
+    {
+      "name": "Elevate Builders",
+      "other_names_used_in_the_data": [
+        "ELEVATE BUILDERS LLC",
+        "Elevate",
+        "Elevate & Co Builders",
+        "Elevate Builders",
+        "Elevate Builders LLC"
+      ],
+      "emails": [
+        "wes@elevate.build"
+      ],
+      "phones": [
+        "817-555-0178"
+      ]
+    },
+    {
+      "name": "F&F Podcast",
+      "other_names_used_in_the_data": [
+        "F&F Podcast"
+      ],
+      "emails": [
+        "leah.moore.mail@gmail.com",
+        "leah@faithandfire.fm"
+      ],
+      "phones": [
+        "469-555-0111"
+      ]
+    },
+    {
+      "name": "Faith & Fire",
+      "other_names_used_in_the_data": [
+        "Faith & Fire",
+        "Faith and Fire"
+      ],
+      "emails": [
+        "leah.moore.mail@gmail.com",
+        "leah@faithandfire.fm"
+      ],
+      "phones": [
+        "469-555-0111"
+      ]
+    },
+    {
+      "name": "Faith & Fire Podcast",
+      "other_names_used_in_the_data": [
+        "FAITH & FIRE PODCAST",
+        "Faith & Fire Podcast"
+      ],
+      "emails": [
+        "leah.moore.mail@gmail.com",
+        "leah@faithandfire.fm"
+      ],
+      "phones": [
+        "469-555-0111"
+      ]
+    },
+    {
+      "name": "Fischer Chiropractic",
+      "other_names_used_in_the_data": [
+        "Fischer Chiropractic"
+      ],
+      "emails": [
+        "quinn@fischerchiropractic.com"
+      ],
+      "phones": [
+        "972-555-0153"
+      ]
+    },
+    {
+      "name": "Fischer Law Office",
+      "other_names_used_in_the_data": [
+        "Fischer Law Office"
+      ],
+      "emails": [
+        "dana@fischerlawoffice.com"
+      ],
+      "phones": [
+        "972-555-0144"
+      ]
+    },
+    {
+      "name": "Fischer Pet Grooming",
+      "other_names_used_in_the_data": [
+        "Fischer Pet Grooming"
+      ],
+      "emails": [
+        "quinn@fischerpetgrooming.com",
+        "sam@fischerpetgrooming.com"
+      ],
+      "phones": [
+        "972-555-0123",
+        "972-555-0148"
+      ]
+    },
+    {
+      "name": "Foster Pediatrics",
+      "other_names_used_in_the_data": [
+        "Foster Pediatrics"
+      ],
+      "emails": [
+        "jen@fosterpediatrics.com"
+      ],
+      "phones": [
+        "469-555-0194"
+      ]
+    },
+    {
+      "name": "Glow",
+      "other_names_used_in_the_data": [
+        "GLOW",
+        "Glow"
+      ],
+      "emails": [
+        "derek@glowathletics.com",
+        "derek@glowgym.co"
+      ],
+      "phones": [
+        "469-555-0167"
+      ]
+    },
+    {
+      "name": "Glow Athletics",
+      "other_names_used_in_the_data": [
+        "Glow Athletics"
+      ],
+      "emails": [
+        "derek@glowathletics.com"
+      ],
+      "phones": [
+        "469-555-0167"
+      ]
+    },
+    {
+      "name": "Glow Gym",
+      "other_names_used_in_the_data": [
+        "Glow Gym"
+      ],
+      "emails": [
+        "derek@glowgym.co"
+      ],
+      "phones": [
+        "469-555-0167"
+      ]
+    },
+    {
+      "name": "Glow Gym TX",
+      "other_names_used_in_the_data": [
+        "Glow Gym TX"
+      ],
+      "emails": [
+        "derek@glowgym.co"
+      ],
+      "phones": [
+        "469-555-0167"
+      ]
+    },
+    {
+      "name": "Grace Green",
+      "other_names_used_in_the_data": [
+        "GRACE GREEN",
+        "Grace Green"
+      ],
+      "emails": [
+        "grace@clearwaterbridal.com"
+      ],
+      "phones": [
+        "972-555-0159"
+      ]
+    },
+    {
+      "name": "Granite Barbers",
+      "other_names_used_in_the_data": [
+        "GRANITE BARBERS",
+        "Granite Barbers",
+        "Granite Barbershop"
+      ],
+      "emails": [
+        "quinn@granitebarbers.com"
+      ],
+      "phones": [
+        "817-555-0107"
+      ]
+    },
+    {
+      "name": "Grant Med Spa",
+      "other_names_used_in_the_data": [
+        "Grant Med Spa"
+      ],
+      "emails": [
+        "paula@grantmedspa.com"
+      ],
+      "phones": [
+        "469-555-0168"
+      ]
+    },
+    {
+      "name": "Grant Yoga Studio",
+      "other_names_used_in_the_data": [
+        "Grant Yoga Studio"
+      ],
+      "emails": [
+        "jordan@grantyogastudio.com"
+      ],
+      "phones": [
+        "214-555-0115"
+      ]
+    },
+    {
+      "name": "Green Insurance",
+      "other_names_used_in_the_data": [
+        "Green Insurance"
+      ],
+      "emails": [
+        "raj@greeninsurance.com"
+      ],
+      "phones": [
+        "214-555-0131"
+      ]
+    },
+    {
+      "name": "Greg Park",
+      "other_names_used_in_the_data": [
+        "GREG PARK",
+        "Greg Park"
+      ],
+      "emails": [
+        "greg@apexroofingco.com"
+      ],
+      "phones": [
+        "817-555-0134"
+      ]
+    },
+    {
+      "name": "Haddad Realty",
+      "other_names_used_in_the_data": [
+        "Haddad Realty"
+      ],
+      "emails": [
+        "hannah@haddadrealty.com"
+      ],
+      "phones": [
+        "972-555-0152"
+      ]
+    },
+    {
+      "name": "Harbor Physical Therapy",
+      "other_names_used_in_the_data": [
+        "HARBOR PHYSICAL THERAPY",
+        "Harbor Physical Therapy"
+      ],
+      "emails": [
+        "lpatel@harborptdallas.com"
+      ],
+      "phones": [
+        "817-555-0131"
+      ]
+    },
+    {
+      "name": "Harbor PT",
+      "other_names_used_in_the_data": [
+        "HARBOR PT",
+        "Harbor PT"
+      ],
+      "emails": [
+        "lpatel@harborptdallas.com"
+      ],
+      "phones": [
+        "817-555-0131"
+      ]
+    },
+    {
+      "name": "Harbor PT Dallas",
+      "other_names_used_in_the_data": [
+        "Harbor PT Dallas"
+      ],
+      "emails": [
+        "lpatel@harborptdallas.com"
+      ],
+      "phones": [
+        "817-555-0131"
+      ]
+    },
+    {
+      "name": "Ibarra Family Dentistry",
+      "other_names_used_in_the_data": [
+        "Ibarra Family Dentistry"
+      ],
+      "emails": [
+        "darnell@ibarrafamilydentistry.com"
+      ],
+      "phones": [
+        "214-555-0119"
+      ]
+    },
+    {
+      "name": "Ibarra Insurance",
+      "other_names_used_in_the_data": [
+        "Ibarra Insurance"
+      ],
+      "emails": [
+        "nadia@ibarrainsurance.com"
+      ],
+      "phones": [
+        "817-555-0143"
+      ]
+    },
+    {
+      "name": "Imran Becker",
+      "other_names_used_in_the_data": [
+        "Imran Becker"
+      ],
+      "emails": [
+        "imran@metroplexmakers.fm"
+      ],
+      "phones": [
+        "469-555-0100"
+      ]
+    },
+    {
+      "name": "Jackson Coffee",
+      "other_names_used_in_the_data": [
+        "Jackson Coffee"
+      ],
+      "emails": [
+        "leah@jacksoncoffee.com"
+      ],
+      "phones": [
+        "972-555-0140"
+      ]
+    },
+    {
+      "name": "Jared Mendez",
+      "other_names_used_in_the_data": [
+        "Jared Mendez"
+      ],
+      "emails": [
+        "jared@beaconfit.co"
+      ],
+      "phones": [
+        "214-555-0148"
+      ]
+    },
+    {
+      "name": "Jared Whitfield",
+      "other_names_used_in_the_data": [
+        "JARED WHITFIELD",
+        "Jared Whitfield"
+      ],
+      "emails": [
+        "jared@northpointroofingco.com"
+      ],
+      "phones": [
+        "972-555-0114"
+      ]
+    },
+    {
+      "name": "Joy Ramirez",
+      "other_names_used_in_the_data": [
+        "Joy Ramirez"
+      ],
+      "emails": [
+        "joy@tlchomecare.com"
+      ],
+      "phones": [
+        "469-555-0130"
+      ]
+    },
+    {
+      "name": "Khan Landscaping",
+      "other_names_used_in_the_data": [
+        "Khan Landscaping"
+      ],
+      "emails": [
+        "carlos@khanlandscaping.com"
+      ],
+      "phones": [
+        "972-555-0130"
+      ]
+    },
+    {
+      "name": "Khan Pet Grooming",
+      "other_names_used_in_the_data": [
+        "Khan Pet Grooming"
+      ],
+      "emails": [
+        "megan@khanpetgrooming.com"
+      ],
+      "phones": [
+        "214-555-0141"
+      ]
+    },
+    {
+      "name": "Kim Pediatrics",
+      "other_names_used_in_the_data": [
+        "Kim Pediatrics"
+      ],
+      "emails": [
+        "joy@kimpediatrics.com"
+      ],
+      "phones": [
+        "817-555-0160"
+      ]
+    },
+    {
+      "name": "Lakeside Church",
+      "other_names_used_in_the_data": [
+        "LAKESIDE CHURCH",
+        "Lakeside Church"
+      ],
+      "emails": [
+        "media@lakesidedfw.org"
+      ],
+      "phones": [
+        "469-555-0176"
+      ]
+    },
+    {
+      "name": "Lakeside DFW",
+      "other_names_used_in_the_data": [
+        "LAKESIDE DFW",
+        "Lakeside DFW"
+      ],
+      "emails": [
+        "media@lakesidedfw.org"
+      ],
+      "phones": [
+        "469-555-0176"
+      ]
+    },
+    {
+      "name": "Lakeside Media Team",
+      "other_names_used_in_the_data": [
+        "Lakeside Media Team"
+      ],
+      "emails": [
+        "media@lakesidedfw.org"
+      ],
+      "phones": [
+        "469-555-0176"
+      ]
+    },
+    {
+      "name": "Leah Castillo",
+      "other_names_used_in_the_data": [
+        "LEAH CASTILLO",
+        "Leah Castillo"
+      ],
+      "emails": [
+        "leah@lonestarrealty.com"
+      ],
+      "phones": [
+        "817-555-0156"
+      ]
+    },
+    {
+      "name": "Leah Moore",
+      "other_names_used_in_the_data": [
+        "LEAH MOORE",
+        "Leah Moore"
+      ],
+      "emails": [
+        "leah@faithandfire.fm"
+      ],
+      "phones": [
+        "469-555-0111"
+      ]
+    },
+    {
+      "name": "Lone Star Realty",
+      "other_names_used_in_the_data": [
+        "Lone Star Realty",
+        "Lone Star Realty LLC"
+      ],
+      "emails": [
+        "leah@lonestarrealty.com"
+      ],
+      "phones": [
+        "817-555-0156"
+      ]
+    },
+    {
+      "name": "Lonestar Realty Group",
+      "other_names_used_in_the_data": [
+        "Lonestar Realty Group"
+      ],
+      "emails": [],
+      "phones": []
+    },
+    {
+      "name": "Lonestar RG",
+      "other_names_used_in_the_data": [
+        "Lonestar RG"
+      ],
+      "emails": [
+        "derek@lonestarrg.com"
+      ],
+      "phones": [
+        "817-555-0142"
+      ]
+    },
+    {
+      "name": "Lopez Landscaping",
+      "other_names_used_in_the_data": [
+        "Lopez Landscaping"
+      ],
+      "emails": [
+        "sofia@lopezlandscaping.com"
+      ],
+      "phones": [
+        "817-555-0196"
+      ]
+    },
+    {
+      "name": "LUIS PATEL",
+      "other_names_used_in_the_data": [
+        "LUIS PATEL"
+      ],
+      "emails": [
+        "lpatel@harborptdallas.com"
+      ],
+      "phones": [
+        "817-555-0131"
+      ]
+    },
+    {
+      "name": "Magnolia",
+      "other_names_used_in_the_data": [
+        "Magnolia"
+      ],
+      "emails": [
+        "kelsey@magnoliamedspa.com"
+      ],
+      "phones": [
+        "972-555-0172"
+      ]
+    },
+    {
+      "name": "Magnolia Med Spa",
+      "other_names_used_in_the_data": [
+        "Magnolia Med Spa",
+        "Magnolia Medspa"
+      ],
+      "emails": [
+        "kelsey@magnoliamedspa.com"
+      ],
+      "phones": [
+        "972-555-0172"
+      ]
+    },
+    {
+      "name": "Magnolia Med Spa - Frisco",
+      "other_names_used_in_the_data": [
+        "Magnolia Med Spa - Frisco"
+      ],
+      "emails": [
+        "frisco@magnoliamedspa.com",
+        "kelsey@magnoliamedspa.com"
+      ],
+      "phones": [
+        "972-555-0172"
+      ]
+    },
+    {
+      "name": "Magnolia Med Spa - Plano",
+      "other_names_used_in_the_data": [
+        "Magnolia Med Spa - Plano"
+      ],
+      "emails": [
+        "kelsey@magnoliamedspa.com"
+      ],
+      "phones": [
+        "972-555-0172"
+      ]
+    },
+    {
+      "name": "Mendez Chiropractic",
+      "other_names_used_in_the_data": [
+        "Mendez Chiropractic"
+      ],
+      "emails": [
+        "femi@mendezchiropractic.com"
+      ],
+      "phones": [
+        "972-555-0177"
+      ]
+    },
+    {
+      "name": "Mendez Law Office",
+      "other_names_used_in_the_data": [
+        "Mendez Law Office"
+      ],
+      "emails": [
+        "paula@mendezlawoffice.com"
+      ],
+      "phones": [
+        "972-555-0195"
+      ]
+    },
+    {
+      "name": "Mendez Pediatrics",
+      "other_names_used_in_the_data": [
+        "Mendez Pediatrics"
+      ],
+      "emails": [
+        "lucia@mendezpediatrics.com"
+      ],
+      "phones": [
+        "469-555-0114"
+      ]
+    },
+    {
+      "name": "Meridian Dental",
+      "other_names_used_in_the_data": [
+        "Dr. Kelsey Castillo",
+        "KELSEY CASTILLO",
+        "Kelsey Castillo DDS",
+        "Meridian Dental"
+      ],
+      "emails": [
+        "hello@meridiandental.com"
+      ],
+      "phones": [
+        "817-555-0161"
+      ]
+    },
+    {
+      "name": "Metroplex Makers",
+      "other_names_used_in_the_data": [
+        "METROPLEX MAKERS",
+        "Metroplex Makers"
+      ],
+      "emails": [
+        "imran@metroplexmakers.fm"
+      ],
+      "phones": [
+        "469-555-0100"
+      ]
+    },
+    {
+      "name": "Metroplex Makers Podcast",
+      "other_names_used_in_the_data": [
+        "METROPLEX MAKERS PODCAST",
+        "Metroplex Makers Podcast"
+      ],
+      "emails": [
+        "imran@metroplexmakers.fm"
+      ],
+      "phones": [
+        "469-555-0100"
+      ]
+    },
+    {
+      "name": "Moore Auto Group",
+      "other_names_used_in_the_data": [
+        "Moore Auto Group"
+      ],
+      "emails": [
+        "reggie@mooreautogroup.com"
+      ],
+      "phones": [
+        "817-555-0130"
+      ]
+    },
+    {
+      "name": "Moore Tax Services",
+      "other_names_used_in_the_data": [
+        "Moore Tax Services"
+      ],
+      "emails": [
+        "hannah@mooretaxservices.com"
+      ],
+      "phones": [
+        "817-555-0129"
+      ]
+    },
+    {
+      "name": "Nguyen Med Spa",
+      "other_names_used_in_the_data": [
+        "Nguyen Med Spa"
+      ],
+      "emails": [
+        "ethan@nguyenmedspa.com"
+      ],
+      "phones": [
+        "469-555-0190"
+      ]
+    },
+    {
+      "name": "Northpoint Roofing",
+      "other_names_used_in_the_data": [
+        "Northpoint Roofing",
+        "Northpoint Roofing Co"
+      ],
+      "emails": [
+        "jared@northpointroofingco.com"
+      ],
+      "phones": [
+        "972-555-0114"
+      ]
+    },
+    {
+      "name": "Novak Coffee",
+      "other_names_used_in_the_data": [
+        "Novak Coffee"
+      ],
+      "emails": [
+        "tony@novakcoffee.com"
+      ],
+      "phones": [
+        "817-555-0127"
+      ]
+    },
+    {
+      "name": "Ochoa Pediatrics",
+      "other_names_used_in_the_data": [
+        "Ochoa Pediatrics"
+      ],
+      "emails": [
+        "alan@ochoapediatrics.com"
+      ],
+      "phones": [
+        "214-555-0124"
+      ]
+    },
+    {
+      "name": "Ortiz HVAC",
+      "other_names_used_in_the_data": [
+        "Ortiz HVAC"
+      ],
+      "emails": [
+        "carlos@ortizhvac.com"
+      ],
+      "phones": [
+        "469-555-0159"
+      ]
+    },
+    {
+      "name": "Park Law Office",
+      "other_names_used_in_the_data": [
+        "Park Law Office"
+      ],
+      "emails": [
+        "paul@parklawoffice.com"
+      ],
+      "phones": [
+        "972-555-0127"
+      ]
+    },
+    {
+      "name": "Park's Auto Spa",
+      "other_names_used_in_the_data": [
+        "Park's Auto",
+        "Park's Auto Spa",
+        "Parks Auto"
+      ],
+      "emails": [
+        "david@parksautospa.com"
+      ],
+      "phones": [
+        "469-555-0174"
+      ]
+    },
+    {
+      "name": "Quinn Khan",
+      "other_names_used_in_the_data": [
+        "QUINN KHAN",
+        "Quinn Khan"
+      ],
+      "emails": [
+        "quinn@granitebarbers.com"
+      ],
+      "phones": [
+        "817-555-0107"
+      ]
+    },
+    {
+      "name": "Redbird Coffee",
+      "other_names_used_in_the_data": [
+        "Redbird Coffee"
+      ],
+      "emails": [
+        "joy@redbirdcoffee.com"
+      ],
+      "phones": [
+        "214-555-0175"
+      ]
+    },
+    {
+      "name": "Redbird Coffee Roasters",
+      "other_names_used_in_the_data": [
+        "Redbird Coffee Roasters"
+      ],
+      "emails": [
+        "joy@redbirdcoffee.com"
+      ],
+      "phones": [
+        "214-555-0175"
+      ]
+    },
+    {
+      "name": "Redbird Roasters",
+      "other_names_used_in_the_data": [
+        "Redbird Roasters"
+      ],
+      "emails": [
+        "joy@redbirdcoffee.com"
+      ],
+      "phones": [
+        "214-555-0175"
+      ]
+    },
+    {
+      "name": "Romero",
+      "other_names_used_in_the_data": [
+        "Romero"
+      ],
+      "emails": [
+        "info@romerolaw.com"
+      ],
+      "phones": [
+        "469-555-0196"
+      ]
+    },
+    {
+      "name": "Romero Law",
+      "other_names_used_in_the_data": [
+        "Romero Law"
+      ],
+      "emails": [
+        "info@romerolaw.com"
+      ],
+      "phones": [
+        "469-555-0196"
+      ]
+    },
+    {
+      "name": "Romero Law Firm",
+      "other_names_used_in_the_data": [
+        "ROMERO LAW FIRM",
+        "Romero Law Firm",
+        "Romero Law Firm PLLC"
+      ],
+      "emails": [
+        "alana@romerolaw.com",
+        "info@romerolaw.com"
+      ],
+      "phones": [
+        "214-555-0178",
+        "469-555-0196"
+      ]
+    },
+    {
+      "name": "Sage Lab",
+      "other_names_used_in_the_data": [
+        "Sage Lab"
+      ],
+      "emails": [
+        "kim@thesagelab.coffee"
+      ],
+      "phones": [
+        "214-555-0188"
+      ]
+    },
+    {
+      "name": "Sagelab Coffee",
+      "other_names_used_in_the_data": [
+        "Sagelab Coffee"
+      ],
+      "emails": [
+        "kim@thesagelab.coffee"
+      ],
+      "phones": [
+        "214-555-0188"
+      ]
+    },
+    {
+      "name": "Shah Tax Services",
+      "other_names_used_in_the_data": [
+        "Shah Tax Services"
+      ],
+      "emails": [
+        "victor@shahtaxservices.com"
+      ],
+      "phones": [
+        "972-555-0162"
+      ]
+    },
+    {
+      "name": "Stonebridge",
+      "other_names_used_in_the_data": [
+        "Stonebridge"
+      ],
+      "emails": [
+        "aisha@stonebridgemedspa.com"
+      ],
+      "phones": [
+        "972-555-0160"
+      ]
+    },
+    {
+      "name": "Stonebridge Med Spa",
+      "other_names_used_in_the_data": [
+        "STONEBRIDGE MED SPA",
+        "STONEBRIDGE MEDSPA",
+        "Stonebridge Med Spa",
+        "Stonebridge Medspa"
+      ],
+      "emails": [
+        "aisha@stonebridgemedspa.com"
+      ],
+      "phones": [
+        "972-555-0160"
+      ]
+    },
+    {
+      "name": "Stonebridge Med Spa - Frisco",
+      "other_names_used_in_the_data": [
+        "Stonebridge Med Spa - Frisco"
+      ],
+      "emails": [
+        "aisha@stonebridgemedspa.com"
+      ],
+      "phones": [
+        "972-555-0160"
+      ]
+    },
+    {
+      "name": "Stonebridge Med Spa - Plano",
+      "other_names_used_in_the_data": [
+        "Stonebridge Med Spa - Plano"
+      ],
+      "emails": [
+        "aisha@stonebridgemedspa.com"
+      ],
+      "phones": [
+        "972-555-0160"
+      ]
+    },
+    {
+      "name": "Sunset Wealth",
+      "other_names_used_in_the_data": [
+        "Sunset Wealth"
+      ],
+      "emails": [
+        "kbecker@sunsetwp.com"
+      ],
+      "phones": [
+        "817-555-0138"
+      ]
+    },
+    {
+      "name": "Sunset Wealth Partners",
+      "other_names_used_in_the_data": [
+        "Sunset Wealth Partners"
+      ],
+      "emails": [
+        "kbecker@sunsetwp.com"
+      ],
+      "phones": [
+        "817-555-0138"
+      ]
+    },
+    {
+      "name": "Sunset WP",
+      "other_names_used_in_the_data": [
+        "Sunset WP"
+      ],
+      "emails": [
+        "kbecker@sunsetwp.com"
+      ],
+      "phones": [
+        "817-555-0138"
+      ]
+    },
+    {
+      "name": "The Sage Lab",
+      "other_names_used_in_the_data": [
+        "The Sage Lab"
+      ],
+      "emails": [
+        "kim@thesagelab.coffee"
+      ],
+      "phones": [
+        "214-555-0188"
+      ]
+    },
+    {
+      "name": "TLC Home Care",
+      "other_names_used_in_the_data": [
+        "TLC Home Care",
+        "TLC Homecare"
+      ],
+      "emails": [
+        "joy@tlchomecare.com"
+      ],
+      "phones": [
+        "469-555-0130"
+      ]
+    },
+    {
+      "name": "Torres Dental",
+      "other_names_used_in_the_data": [
+        "Dr. Yasmin Torres",
+        "TORRES DENTAL",
+        "Torres Dental",
+        "Torres Dental PLLC",
+        "YASMIN TORRES"
+      ],
+      "emails": [
+        "office@torresdental.com",
+        "office@torresdental.con"
+      ],
+      "phones": [
+        "817-555-0173"
+      ]
+    },
+    {
+      "name": "Torres Family Law",
+      "other_names_used_in_the_data": [
+        "Torres Family Law",
+        "Torres Family Law PLLC"
+      ],
+      "emails": [
+        "ttorres@torresfamilylaw.com"
+      ],
+      "phones": [
+        "214-555-0149"
+      ]
+    },
+    {
+      "name": "Torres Law",
+      "other_names_used_in_the_data": [
+        "TORRES LAW",
+        "Torres Law"
+      ],
+      "emails": [
+        "ttorres@torresfamilylaw.com"
+      ],
+      "phones": [
+        "214-555-0149"
+      ]
+    },
+    {
+      "name": "Torres's Auto Spa",
+      "other_names_used_in_the_data": [
+        "Torres's Auto",
+        "Torres's Auto Spa",
+        "Torress Auto"
+      ],
+      "emails": [
+        "derek@torressautospa.com"
+      ],
+      "phones": [
+        "972-555-0166"
+      ]
+    },
+    {
+      "name": "Torres Tax Services",
+      "other_names_used_in_the_data": [
+        "Torres Tax Services"
+      ],
+      "emails": [
+        "andre@torrestaxservices.com"
+      ],
+      "phones": [
+        "972-555-0134"
+      ]
+    },
+    {
+      "name": "Tran Med Spa",
+      "other_names_used_in_the_data": [
+        "Tran Med Spa"
+      ],
+      "emails": [
+        "carlos@tranmedspa.com"
+      ],
+      "phones": [
+        "817-555-0147"
+      ]
+    },
+    {
+      "name": "Tran Roofing",
+      "other_names_used_in_the_data": [
+        "Tran Roofing"
+      ],
+      "emails": [
+        "darnell@tranroofing.com"
+      ],
+      "phones": [
+        "817-555-0169"
+      ]
+    },
+    {
+      "name": "Trent Torres",
+      "other_names_used_in_the_data": [
+        "Trent Torres"
+      ],
+      "emails": [],
+      "phones": []
+    },
+    {
+      "name": "Vega Bakery",
+      "other_names_used_in_the_data": [
+        "Vega Bakery"
+      ],
+      "emails": [
+        "ben@vegabakery.com"
+      ],
+      "phones": [
+        "972-555-0161"
+      ]
+    },
+    {
+      "name": "Vega Coffee",
+      "other_names_used_in_the_data": [
+        "Vega Coffee"
+      ],
+      "emails": [
+        "david@vegacoffee.com"
+      ],
+      "phones": [
+        "469-555-0146"
+      ]
+    },
+    {
+      "name": "Vega Salon",
+      "other_names_used_in_the_data": [
+        "Vega Salon"
+      ],
+      "emails": [
+        "megan@vegasalon.com"
+      ],
+      "phones": [
+        "972-555-0158"
+      ]
+    },
+    {
+      "name": "Walsh Family Dentistry",
+      "other_names_used_in_the_data": [
+        "Walsh Family Dentistry"
+      ],
+      "emails": [
+        "tony@walshfamilydentistry.com"
+      ],
+      "phones": [
+        "817-555-0110"
+      ]
+    },
+    {
+      "name": "Walsh Insurance",
+      "other_names_used_in_the_data": [
+        "Reggie Walsh",
+        "WALSH INSURANCE GROUP",
+        "Walsh Ins",
+        "Walsh Insurance",
+        "Walsh Insurance Group"
+      ],
+      "emails": [
+        "reggie@walshinsures.com"
+      ],
+      "phones": [
+        "817-555-0166"
+      ]
+    },
+    {
+      "name": "WES ORTIZ",
+      "other_names_used_in_the_data": [
+        "WES ORTIZ"
+      ],
+      "emails": [
+        "wes@elevate.build"
+      ],
+      "phones": [
+        "817-555-0178"
+      ]
+    },
+    {
+      "name": "Westlake Pediatrics",
+      "other_names_used_in_the_data": [
+        "Westlake Pediatrics"
+      ],
+      "emails": [
+        "ddelgado@westlakepeds.com"
+      ],
+      "phones": [
+        "214-555-0128"
+      ]
+    },
+    {
+      "name": "Westlake Peds",
+      "other_names_used_in_the_data": [
+        "Westlake Peds"
+      ],
+      "emails": [
+        "ddelgado@westlakepeds.com",
+        "nina@brightlinemktg.com"
+      ],
+      "phones": [
+        "214-555-0128",
+        "469-555-0172"
+      ]
+    },
+    {
+      "name": "Whitfield HVAC",
+      "other_names_used_in_the_data": [
+        "Whitfield HVAC"
+      ],
+      "emails": [
+        "sofia@whitfieldhvac.com"
+      ],
+      "phones": [
+        "214-555-0164"
+      ]
+    },
+    {
+      "name": "Whitfield Roofing",
+      "other_names_used_in_the_data": [
+        "Whitfield Roofing"
+      ],
+      "emails": [
+        "jen@whitfieldroofing.com"
+      ],
+      "phones": [
+        "817-555-0167"
+      ]
+    },
+    {
+      "name": "Yasmin Torres DDS",
+      "other_names_used_in_the_data": [
+        "Yasmin Torres DDS"
+      ],
+      "emails": [],
+      "phones": []
+    },
+    {
+      "name": "Zamora Salon",
+      "other_names_used_in_the_data": [
+        "Zamora Salon"
+      ],
+      "emails": [
+        "nina@zamorasalon.com"
+      ],
+      "phones": [
+        "817-555-0145"
+      ]
+    }
+  ],
+  "payers_who_are_not_clients": [
+    {
+      "name": "Greg Park",
+      "pays_for": [
+        "Apex Roofing"
+      ]
+    },
+    {
+      "name": "Wes Ortiz",
+      "pays_for": [
+        "Elevate Builders"
+      ]
+    },
+    {
+      "name": "Luis Patel",
+      "pays_for": [
+        "Harbor PT"
+      ]
+    },
+    {
+      "name": "Yasmin Torres",
+      "pays_for": [
+        "Torres Dental"
+      ]
+    },
+    {
+      "name": "Quinn Khan",
+      "pays_for": [
+        "Granite Barbers"
+      ]
+    },
+    {
+      "name": "Imran Becker",
+      "pays_for": [
+        "Metroplex Makers"
+      ]
+    },
+    {
+      "name": "Leah Moore",
+      "pays_for": [
+        "Faith & Fire Podcast"
+      ]
+    },
+    {
+      "name": "Jared Whitfield",
+      "pays_for": [
+        "Northpoint Roofing"
+      ]
+    },
+    {
+      "name": "Grace Green",
+      "pays_for": [
+        "Clearwater Bridal"
+      ]
+    },
+    {
+      "name": "Leah Castillo",
+      "pays_for": [
+        "Lone Star Realty"
+      ]
+    }
+  ],
+  "overdue": [
+    {
+      "client": "F&F Podcast",
+      "invoice": "INV-1055",
+      "amount_owed": 300,
+      "days_late": 83
+    },
+    {
+      "client": "Faith & Fire Podcast",
+      "invoice": "INV-1066",
+      "amount_owed": 300,
+      "days_late": 70
+    },
+    {
+      "client": "Faith and Fire",
+      "invoice": "INV-1079",
+      "amount_owed": 300,
+      "days_late": 59
+    },
+    {
+      "client": "Lonestar RG",
+      "invoice": "INV-1097",
+      "amount_owed": 1500,
+      "days_late": 39
+    },
+    {
+      "client": "Torres Family Law",
+      "invoice": "INV-1101",
+      "amount_owed": 900,
+      "days_late": 239
+    },
+    {
+      "client": "Brightwater Family Therapy",
+      "invoice": "INV-1104",
+      "amount_owed": 1500,
+      "days_late": 58
+    },
+    {
+      "client": "Lakeside Media Team",
+      "invoice": "INV-1105",
+      "amount_owed": 225,
+      "days_late": 27
+    },
+    {
+      "client": "Romero Law Firm",
+      "invoice": "INV-1113",
+      "amount_owed": 2500,
+      "days_late": 21
+    },
+    {
+      "client": "TLC Home Care",
+      "invoice": "INV-1115",
+      "amount_owed": 1500,
+      "days_late": 19
+    },
+    {
+      "client": "Northpoint Roofing Co",
+      "invoice": "INV-1121",
+      "amount_owed": 900,
+      "days_late": 11
+    },
+    {
+      "client": "Dr Torres",
+      "invoice": "INV-1129",
+      "amount_owed": 1500,
+      "days_late": 149
+    },
+    {
+      "client": "Lakeside Media Team",
+      "invoice": "INV-1131",
+      "amount_owed": 225,
+      "days_late": 118
+    },
+    {
+      "client": "Glow Athletics",
+      "invoice": "INV-1132",
+      "amount_owed": 900,
+      "days_late": 88
+    },
+    {
+      "client": "Metroplex Makers Podcast",
+      "invoice": "INV-1133",
+      "amount_owed": 550,
+      "days_late": 88
+    },
+    {
+      "client": "Sagelab Coffee",
+      "invoice": "INV-1134",
+      "amount_owed": 900,
+      "days_late": 57
+    },
+    {
+      "client": "Elevate",
+      "invoice": "INV-1135",
+      "amount_owed": 1500,
+      "days_late": 26
+    }
+  ],
+  "overdue_total": 15500,
+  "we_owe": [],
+  "never_billed": [
+    {
+      "client": "Lakeside DFW",
+      "booking_id_or_month": "B001",
+      "amount": 300
+    },
+    {
+      "client": "Faith and Fire",
+      "booking_id_or_month": "B002",
+      "amount": 300
+    },
+    {
+      "client": "Dr. Yasmin Torres",
+      "booking_id_or_month": "B003",
+      "amount": 1500
+    },
+    {
+      "client": "Greg Park",
+      "booking_id_or_month": "B007",
+      "amount": 900
+    },
+    {
+      "client": "Elevate",
+      "booking_id_or_month": "B008",
+      "amount": 1500
+    },
+    {
+      "client": "Lakeside DFW",
+      "booking_id_or_month": "B009",
+      "amount": 300
+    },
+    {
+      "client": "Magnolia Med Spa - Frisco",
+      "booking_id_or_month": "B010",
+      "amount": 1500
+    },
+    {
+      "client": "Lakeside DFW",
+      "booking_id_or_month": "B014",
+      "amount": 300
+    },
+    {
+      "client": "Faith & Fire",
+      "booking_id_or_month": "B016",
+      "amount": 300
+    },
+    {
+      "client": "Imran Becker",
+      "booking_id_or_month": "B021",
+      "amount": 550
+    },
+    {
+      "client": "Lakeside Church",
+      "booking_id_or_month": "B024",
+      "amount": 225
+    },
+    {
+      "client": "Leah Moore",
+      "booking_id_or_month": "B025",
+      "amount": 300
+    },
+    {
+      "client": "Apex Roofing Co",
+      "booking_id_or_month": "B026",
+      "amount": 900
+    },
+    {
+      "client": "Clearwater Bridal Boutique",
+      "booking_id_or_month": "B027",
+      "amount": 900
+    },
+    {
+      "client": "Granite Barbers",
+      "booking_id_or_month": "B028",
+      "amount": 900
+    },
+    {
+      "client": "Metroplex Makers",
+      "booking_id_or_month": "B029",
+      "amount": 550
+    },
+    {
+      "client": "Lakeside Church",
+      "booking_id_or_month": "B030",
+      "amount": 225
+    },
+    {
+      "client": "Leah Castillo",
+      "booking_id_or_month": "B032",
+      "amount": 1500
+    },
+    {
+      "client": "Torres Dental PLLC",
+      "booking_id_or_month": "B034",
+      "amount": 1500
+    },
+    {
+      "client": "Magnolia Med Spa - Plano",
+      "booking_id_or_month": "B035",
+      "amount": 1500
+    },
+    {
+      "client": "Meridian Dental",
+      "booking_id_or_month": "B036",
+      "amount": 1500
+    },
+    {
+      "client": "Faith & Fire",
+      "booking_id_or_month": "B038",
+      "amount": 300
+    },
+    {
+      "client": "Stonebridge Med Spa - Plano",
+      "booking_id_or_month": "B040",
+      "amount": 900
+    },
+    {
+      "client": "Torres Family Law PLLC",
+      "booking_id_or_month": "B042",
+      "amount": 900
+    },
+    {
+      "client": "Elevate Builders",
+      "booking_id_or_month": "B044",
+      "amount": 1500
+    },
+    {
+      "client": "Westlake Peds",
+      "booking_id_or_month": "B046",
+      "amount": 900
+    },
+    {
+      "client": "Imran Becker",
+      "booking_id_or_month": "B047",
+      "amount": 550
+    },
+    {
+      "client": "Leah Moore",
+      "booking_id_or_month": "B049",
+      "amount": 300
+    },
+    {
+      "client": "Lakeside Media Team",
+      "booking_id_or_month": "B050",
+      "amount": 225
+    },
+    {
+      "client": "Clearwater Bridal Boutique",
+      "booking_id_or_month": "B051",
+      "amount": 900
+    },
+    {
+      "client": "Redbird Coffee Roasters",
+      "booking_id_or_month": "B052",
+      "amount": 900
+    },
+    {
+      "client": "Beacon",
+      "booking_id_or_month": "B053",
+      "amount": 900
+    },
+    {
+      "client": "Faith & Fire Podcast",
+      "booking_id_or_month": "B054",
+      "amount": 300
+    },
+    {
+      "client": "Apex Roofing",
+      "booking_id_or_month": "B055",
+      "amount": 900
+    },
+    {
+      "client": "Lakeside DFW",
+      "booking_id_or_month": "B056",
+      "amount": 225
+    },
+    {
+      "client": "Metroplex Makers Podcast",
+      "booking_id_or_month": "B057",
+      "amount": 550
+    },
+    {
+      "client": "Granite Barbers",
+      "booking_id_or_month": "B058",
+      "amount": 900
+    },
+    {
+      "client": "Faith & Fire",
+      "booking_id_or_month": "B059",
+      "amount": 300
+    },
+    {
+      "client": "Cypress PT Dallas",
+      "booking_id_or_month": "B060",
+      "amount": 900
+    },
+    {
+      "client": "Stonebridge Medspa",
+      "booking_id_or_month": "B061",
+      "amount": 900
+    },
+    {
+      "client": "Lakeside Media Team",
+      "booking_id_or_month": "B062",
+      "amount": 225
+    },
+    {
+      "client": "Torres Law",
+      "booking_id_or_month": "B063",
+      "amount": 900
+    },
+    {
+      "client": "Derek Moore",
+      "booking_id_or_month": "B065",
+      "amount": 900
+    },
+    {
+      "client": "Faith & Fire Podcast",
+      "booking_id_or_month": "B066",
+      "amount": 300
+    },
+    {
+      "client": "Redbird Coffee",
+      "booking_id_or_month": "B071",
+      "amount": 900
+    },
+    {
+      "client": "Sagelab Coffee",
+      "booking_id_or_month": "B072",
+      "amount": 900
+    },
+    {
+      "client": "Torress Auto",
+      "booking_id_or_month": "B075",
+      "amount": 900
+    },
+    {
+      "client": "Magnolia",
+      "booking_id_or_month": "B076",
+      "amount": 1500
+    },
+    {
+      "client": "Beacon Fitness",
+      "booking_id_or_month": "B077",
+      "amount": 900
+    },
+    {
+      "client": "Lone Star Realty",
+      "booking_id_or_month": "B080",
+      "amount": 1500
+    },
+    {
+      "client": "F&F Podcast",
+      "booking_id_or_month": "B081",
+      "amount": 300
+    },
+    {
+      "client": "Lakeside Church",
+      "booking_id_or_month": "B082",
+      "amount": 225
+    },
+    {
+      "client": "Elevate & Co Builders",
+      "booking_id_or_month": "B083",
+      "amount": 1500
+    },
+    {
+      "client": "Torres Dental",
+      "booking_id_or_month": "B085",
+      "amount": 1500
+    },
+    {
+      "client": "Lakeside DFW",
+      "booking_id_or_month": "B087",
+      "amount": 225
+    },
+    {
+      "client": "Kelsey Castillo DDS",
+      "booking_id_or_month": "B088",
+      "amount": 1500
+    },
+    {
+      "client": "Faith & Fire",
+      "booking_id_or_month": "B089",
+      "amount": 300
+    },
+    {
+      "client": "Imran Becker",
+      "booking_id_or_month": "B090",
+      "amount": 550
+    },
+    {
+      "client": "Northpoint Roofing",
+      "booking_id_or_month": "B091",
+      "amount": 900
+    },
+    {
+      "client": "Granite Barbers",
+      "booking_id_or_month": "B092",
+      "amount": 900
+    },
+    {
+      "client": "Lakeside DFW",
+      "booking_id_or_month": "B093",
+      "amount": 225
+    },
+    {
+      "client": "Stonebridge Med Spa",
+      "booking_id_or_month": "B096",
+      "amount": 900
+    },
+    {
+      "client": "F&F Podcast",
+      "booking_id_or_month": "B098",
+      "amount": 300
+    },
+    {
+      "client": "Jared Mendez",
+      "booking_id_or_month": "B099",
+      "amount": 900
+    },
+    {
+      "client": "Torres Family Law PLLC",
+      "booking_id_or_month": "B101",
+      "amount": 900
+    },
+    {
+      "client": "Sagelab Coffee",
+      "booking_id_or_month": "B103",
+      "amount": 900
+    },
+    {
+      "client": "Glow Athletics",
+      "booking_id_or_month": "B104",
+      "amount": 900
+    },
+    {
+      "client": "Redbird Roasters",
+      "booking_id_or_month": "B105",
+      "amount": 900
+    },
+    {
+      "client": "Torress Auto",
+      "booking_id_or_month": "B107",
+      "amount": 900
+    },
+    {
+      "client": "Faith and Fire",
+      "booking_id_or_month": "B109",
+      "amount": 300
+    },
+    {
+      "client": "Westlake Pediatrics",
+      "booking_id_or_month": "B111",
+      "amount": 900
+    },
+    {
+      "client": "Magnolia Medspa",
+      "booking_id_or_month": "B112",
+      "amount": 1500
+    },
+    {
+      "client": "Greg Park",
+      "booking_id_or_month": "B113",
+      "amount": 900
+    },
+    {
+      "client": "Faith & Fire Podcast",
+      "booking_id_or_month": "B117",
+      "amount": 300
+    },
+    {
+      "client": "TLC Home Care",
+      "booking_id_or_month": "B118",
+      "amount": 1500
+    },
+    {
+      "client": "Lakeside DFW",
+      "booking_id_or_month": "B119",
+      "amount": 225
+    },
+    {
+      "client": "Imran Becker",
+      "booking_id_or_month": "B123",
+      "amount": 550
+    },
+    {
+      "client": "Brightline - Cypress",
+      "booking_id_or_month": "B124",
+      "amount": 900
+    },
+    {
+      "client": "Quinn Khan",
+      "booking_id_or_month": "B127",
+      "amount": 900
+    },
+    {
+      "client": "Leah Castillo",
+      "booking_id_or_month": "B128",
+      "amount": 1500
+    },
+    {
+      "client": "Lakeside DFW",
+      "booking_id_or_month": "B129",
+      "amount": 225
+    },
+    {
+      "client": "Stonebridge Med Spa - Plano",
+      "booking_id_or_month": "B130",
+      "amount": 900
+    },
+    {
+      "client": "Beacon Fitness",
+      "booking_id_or_month": "B132",
+      "amount": 900
+    },
+    {
+      "client": "Dr Torres",
+      "booking_id_or_month": "B133",
+      "amount": 1500
+    },
+    {
+      "client": "Lakeside Church",
+      "booking_id_or_month": "B134",
+      "amount": 225
+    },
+    {
+      "client": "Faith & Fire",
+      "booking_id_or_month": "B135",
+      "amount": 300
+    },
+    {
+      "client": "Glow",
+      "booking_id_or_month": "B139",
+      "amount": 900
+    },
+    {
+      "client": "Elevate Builders",
+      "booking_id_or_month": "B140",
+      "amount": 1500
+    },
+    {
+      "client": "Torres Family Law PLLC",
+      "booking_id_or_month": "B142",
+      "amount": 900
+    },
+    {
+      "client": "Lakeside DFW",
+      "booking_id_or_month": "B143",
+      "amount": 225
+    },
+    {
+      "client": "Westlake Peds",
+      "booking_id_or_month": "B146",
+      "amount": 900
+    },
+    {
+      "client": "Kelsey Castillo DDS",
+      "booking_id_or_month": "B147",
+      "amount": 1500
+    },
+    {
+      "client": "Faith & Fire",
+      "booking_id_or_month": "B150",
+      "amount": 300
+    },
+    {
+      "client": "Brightwater Family Therapy",
+      "booking_id_or_month": "B151",
+      "amount": 1500
+    },
+    {
+      "client": "Leah Castillo",
+      "booking_id_or_month": "B153",
+      "amount": 1500
+    }
+  ],
+  "never_billed_total": 77100,
+  "billing_tool_is_wrong": [
+    {
+      "invoice": "INV-1090",
+      "tool_says": "Unpaid; $300 outstanding",
+      "truth": "$300 payment received; calculated balance is $0",
+      "how_you_know": "Payment P5086 for $300 references INV-1090; high-confidence invoice-reference match."
+    },
+    {
+      "invoice": "INV-1092",
+      "tool_says": "Unpaid; $900 outstanding",
+      "truth": "$900 payment received; calculated balance is $0",
+      "how_you_know": "Payment P5088 for $900 references INV-1092; high-confidence invoice-reference match."
+    }
+  ],
+  "lost_requests": [],
+  "lost_requests_root_causes": [],
+  "lost_requests_started_getting_worse_in": "",
+  "never_replied_leads": [
+    "L006",
+    "L029",
+    "L049",
+    "L057",
+    "L063",
+    "L067",
+    "L077",
+    "L080",
+    "L088",
+    "L090",
+    "L098"
+  ],
+  "most_likely_to_leave": {
+    "client": "Romero Law Firm",
+    "evidence": [
+      "September 1 voice note requested the full name Romero Law Firm instead of Romero Law.",
+      "September 9 complaint said the incorrect name appeared again.",
+      "September 29 message asked to discuss whether to continue the contract.",
+      "October 2 follow-up said a contract discussion was needed that week."
+    ],
+    "what_to_do_this_week": "The owner should contact Alana Romero personally, acknowledge the repeated naming error, confirm the correct wording for future videos, and discuss a retention plan."
+  },
+  "best_marketing_channel": {
+    "channel": "Referrals",
+    "why": "8 of 10 referral leads converted (80%), the highest observed conversion rate. The sample is small, so treat this as a promising signal rather than a guarantee."
+  },
+  "what_this_data_cannot_tell_us": [
+    "Missing first-response timestamps do not prove that a lead was never contacted through another channel.",
+    "No confirmed lost sales requests were established from the available message and booking evidence.",
+    "The 127 client groups are mapped identity groups, not necessarily 127 independently verified clients.",
+    "Completed bookings without explicit booking IDs in invoice memos may have been covered by retainers, bundles, or invoices with incomplete references.",
+    "Unmatched payments and invoices may reflect bulk payments or missing references.",
+    "The supplied records cannot establish complete profitability, customer satisfaction, or future client retention."
+  ],
+  "monday_top_3": [
+    "Contact Alana Romero at Romero Law Firm to address the repeated naming error and discuss contract retention.",
+    "Review the 11 leads without recorded first-response timestamps and verify whether anyone followed up.",
+    "Introduce a pre-delivery quality checklist to verify client names, requested wording, and revision notes."
+  ]
+}

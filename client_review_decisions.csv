@@ -1,0 +1,3 @@
+dataset,normalized_name,decision,canonical_client_id
+bookings,apex roofing,APPROVED,CLIENT_0001
+bookings,brightline - cypress,APPROVED,CLIENT_0005

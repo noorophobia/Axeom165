@@ -1,0 +1,153 @@
+invoice_no,bill_to,email,issued,due,amount,status,memo
+INV-1001,Sunset Wealth,kbecker@sunsetwp.com,2026-01-04,2026-04-15,2500.0,paid,Monthly retainer April
+INV-1002,Lakeside Church,media@lakesidedfw.org,2026-02-04,2026-04-16,300.0,paid,Podcast Studio 2hr 4/2
+INV-1003,F&F Podcast,leah@faithandfire.fm,2026-07-04,2026-04-21,300.0,paid,Podcast Studio 2hr 4/6
+INV-1004,Torres Dental PLLC,office@torresdental.com,2026-07-04,2026-04-21,1500.0,paid,Content Day 4/7
+INV-1005,Lakeside DFW,media@lakesidedfw.org,2026-11-04,2026-04-25,300.0,paid,B004 Podcast Studio 2hr
+INV-1006,Leah Moore,leah@faithandfire.fm,2026-04-14,2026-04-28,300.0,paid,B006 Podcast Studio 2hr
+INV-1007,Elevate Builders LLC,wes@elevate.build,2026-04-15,2026-04-29,1500.0,paid,Content Day 4/15
+INV-1008,Imran Becker,imran@metroplexmakers.fm,2026-04-15,2026-04-29,550.0,paid,B005 Podcast Studio 4hr
+INV-1009,Apex Roofing Co,greg@apexroofingco.com,2026-04-16,2026-04-30,900.0,paid,Reels Pack 4/14
+INV-1010,Lakeside Church,media@lakesidedfw.org,2026-04-20,2026-04-05,300.0,paid,
+INV-1011,Magnolia Med Spa,kelsey@magnoliamedspa.com,2026-04-20,2026-04-05,1500.0,paid,Content Day 4/20
+INV-1012,Clearwater Bridal Boutique,grace@clearwaterbridal.com,2026-04-24,2026-08-05,900.0,paid,B012 Reels Pack
+INV-1013,Faith and Fire,leah@faithandfire.fm,2026-04-24,2026-08-05,300.0,paid,B011 Podcast Studio 2hr
+INV-1014,Metroplex Makers,imran@metroplexmakers.fm,2026-04-30,2026-05-14,550.0,paid,B015 Podcast Studio 4hr
+INV-1015,Romero Law Firm,info@romerolaw.com,2026-01-05,2026-05-15,2500.0,paid,Monthly retainer May
+INV-1016,Sunset Wealth Partners,kbecker@sunsetwp.com,2026-01-05,2026-05-15,2500.0,paid,Monthly retainer May
+INV-1017,Lakeside DFW,media@lakesidedfw.org,2026-02-05,2026-05-16,300.0,paid,Podcast Studio 2hr 4/29
+INV-1018,Leah Moore,leah@faithandfire.fm,2026-06-05,2026-05-20,300.0,paid,Podcast Studio 2hr 5/4
+INV-1019,Lakeside Media Team,media@lakesidedfw.org,2026-08-05,2026-05-22,225.0,paid,B017 Podcast Studio 2hr
+INV-1020,Beacon,jared@beaconfit.co,2026-12-05,2026-05-26,900.0,paid,B020 Reels Pack
+INV-1021,Metroplex Makers,imran@metroplexmakers.fm,2026-05-15,2026-05-29,550.0,paid,
+INV-1022,Apex Roofing Co,greg@apexroofingco.com,2026-05-18,2026-01-06,900.0,paid,
+INV-1023,Stonebridge,aisha@stonebridgemedspa.com,2026-05-18,2026-01-06,900.0,paid,B023 Reels Pack
+INV-1024,Lakeside DFW,media@lakesidedfw.org,2026-05-19,2026-02-06,225.0,paid,Podcast Studio 2hr 5/18
+INV-1025,Faith & Fire,leah@faithandfire.fm,2026-05-19,2026-02-06,300.0,paid,
+INV-1026,Quinn Khan,quinn@granitebarbers.com,2026-05-20,2026-03-06,900.0,paid,
+INV-1027,Clearwater Bridal Boutique,grace@clearwaterbridal.com,2026-05-21,2026-04-06,900.0,paid,Reels Pack 5/20
+INV-1028,Imran Becker,imran@metroplexmakers.fm,2026-05-25,2026-08-06,550.0,paid,
+INV-1029,Faith & Fire Podcast,leah@faithandfire.fm,2026-05-26,2026-09-06,300.0,paid,B031 Podcast Studio 2hr
+INV-1030,Lakeside DFW,media@lakesidedfw.org,2026-05-27,2026-10-06,225.0,paid,
+INV-1031,Leah Castillo,leah@lonestarrealty.com,2026-05-28,2026-11-06,1500.0,paid,
+INV-1032,Walsh Insurance,reggie@walshinsures.com,2026-01-06,2026-06-15,2500.0,paid,Monthly retainer June
+INV-1033,Sunset Wealth Partners,kbecker@sunsetwp.com,2026-01-06,2026-06-15,2500.0,paid,Monthly retainer June
+INV-1034,Harbor PT Dallas,lpatel@harborptdallas.com,2026-01-06,2026-06-15,2500.0,paid,Monthly retainer June
+INV-1035,Romero Law Firm,info@romerolaw.com,2026-01-06,2026-06-15,2500.0,paid,Monthly retainer June
+INV-1036,Magnolia Med Spa,kelsey@magnoliamedspa.com,2026-02-06,2026-06-16,1500.0,paid,Content Day 6/2
+INV-1037,Meridian Dental,hello@meridiandental.com,2026-03-06,2026-06-17,1500.0,paid,Content Day 6/3
+INV-1038,Lakeside Media Team,media@lakesidedfw.org,2026-03-06,2026-06-17,225.0,paid,B037 Podcast Studio 2hr
+INV-1039,Torres Dental,office@torresdental.com,2026-04-06,2026-06-18,1500.0,paid,Content Day 6/1
+INV-1040,Stonebridge,aisha@stonebridgemedspa.com,2026-08-06,2026-06-22,900.0,paid,
+INV-1041,Lakeside DFW,media@lakesidedfw.org,2026-09-06,2026-06-23,225.0,paid,B043 Podcast Studio 2hr
+INV-1042,Elevate Builders LLC,wes@elevate.build,2026-10-06,2026-06-24,1500.0,paid,Content Day 6/9
+INV-1043,F&F Podcast,leah@faithandfire.fm,2026-10-06,2026-06-24,300.0,paid,Podcast Studio 2hr 6/8
+INV-1044,Brightline Marketing,nina@brightlinemktg.com,2026-11-06,2026-06-25,900.0,paid,Reels Pack 6/11
+INV-1045,Torres Family Law,ttorres@torresfamilylaw.com,2026-12-06,2026-06-26,900.0,paid,Reels Pack 6/9
+INV-1046,Metroplex Makers Podcast,imran@metroplexmakers.fm,2026-06-13,2026-06-27,550.0,paid,Podcast Studio 4hr 6/12
+INV-1047,Lakeside Church,media@lakesidedfw.org,2026-06-18,2026-02-07,225.0,paid,Podcast Studio 2hr 6/18
+INV-1048,Grace Green,grace@clearwaterbridal.com,2026-06-20,2026-04-07,900.0,paid,Reels Pack 6/18
+INV-1049,Beacon Fit,jared@beaconfit.co,2026-06-20,2026-04-07,900.0,paid,
+INV-1050,Faith & Fire Podcast,leah@faithandfire.fm,2026-06-20,2026-04-07,300.0,paid,Podcast Studio 2hr 6/17
+INV-1051,Faith & Fire,leah@faithandfire.fm,2026-06-23,2026-07-07,300.0,paid,
+INV-1052,Greg Park,greg@apexroofingco.com,2026-06-26,2026-10-07,900.0,paid,
+INV-1053,Lakeside Church,media@lakesidedfw.org,2026-06-29,2026-07-13,225.0,paid,Podcast Studio 2hr 6/29
+INV-1054,Sunset WP,kbecker@sunsetwp.com,2026-01-07,2026-07-15,2500.0,paid,Monthly retainer July
+INV-1055,F&F Podcast,leah@faithandfire.fm,2026-01-07,2026-07-15,300.0,unpaid,Podcast Studio 2hr 6/30
+INV-1056,Brightline Marketing,nina@brightlinemktg.com,2026-01-07,2026-07-15,900.0,paid,Reels Pack 7/1
+INV-1057,Romero,info@romerolaw.com,2026-01-07,2026-07-15,2500.0,paid,Monthly retainer July
+INV-1058,Harbor Physical Therapy,lpatel@harborptdallas.com,2026-01-07,2026-07-15,2500.0,paid,Monthly retainer July
+INV-1059,Quinn Khan,quinn@granitebarbers.com,2026-01-07,2026-07-15,900.0,paid,
+INV-1060,Walsh Insurance,reggie@walshinsures.com,2026-01-07,2026-07-15,2500.0,paid,Monthly retainer July
+INV-1061,Metroplex Makers Podcast,imran@metroplexmakers.fm,2026-02-07,2026-07-16,550.0,paid,
+INV-1062,Stonebridge Med Spa - Plano,aisha@stonebridgemedspa.com,2026-04-07,2026-07-18,900.0,paid,
+INV-1063,Torres Family Law,ttorres@torresfamilylaw.com,2026-09-07,2026-07-23,900.0,paid,Reels Pack 7/9
+INV-1064,Glow Gym TX,derek@glowgym.co,2026-09-07,2026-07-23,900.0,paid,Reels Pack 7/9
+INV-1065,Lakeside Church,media@lakesidedfw.org,2026-09-07,2026-07-23,225.0,paid,Podcast Studio 2hr 7/7
+INV-1066,Faith & Fire Podcast,leah@faithandfire.fm,2026-07-14,2026-07-28,300.0,unpaid,
+INV-1067,Redbird Coffee Roasters,joy@redbirdcoffee.com,2026-07-14,2026-07-28,900.0,paid,Reels Pack 7/14
+INV-1068,Lakeside Media Team,media@lakesidedfw.org,2026-07-17,2026-07-31,225.0,paid,B068 Podcast Studio 2hr
+INV-1069,Sage Lab,kim@thesagelab.coffee,2026-07-17,2026-07-31,900.0,paid,Reels Pack 7/14
+INV-1070,Torres's Auto,derek@torressautospa.com,2026-07-18,2026-01-08,900.0,paid,
+INV-1071,Dr. Mia Reed,mreed@brightwaterfamilytherapy.com,2026-07-19,2026-02-08,1500.0,paid,B074 Content Day
+INV-1072,Imran Becker,imran@metroplexmakers.fm,2026-07-19,2026-02-08,550.0,paid,B073 Podcast Studio 4hr
+INV-1073,Jared Mendez,jared@beaconfit.co,2026-07-21,2026-04-08,900.0,paid,Reels Pack 7/20
+INV-1074,Brightline Marketing,nina@brightlinemktg.com,2026-07-23,2026-06-08,900.0,paid,B078 Reels Pack
+INV-1075,Magnolia Medspa,kelsey@magnoliamedspa.com,2026-07-23,2026-06-08,1500.0,paid,
+INV-1076,Apex Roofing,greg@apexroofingco.com,2026-07-23,2026-06-08,900.0,paid,B079 Reels Pack
+INV-1077,Lakeside Media Team,media@lakesidedfw.org,2026-07-24,2026-07-08,225.0,paid,
+INV-1078,Lone Star Realty LLC,leah@lonestarrealty.com,2026-07-24,2026-07-08,1500.0,paid,
+INV-1079,Faith and Fire,leah@faithandfire.fm,2026-07-25,2026-08-08,300.0,unpaid,Podcast Studio 2hr 7/23
+INV-1080,Clearwater Bridal,grace@clearwaterbridal.com,2026-07-28,2026-11-08,900.0,paid,B084 Reels Pack
+INV-1081,Elevate & Co Builders,wes@elevate.build,2026-07-28,2026-11-08,1500.0,paid,Content Day 7/27
+INV-1082,Dr Torres,office@torresdental.com,2026-07-30,2026-08-13,1500.0,paid,Content Day 7/30
+INV-1083,Brightline Marketing,nina@brightlinemktg.com,2026-07-31,2026-08-14,900.0,paid,B086 Reels Pack
+INV-1084,Lakeside Church,media@lakesidedfw.org,2026-01-08,2026-08-15,300.0,paid,
+INV-1085,Harbor PT,lpatel@harborptdallas.com,2026-01-08,2026-08-15,2500.0,paid,Monthly retainer August
+INV-1086,Walsh Insurance,reggie@walshinsures.com,2026-01-08,2026-08-15,2250.0,paid,Monthly retainer August
+INV-1087,Romero,info@romerolaw.com,2026-01-08,2026-08-15,2500.0,paid,Monthly retainer August
+INV-1088,Metroplex Makers,imran@metroplexmakers.fm,2026-03-08,2026-08-17,550.0,paid,Podcast Studio 4hr 8/3
+INV-1089,Dr. Kelsey Castillo,hello@meridiandental.com,2026-04-08,2026-08-18,1500.0,paid,Content Day 8/3
+INV-1090,Faith & Fire Podcast,leah@faithandfire.fm,2026-06-08,2026-08-20,300.0,unpaid,Podcast Studio 2hr 8/3
+INV-1091,Northpoint Roofing,jared@northpointroofingco.com,2026-07-08,2026-08-21,900.0,paid,Reels Pack 8/5
+INV-1092,Granite Barbershop,quinn@granitebarbers.com,2026-09-08,2026-08-23,900.0,unpaid,Reels Pack 8/6
+INV-1093,Stonebridge Med Spa - Plano,aisha@stonebridgemedspa.com,2026-11-08,2026-08-25,900.0,paid,Reels Pack 8/10
+INV-1094,Lakeside Media Team,media@lakesidedfw.org,2026-11-08,2026-08-25,225.0,paid,
+INV-1095,Faith & Fire,leah@faithandfire.fm,2026-08-13,2026-08-27,300.0,paid,
+INV-1096,Beacon Fitness,jared@beaconfit.co,2026-08-14,2026-08-28,900.0,paid,Reels Pack 8/13
+INV-1097,Lonestar RG,derek@lonestarrg.com,2026-08-14,2026-08-28,1500.0,unpaid,B100 Content Day
+INV-1098,Glow,derek@glowathletics.com,2026-08-18,2026-01-09,900.0,paid,
+INV-1099,Redbird Coffee Roasters,joy@redbirdcoffee.com,2026-08-18,2026-01-09,900.0,paid,Reels Pack 8/18
+INV-1100,Lakeside Church,media@lakesidedfw.org,2026-08-18,2026-01-09,225.0,paid,B102 Podcast Studio 2hr
+INV-1101,Torres Family Law,ttorres@torresfamilylaw.com,2026-08-19,2026-02-09,900.0,unpaid,
+INV-1102,Brightline Marketing,nina@brightlinemktg.com,2026-08-24,2026-07-09,900.0,paid,Reels Pack 8/24
+INV-1103,Metroplex Makers,imran@metroplexmakers.fm,2026-08-24,2026-07-09,550.0,paid,B106 Podcast Studio 4hr
+INV-1104,Brightwater Family Therapy,mreed@brightwaterfamilytherapy.com,2026-08-25,2026-08-09,1500.0,unpaid,B110 Content Day
+INV-1105,Lakeside Media Team,media@lakesidedfw.org,2026-08-26,2026-09-09,225.0,unpaid,B108 Podcast Studio 2hr
+INV-1106,Torres's Auto Spa,derek@torressautospa.com,2026-08-26,2026-09-09,900.0,paid,
+INV-1107,Faith & Fire,leah@faithandfire.fm,2026-08-27,2026-10-09,300.0,paid,Podcast Studio 2hr 8/24
+INV-1108,Magnolia Med Spa - Plano,kelsey@magnoliamedspa.com,2026-08-28,2026-11-09,1500.0,paid,
+INV-1109,Clearwater Bridal,grace@clearwaterbridal.com,2026-08-31,2026-09-14,900.0,paid,B114 Reels Pack
+INV-1110,Harbor PT,lpatel@harborptdallas.com,2026-01-09,2026-09-15,2500.0,paid,Monthly retainer September
+INV-1111,Walsh Insurance,reggie@walshinsures.com,2026-01-09,2026-09-15,2500.0,paid,Monthly retainer September
+INV-1112,Faith & Fire,leah@faithandfire.fm,2026-01-09,2026-09-15,300.0,paid,
+INV-1113,Romero Law Firm,info@romerolaw.com,2026-01-09,2026-09-15,2500.0,unpaid,Monthly retainer September
+INV-1114,Apex Roofing Co,greg@apexroofingco.com,2026-02-09,2026-09-16,900.0,paid,
+INV-1115,TLC Home Care,joy@tlchomecare.com,2026-03-09,2026-09-17,1500.0,unpaid,Content Day 9/1
+INV-1116,Park's Auto Spa,david@parksautospa.com,2026-03-09,2026-09-17,900.0,paid,B115 Reels Pack
+INV-1117,Lakeside Media Team,media@lakesidedfw.org,2026-04-09,2026-09-18,225.0,paid,B116 Podcast Studio 2hr
+INV-1118,Imran Becker,imran@metroplexmakers.fm,2026-08-09,2026-09-22,550.0,paid,
+INV-1119,Brightline Marketing,nina@brightlinemktg.com,2026-08-09,2026-09-22,900.0,paid,Reels Pack 9/8
+INV-1120,Faith and Fire,leah@faithandfire.fm,2026-11-09,2026-09-25,300.0,paid,B125 Podcast Studio 2hr
+INV-1121,Northpoint Roofing Co,jared@northpointroofingco.com,2026-11-09,2026-09-25,900.0,partial,B126 Reels Pack
+INV-1122,Granite Barbershop,quinn@granitebarbers.com,2026-11-09,2026-09-25,900.0,paid,Reels Pack 9/11
+INV-1123,Stonebridge Med Spa,aisha@stonebridgemedspa.com,2026-09-14,2026-09-28,900.0,paid,Reels Pack 9/14
+INV-1124,Lakeside Media Team,media@lakesidedfw.org,2026-09-16,2026-09-30,225.0,paid,Podcast Studio 2hr 9/14
+INV-1125,Lone Star Realty LLC,leah@lonestarrealty.com,2026-09-17,2026-01-10,1500.0,paid,
+INV-1126,Redbird Roasters,joy@redbirdcoffee.com,2026-09-17,2026-01-10,900.0,paid,B131 Reels Pack
+INV-1127,Leah Castillo,leah@lonestarrealty.com,2026-09-18,2026-02-10,1500.0,paid,B137 Content Day
+INV-1128,Jared Mendez,jared@beaconfit.co,2026-09-18,2026-02-10,900.0,paid,Reels Pack 9/15
+INV-1129,Dr Torres,office@torresdental.com,2026-09-21,2026-05-10,1500.0,unpaid,
+INV-1130,Faith & Fire Podcast,leah@faithandfire.fm,2026-09-21,2026-05-10,300.0,paid,
+INV-1131,Lakeside Media Team,media@lakesidedfw.org,2026-09-22,2026-06-10,225.0,unpaid,
+INV-1132,Glow Athletics,derek@glowathletics.com,2026-09-23,2026-07-10,900.0,unpaid,
+INV-1133,Metroplex Makers Podcast,imran@metroplexmakers.fm,2026-09-23,2026-07-10,550.0,unpaid,B136 Podcast Studio 4hr
+INV-1134,Sagelab Coffee,kim@thesagelab.coffee,2026-09-24,2026-08-10,900.0,unpaid,B138 Reels Pack
+INV-1135,Elevate,wes@elevate.build,2026-09-25,2026-09-10,1500.0,unpaid,
+INV-1136,Park's Auto Spa,david@parksautospa.com,2026-09-26,2026-10-10,1500.0,unpaid,B141 Content Day
+INV-1137,Lone Star Realty LLC,leah@lonestarrealty.com,2026-09-27,2026-11-10,1500.0,unpaid,
+INV-1138,Torres Law,ttorres@torresfamilylaw.com,2026-09-28,2026-12-10,900.0,unpaid,
+INV-1139,Lakeside Church,media@lakesidedfw.org,2026-09-29,2026-10-13,225.0,unpaid,Podcast Studio 2hr 9/28
+INV-1140,Apex Roofing Co,greg@apexroofingco.com,2026-09-29,2026-10-13,900.0,unpaid,B144 Reels Pack
+INV-1141,Reggie Walsh,reggie@walshinsures.com,2026-01-10,2026-10-15,2500.0,unpaid,Monthly retainer October
+INV-1142,Harbor Physical Therapy,lpatel@harborptdallas.com,2026-01-10,2026-10-15,2500.0,unpaid,Monthly retainer October
+INV-1143,Romero Law Firm,info@romerolaw.com,2026-01-10,2026-10-15,2500.0,unpaid,Monthly retainer October
+INV-1144,Derek Ramirez,derek@lonestarrg.com,2026-02-10,2026-10-16,1500.0,unpaid,B148 Content Day
+INV-1145,Torres's Auto,derek@torressautospa.com,2026-03-10,2026-10-17,900.0,unpaid,B145 Reels Pack
+INV-1146,Brightline Marketing,nina@brightlinemktg.com,2026-04-10,2026-10-18,900.0,unpaid,
+INV-1147,Brightwater Therapy,mreed@brightwaterfamilytherapy.com,2026-05-10,2026-10-19,1500.0,unpaid,
+INV-1148,Meridian Dental,hello@meridiandental.com,2026-05-10,2026-10-19,1500.0,unpaid,Content Day 10/2
+INV-1149,Northpoint Roofing,jared@northpointroofingco.com,2026-06-10,2026-10-20,900.0,unpaid,B152 Reels Pack
+INV-1150,Lakeside DFW,media@lakesidedfw.org,2026-06-10,2026-10-20,225.0,unpaid,B149 Podcast Studio 2hr
+INV-1151,Faith & Fire Podcast,leah@faithandfire.fm,2026-06-10,2026-10-20,300.0,unpaid,Podcast Studio 2hr 10/5
+INV-1152,Dr Torres,office@torresdental.com,2026-07-30,2026-08-13,1500.0,void,Content Day 7/30

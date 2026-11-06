@@ -1,0 +1,168 @@
+booking_id,date,client_name,email,service,status,price
+B001,2026-02-04,Lakeside DFW,media@lakesidedfw.org,Podcast Studio 2hr,completed,300
+B002,2026-06-04,Faith and Fire,leah@faithandfire.fm,Podcast Studio 2hr,completed,300
+B003,2026-07-04,Dr. Yasmin Torres,office@torresdental.com,Content Day,completed,1500
+B004,2026-09-04,Lakeside DFW,media@lakesidedfw.org,Podcast Studio 2hr,completed,300
+B005,2026-04-13,Metroplex Makers,imran@metroplexmakers.fm,Podcast Studio 4hr,completed,550
+B006,2026-04-14,F&F Podcast,leah@faithandfire.fm,Podcast Studio 2hr,completed,300
+B007,2026-04-14,Greg Park,greg@apexroofingco.com,Reels Pack,completed,900
+B008,2026-04-15,Elevate,wes@elevate.build,Content Day,completed,1500
+B009,2026-04-20,Lakeside DFW,media@lakesidedfw.org,Podcast Studio 2hr,completed,300
+B010,2026-04-20,Magnolia Med Spa - Frisco,kelsey@magnoliamedspa.com,Content Day,completed,1500
+B011,2026-04-21,Faith & Fire Podcast,leah.moore.mail@gmail.com,Podcast Studio 2hr,completed,300
+B012,2026-04-24,Clearwater Bridal Boutique,grace@clearwaterbridal.com,Reels Pack,completed,900
+B013,2026-04-27,Sunset WP,kbecker@sunsetwp.com,Retainer Shoot,completed,0
+B014,2026-04-29,Lakeside DFW,media@lakesidedfw.org,Podcast Studio 2hr,completed,300
+B015,2026-04-30,Metroplex Makers Podcast,imran@metroplexmakers.fm,Podcast Studio 4hr,completed,550
+B016,2026-04-05,Faith & Fire,leah@faithandfire.fm,Podcast Studio 2hr,completed,300
+B017,2026-07-05,Lakeside DFW,media@lakesidedfw.org,Podcast Studio 2hr,completed,225
+B018,2026-08-05,Romero Law,info@romerolaw.com,Retainer Shoot,completed,0
+B019,2026-08-05,Sunset Wealth Partners,kbecker@sunsetwp.com,Retainer Shoot,completed,0
+B020,2026-11-05,Beacon,jared@beaconfit.co,Reels Pack,completed,900
+B021,2026-05-13,Imran Becker,imran@metroplexmakers.fm,Podcast Studio 4hr,completed,550
+B022,2026-05-14,Harbor PT Dallas,lpatel@harborptdallas.com,Retainer Shoot,completed,0
+B023,2026-05-15,Stonebridge,aisha@stonebridgemedspa.com,Reels Pack,completed,900
+B024,2026-05-18,Lakeside Church,media@lakesidedfw.org,Podcast Studio 2hr,completed,225
+B025,2026-05-18,Leah Moore,leah@faithandfire.fm,Podcast Studio 2hr,completed,300
+B026,2026-05-18,Apex Roofing Co,greg@apexroofingco.com,Reels Pack,completed,900
+B027,2026-05-20,Clearwater Bridal Boutique,grace@clearwaterbridal.com,Reels Pack,completed,900
+B028,2026-05-20,Granite Barbers,quinn@granitebarbers.com,Reels Pack,completed,900
+B029,2026-05-25,Metroplex Makers,imran@metroplexmakers.fm,Podcast Studio 4hr,completed,550
+B030,2026-05-26,Lakeside Church,media@lakesidedfw.org,Podcast Studio 2hr,completed,225
+B031,2026-05-26,Faith and Fire,leah@faithandfire.fm,Podcast Studio 2hr,completed,300
+B032,2026-05-28,Leah Castillo,leah@lonestarrealty.com,Content Day,completed,1500
+B033,2026-05-29,Walsh Insurance,reggie@walshinsures.com,Retainer Shoot,completed,0
+B034,2026-01-06,Torres Dental PLLC,office@torresdental.com,Content Day,completed,1500
+B035,2026-02-06,Magnolia Med Spa - Plano,kelsey@magnoliamedspa.com,Content Day,completed,1500
+B036,2026-03-06,Meridian Dental,hello@meridiandental.com,Content Day,completed,1500
+B037,2026-03-06,Lakeside Media Team,media@lakesidedfw.org,Podcast Studio 2hr,completed,225
+B038,2026-08-06,Faith & Fire,leah.moore.mail@gmail.com,Podcast Studio 2hr,completed,300
+B039,2026-08-06,Harbor PT,lpatel@harborptdallas.com,Retainer Shoot,completed,0
+B040,2026-08-06,Stonebridge Med Spa - Plano,aisha@stonebridgemedspa.com,Reels Pack,completed,900
+B041,2026-08-06,Walsh Ins,reggie@walshinsures.com,Retainer Shoot,completed,0
+B042,2026-09-06,Torres Family Law PLLC,ttorres@torresfamilylaw.com,Reels Pack,completed,900
+B043,2026-09-06,Lakeside DFW,media@lakesidedfw.org,Podcast Studio 2hr,completed,225
+B044,2026-09-06,Elevate Builders,wes@elevate.build,Content Day,completed,1500
+B045,2026-09-06,Romero,info@romerolaw.com,Retainer Shoot,completed,0
+B046,2026-11-06,Westlake Peds,ddelgado@westlakepeds.com,Reels Pack,completed,900
+B047,2026-12-06,Imran Becker,imran@metroplexmakers.fm,Podcast Studio 4hr,completed,550
+B048,2026-06-15,Sunset Wealth Partners,kbecker@sunsetwp.com,Retainer Shoot,completed,0
+B049,2026-06-17,Leah Moore,leah@faithandfire.fm,Podcast Studio 2hr,completed,300
+B050,2026-06-18,Lakeside Media Team,media@lakesidedfw.org,Podcast Studio 2hr,completed,225
+B051,2026-06-18,Clearwater Bridal Boutique,grace@clearwaterbridal.com,Reels Pack,completed,900
+B052,2026-06-18,Redbird Coffee Roasters,joy@redbirdcoffee.com,Reels Pack,completed,900
+B053,2026-06-19,Beacon,jared@beaconfit.co,Reels Pack,completed,900
+B054,2026-06-23,Faith & Fire Podcast,leah.moore.mail@gmail.com,Podcast Studio 2hr,completed,300
+B055,2026-06-25,Apex Roofing,greg@apexroofingco.com,Reels Pack,completed,900
+B056,2026-06-29,Lakeside DFW,media@lakesidedfw.org,Podcast Studio 2hr,completed,225
+B057,2026-06-29,Metroplex Makers Podcast,imran@metroplexmakers.fm,Podcast Studio 4hr,completed,550
+B058,2026-06-29,Granite Barbers,quinn@granitebarbers.com,Reels Pack,completed,900
+B059,2026-06-30,Faith & Fire,leah.moore.mail@gmail.com,Podcast Studio 2hr,completed,300
+B060,2026-01-07,Cypress PT Dallas,nina@brightlinemktg.com,Reels Pack,completed,900
+B061,2026-02-07,Stonebridge Medspa,aisha@stonebridgemedspa.com,Reels Pack,completed,900
+B062,2026-07-07,Lakeside Media Team,media@lakesidedfw.org,Podcast Studio 2hr,completed,225
+B063,2026-09-07,Torres Law,ttorres@torresfamilylaw.com,Reels Pack,completed,900
+B064,2026-09-07,Sunset WP,kbecker@sunsetwp.com,Retainer Shoot,completed,0
+B065,2026-09-07,Derek Moore,derek@glowgym.co,Reels Pack,completed,900
+B066,2026-07-13,Faith & Fire Podcast,leah@faithandfire.fm,Podcast Studio 2hr,completed,300
+B067,2026-07-13,Reggie Walsh,reggie@walshinsures.com,Retainer Shoot,completed,0
+B068,2026-07-14,Lakeside Church,media@lakesidedfw.org,Podcast Studio 2hr,completed,225
+B069,2026-07-14,Romero Law Firm,info@romerolaw.com,Retainer Shoot,completed,0
+B070,2026-07-14,Harbor PT,lpatel@harborptdallas.com,Retainer Shoot,completed,0
+B071,2026-07-14,Redbird Coffee,joy@redbirdcoffee.com,Reels Pack,completed,900
+B072,2026-07-14,Sagelab Coffee,kim@thesagelab.coffee,Reels Pack,completed,900
+B073,2026-07-16,Metroplex Makers Podcast,imran@metroplexmakers.fm,Podcast Studio 4hr,completed,550
+B074,2026-07-16,Brightwater Therapy,mreed@brightwaterfamilytherapy.com,Content Day,completed,1500
+B075,2026-07-17,Torress Auto,derek@torressautospa.com,Reels Pack,completed,900
+B076,2026-07-20,Magnolia,kelsey@magnoliamedspa.com,Content Day,completed,1500
+B077,2026-07-20,Beacon Fitness,jared@beaconfit.co,Reels Pack,completed,900
+B078,2026-07-20,Westlake Peds,nina@brightlinemktg.com,Reels Pack,completed,900
+B079,2026-07-22,Apex Roofing Co,greg@apexroofingco.com,Reels Pack,completed,900
+B080,2026-07-23,Lone Star Realty,leah@lonestarrealty.com,Content Day,completed,1500
+B081,2026-07-23,F&F Podcast,leah@faithandfire.fm,Podcast Studio 2hr,completed,300
+B082,2026-07-24,Lakeside Church,media@lakesidedfw.org,Podcast Studio 2hr,completed,225
+B083,2026-07-27,Elevate & Co Builders,wes@elevate.build,Content Day,completed,1500
+B084,2026-07-28,Clearwater Bridal Boutique,grace@clearwaterbridal.com,Reels Pack,completed,900
+B085,2026-07-30,Torres Dental,office@torresdental.con,Content Day,completed,1500
+B086,2026-07-30,Brightline - Cypress,anovak@cypressptdallas.com,Reels Pack,completed,900
+B087,2026-07-31,Lakeside DFW,media@lakesidedfw.org,Podcast Studio 2hr,completed,225
+B088,2026-03-08,Kelsey Castillo DDS,hello@meridiandental.com,Content Day,completed,1500
+B089,2026-03-08,Faith & Fire,leah@faithandfire.fm,Podcast Studio 2hr,completed,300
+B090,2026-03-08,Imran Becker,imran@metroplexmakers.fm,Podcast Studio 4hr,completed,550
+B091,2026-05-08,Northpoint Roofing,jared@northpointroofingco.com,Reels Pack,completed,900
+B092,2026-06-08,Granite Barbers,quinn@granitebarbers.com,Reels Pack,completed,900
+B093,2026-10-08,Lakeside DFW,media@lakesidedfw.org,Podcast Studio 2hr,completed,225
+B094,2026-10-08,Romero Law Firm PLLC,info@romerolaw.com,Retainer Shoot,completed,0
+B095,2026-10-08,Harbor PT,lpatel@harborptdallas.com,Retainer Shoot,completed,0
+B096,2026-10-08,Stonebridge Med Spa,aisha@stonebridgemedspa.com,Reels Pack,completed,900
+B097,2026-10-08,Walsh Insurance,reggie@walshinsures.com,Retainer Shoot,completed,0
+B098,2026-08-13,F&F Podcast,leah.moore.mail@gmail.com,Podcast Studio 2hr,completed,300
+B099,2026-08-13,Jared Mendez,jared@beaconfit.co,Reels Pack,completed,900
+B100,2026-08-14,Lonestar RG,derek@lonestarrg.com,Content Day,completed,1500
+B101,2026-08-17,Torres Family Law PLLC,ttorres@torresfamilylaw.com,Reels Pack,completed,900
+B102,2026-08-17,Lakeside Media Team,media@lakesidedfw.org,Podcast Studio 2hr,completed,225
+B103,2026-08-17,Sagelab Coffee,kim@thesagelab.coffee,Reels Pack,completed,900
+B104,2026-08-17,Glow Athletics,derek@glowathletics.com,Reels Pack,completed,900
+B105,2026-08-18,Redbird Roasters,joy@redbirdcoffee.com,Reels Pack,completed,900
+B106,2026-08-21,Metroplex Makers Podcast,imran@metroplexmakers.fm,Podcast Studio 4hr,completed,550
+B107,2026-08-24,Torress Auto,derek@torressautospa.com,Reels Pack,completed,900
+B108,2026-08-24,Lakeside Church,media@lakesidedfw.org,Podcast Studio 2hr,completed,225
+B109,2026-08-24,Faith and Fire,leah@faithandfire.fm,Podcast Studio 2hr,completed,300
+B110,2026-08-24,Dr. Mia Reed,mreed@brightwaterfamilytherapy.com,Content Day,completed,1500
+B111,2026-08-24,Westlake Pediatrics,ddelgado@westlakepeds.com,Reels Pack,completed,900
+B112,2026-08-25,Magnolia Medspa,kelsey@magnoliamedspa.com,Content Day,completed,1500
+B113,2026-08-31,Greg Park,greg@apexroofingco.com,Reels Pack,completed,900
+B114,2026-08-31,Clearwater Bridal,grace@clearwaterbridal.com,Reels Pack,completed,900
+B115,2026-08-31,Park's Auto Spa,david@parksautospa.com,Reels Pack,completed,900
+B116,2026-01-09,Lakeside Media Team,media@lakesidedfw.org,Podcast Studio 2hr,completed,225
+B117,2026-01-09,Faith & Fire Podcast,leah@faithandfire.fm,Podcast Studio 2hr,completed,300
+B118,2026-01-09,TLC Home Care,joy@tlchomecare.com,Content Day,completed,1500
+B119,2026-07-09,Lakeside DFW,media@lakesidedfw.org,Podcast Studio 2hr,completed,225
+B120,2026-07-09,Romero Law Firm,info@romerolaw.com,Retainer Shoot,completed,0
+B121,2026-07-09,Harbor Physical Therapy,lpatel@harborptdallas.com,Retainer Shoot,completed,0
+B122,2026-07-09,Walsh Ins,reggie@walshinsures.com,Retainer Shoot,completed,0
+B123,2026-08-09,Imran Becker,imran@metroplexmakers.fm,Podcast Studio 4hr,completed,550
+B124,2026-08-09,Brightline - Cypress,nina@brightlinemktg.com,Reels Pack,completed,900
+B125,2026-10-09,F&F Podcast,leah@faithandfire.fm,Podcast Studio 2hr,completed,300
+B126,2026-10-09,Jared Whitfield,jared@northpointroofingco.com,Reels Pack,completed,900
+B127,2026-11-09,Quinn Khan,quinn@granitebarbers.com,Reels Pack,completed,900
+B128,2026-09-14,Leah Castillo,leah@lonestarrealty.com,Content Day,completed,1500
+B129,2026-09-14,Lakeside DFW,media@lakesidedfw.org,Podcast Studio 2hr,completed,225
+B130,2026-09-14,Stonebridge Med Spa - Plano,aisha@stonebridgemedspa.com,Reels Pack,completed,900
+B131,2026-09-14,Redbird Coffee,joy@redbirdcoffee.com,Reels Pack,completed,900
+B132,2026-09-15,Beacon Fitness,jared@beaconfit.co,Reels Pack,completed,900
+B133,2026-09-21,Dr Torres,office@torresdental.com,Content Day,completed,1500
+B134,2026-09-21,Lakeside Church,media@lakesidedfw.org,Podcast Studio 2hr,completed,225
+B135,2026-09-21,Faith & Fire,leah.moore.mail@gmail.com,Podcast Studio 2hr,completed,300
+B136,2026-09-21,Imran Becker,imran@metroplexmakers.fm,Podcast Studio 4hr,completed,550
+B137,2026-09-22,Leah Castillo,leah@lonestarrealty.com,Content Day,cancelled,1500
+B138,2026-09-23,The Sage Lab,kim@thesagelab.coffee,Reels Pack,completed,900
+B139,2026-09-23,Glow,derek@glowathletics.com,Reels Pack,completed,900
+B140,2026-09-24,Elevate Builders,wes@elevate.build,Content Day,completed,1500
+B141,2026-09-24,Park's Auto,david@parksautospa.com,Content Day,completed,1500
+B142,2026-09-25,Torres Family Law PLLC,ttorres@torresfamilylaw.com,Reels Pack,completed,900
+B143,2026-09-28,Lakeside DFW,media@lakesidedfw.org,Podcast Studio 2hr,completed,225
+B144,2026-09-29,Apex Roofing Co,greg@apexroofingco.com,Reels Pack,completed,900
+B145,2026-09-30,Torres's Auto,derek@torressautospa.com,Reels Pack,completed,900
+B146,2026-01-10,Westlake Peds,ddelgado@westlakepeds.com,Reels Pack,completed,900
+B147,2026-02-10,Kelsey Castillo DDS,hello@meridiandental.com,Content Day,completed,1500
+B148,2026-02-10,Derek Ramirez,derek@lonestarrg.com,Content Day,completed,1500
+B149,2026-05-10,Lakeside DFW,media@lakesidedfw.org,Podcast Studio 2hr,completed,225
+B150,2026-05-10,Faith & Fire,leah@faithandfire.fm,Podcast Studio 2hr,completed,300
+B151,2026-05-10,Brightwater Family Therapy,mreed@brightwaterfamilytherapy.com,Content Day,completed,1500
+B152,2026-05-10,Northpoint Roofing Co,jared@northpointroofingco.com,Reels Pack,completed,900
+B153,2026-05-10,Leah Castillo,leah@lonestarrealty.com,Content Day,completed,1500
+B154,2026-09-10,Imran Becker,imran@metroplexmakers.fm,Podcast Studio 4hr,upcoming,550
+B155,2026-09-10,Grace Green,grace@clearwaterbridal.com,Reels Pack,upcoming,900
+B156,2026-09-10,Beacon Fit,jared@beaconfit.co,Reels Pack,upcoming,900
+B157,2026-09-10,Walsh Insurance Group,reggie@walshinsures.com,Retainer Shoot,upcoming,0
+B158,2026-12-10,F&F Podcast,leah.moore.mail@gmail.com,Podcast Studio 2hr,upcoming,300
+B159,2026-12-10,Magnolia Med Spa - Plano,kelsey@magnoliamedspa.com,Content Day,upcoming,1500
+B160,2026-12-10,Harbor PT,lpatel@harborptdallas.com,Retainer Shoot,upcoming,0
+B161,2026-10-14,Romero Law Firm PLLC,info@romerolaw.com,Retainer Shoot,upcoming,0
+B162,2026-10-15,Lakeside DFW,media@lakesidedfw.org,Podcast Studio 2hr,upcoming,225
+B163,2026-10-15,Granite Barbershop,quinn@granitebarbers.com,Reels Pack,upcoming,900
+B164,2026-10-16,Cypress PT,nina@brightlinemktg.com,Reels Pack,upcoming,900
+B165,2026-10-19,Faith & Fire,leah@faithandfire.fm,Podcast Studio 2hr,upcoming,300
+B166,2026-10-19,Stonebridge,aisha@stonebridgemedspa.com,Reels Pack,upcoming,900
+B167,2026-10-19,Glow Athletics,derek@glowathletics.com,Reels Pack,upcoming,900

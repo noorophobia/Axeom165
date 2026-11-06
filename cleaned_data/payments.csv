@@ -1,0 +1,120 @@
+payment_id,date,payer,payer_email,amount,method,reference
+P5001,2026-04-07,CARLOS ROMERO,media@lakesidedfw.org,300.0,card,
+P5002,2026-04-13,LAKESIDE CHURCH,media@lakesidedfw.org,300.0,card,
+P5003,2026-04-14,FAITH & FIRE PODCAST,leah@faithandfire.fm,300.0,card,INV-1003
+P5004,2026-04-15,Faith & Fire Podcast,leah@faithandfire.fm,300.0,card,INV-1006
+P5005,2026-04-16,METROPLEX MAKERS PODCAST,imran@metroplexmakers.fm,550.0,card,INV-1008
+P5006,2026-04-16,Sunset Wealth,kbecker@sunsetwp.com,2500.0,Zelle,INV-1001
+P5007,2026-04-17,Apex Roofing Co,greg@apexroofingco.com,900.0,card,INV-1009
+P5008,2026-04-22,YASMIN TORRES,office@torresdental.com,1500.0,card,INV-1004
+P5009,2026-04-27,LAKESIDE DFW,media@lakesidedfw.org,300.0,card,
+P5010,2026-04-30,WES ORTIZ,wes@elevate.build,1500.0,card,INV-1007
+P5011,2026-05-02,Magnolia Med Spa - Frisco,kelsey@magnoliamedspa.com,1500.0,card,INV-1011
+P5012,2026-05-03,ROMERO LAW FIRM,info@romerolaw.com,2500.0,Zelle,INV-1015
+P5013,2026-05-05,METROPLEX MAKERS PODCAST,imran@metroplexmakers.fm,550.0,Zelle,INV-1014
+P5014,2026-05-06,Sunset WP,kbecker@sunsetwp.com,2500.0,card,INV-1016
+P5015,2026-05-09,Faith and Fire,leah@faithandfire.fm,300.0,Zelle,INV-1013
+P5016,2026-05-11,Lakeside Church,media@lakesidedfw.org,300.0,ACH,INV-1017
+P5017,2026-05-12,CLEARWATER BRIDAL,grace@clearwaterbridal.com,900.0,ACH,
+P5018,2026-05-13,FAITH & FIRE PODCAST,leah@faithandfire.fm,300.0,card,INV-1018
+P5019,2026-05-17,BEACON,jared@beaconfit.co,900.0,ACH,INV-1020
+P5020,2026-05-20,Lakeside Media Team,media@lakesidedfw.org,225.0,Zelle,INV-1019
+P5021,2026-05-22,Faith & Fire Podcast,leah@faithandfire.fm,300.0,card,
+P5022,2026-05-24,Clearwater Bridal Boutique,grace@clearwaterbridal.com,900.0,Zelle,INV-1027
+P5023,2026-05-25,QUINN KHAN,quinn@granitebarbers.com,900.0,Zelle,INV-1026
+P5024,2026-05-25,APEX ROOFING CO,greg@apexroofingco.com,900.0,card,
+P5025,2026-05-28,Lakeside Church,media@lakesidedfw.org,225.0,Zelle,INV-1024
+P5026,2026-06-01,Lakeside DFW,media@lakesidedfw.org,225.0,ACH,INV-1030
+P5027,2026-06-02,HARBOR PHYSICAL THERAPY,lpatel@harborptdallas.com,2500.0,ACH,INV-1034
+P5028,2026-06-04,ROMERO LAW FIRM,info@romerolaw.com,2500.0,Zelle,INV-1035
+P5029,2026-06-05,STONEBRIDGE MEDSPA,aisha@stonebridgemedspa.com,900.0,card,INV-1023
+P5030,2026-06-06,Imran Becker,imran@metroplexmakers.fm,550.0,card,INV-1028
+P5031,2026-06-06,Walsh Ins,reggie@walshinsures.com,2500.0,Zelle,
+P5032,2026-06-06,Metroplex Makers,imran@metroplexmakers.fm,550.0,Zelle,INV-1021
+P5033,2026-06-06,KELSEY CASTILLO,hello@meridiandental.com,1500.0,card,INV-1037
+P5034,2026-06-07,Leah Moore,leah@faithandfire.fm,300.0,card,
+P5035,2026-06-09,TORRES DENTAL,office@torresdental.com,1500.0,Zelle,
+P5036,2026-06-11,F&F Podcast,leah@faithandfire.fm,300.0,card,
+P5037,2026-06-12,LAKESIDE CHURCH,media@lakesidedfw.org,225.0,ACH,INV-1041
+P5038,2026-06-13,Elevate Builders LLC,wes@elevate.build,1500.0,Zelle,INV-1042
+P5039,2026-06-13,TORRES LAW,ttorres@torresfamilylaw.com,900.0,ACH,INV-1045
+P5040,2026-06-13,STONEBRIDGE MEDSPA,aisha@stonebridgemedspa.com,900.0,Zelle,INV-1040
+P5041,2026-06-14,Magnolia Med Spa - Plano,kelsey@magnoliamedspa.com,1500.0,ACH,
+P5042,2026-06-16,Stonebridge Med Spa - Plano,aisha@stonebridgemedspa.com,900.0,card,INV-1040
+P5043,2026-06-16,Sunset WP,kbecker@sunsetwp.com,2500.0,card,INV-1033
+P5044,2026-06-19,Lakeside Church,media@lakesidedfw.org,225.0,card,INV-1047
+P5045,2026-06-19,LEAH CASTILLO,leah@lonestarrealty.com,1500.0,card,INV-1031
+P5046,2026-06-20,METROPLEX MAKERS,imran@metroplexmakers.fm,550.0,card,INV-1046
+P5047,2026-06-21,Lakeside Church,media@lakesidedfw.org,225.0,card,INV-1038
+P5048,2026-06-28,Leah Moore,leah@faithandfire.fm,300.0,ACH,
+P5049,2026-06-29,Leah Moore,leah@faithandfire.fm,300.0,ACH,
+P5050,2026-06-29,GRACE GREEN,grace@clearwaterbridal.com,900.0,Zelle,INV-1048
+P5051,2026-06-30,LAKESIDE DFW,media@lakesidedfw.org,225.0,card,INV-1053
+P5052,2026-07-02,Romero,info@romerolaw.com,2500.0,card,INV-1057
+P5053,2026-07-02,GRANITE BARBERS,quinn@granitebarbers.com,900.0,ACH,INV-1059
+P5054,2026-07-05,GREG PARK,greg@apexroofingco.com,900.0,Zelle,INV-1052
+P5056,2026-07-05,METROPLEX MAKERS,imran@metroplexmakers.fm,550.0,card,INV-1061
+P5057,2026-07-05,BRIGHTLINE MARKETING LLC,nina@brightlinemktg.com,900.0,ACH,Brightline Jun invoices
+P5058,2026-07-05,BEACON FITNESS,jared@beaconfit.co,900.0,ACH,INV-1049
+P5059,2026-07-06,WALSH INSURANCE GROUP,reggie@walshinsures.com,2500.0,Zelle,
+P5060,2026-07-06,HARBOR PT,lpatel@harborptdallas.com,2500.0,card,INV-1058
+P5061,2026-07-10,Sunset Wealth Partners,kbecker@sunsetwp.com,2500.0,Zelle,INV-1054
+P5062,2026-07-12,GLOW,derek@glowgym.co,900.0,card,INV-1064
+P5063,2026-07-13,STONEBRIDGE MED SPA,aisha@stonebridgemedspa.com,900.0,card,INV-1062
+P5064,2026-07-14,Torres Family Law,ttorres@torresfamilylaw.com,900.0,Zelle,INV-1063
+P5065,2026-07-21,Brightwater Therapy,mreed@brightwaterfamilytherapy.com,1500.0,Zelle,INV-1071
+P5066,2026-07-22,Sagelab Coffee,kim@thesagelab.coffee,900.0,Zelle,
+P5067,2026-07-24,METROPLEX MAKERS,imran@metroplexmakers.fm,550.0,card,INV-1072
+P5068,2026-07-25,Magnolia Med Spa - Frisco,kelsey@magnoliamedspa.com,1500.0,card,INV-1075
+P5069,2026-07-25,Torress Auto,derek@torressautospa.com,900.0,ACH,
+P5070,2026-07-25,Lakeside DFW,media@lakesidedfw.org,225.0,card,INV-1077
+P5071,2026-07-29,Lone Star Realty LLC,leah@lonestarrealty.com,1500.0,card,
+P5072,2026-07-29,Redbird Coffee,joy@redbirdcoffee.com,900.0,Zelle,INV-1067
+P5073,2026-07-29,Clearwater Bridal Boutique,grace@clearwaterbridal.com,900.0,card,INV-1080
+P5074,2026-07-30,APEX ROOFING,greg@apexroofingco.com,900.0,card,INV-1076
+P5075,2026-07-31,Lakeside Church,media@lakesidedfw.org,225.0,Zelle,INV-1065
+P5076,2026-07-31,YASMIN TORRES,office@torresdental.com,1500.0,card,
+P5077,2026-08-02,ELEVATE BUILDERS LLC,wes@elevate.build,1500.0,card,INV-1081
+P5078,2026-08-04,LEAH MOORE,,900.0,Zelle,july sessions
+P5079,2026-08-04,BRIGHTLINE MARKETING LLC,nina@brightlinemktg.com,2700.0,ACH,Brightline Jul invoices
+P5080,2026-08-04,LUIS PATEL,lpatel@harborptdallas.com,2500.0,Zelle,INV-1085
+P5081,2026-08-05,Meridian Dental,hello@meridiandental.com,1500.0,card,INV-1089
+P5082,2026-08-08,Lakeside Media Team,media@lakesidedfw.org,225.0,ACH,INV-1068
+P5083,2026-08-10,Walsh Insurance Group,reggie@walshinsures.com,2250.0,card,INV-1086
+P5084,2026-08-12,BEACON,jared@beaconfit.co,900.0,Zelle,INV-1073
+P5085,2026-08-13,Romero,info@romerolaw.com,2500.0,ACH,
+P5086,2026-08-15,Faith and Fire,leah@faithandfire.fm,300.0,Zelle,INV-1090
+P5087,2026-08-18,Metroplex Makers,imran@metroplexmakers.fm,550.0,card,INV-1088
+P5088,2026-08-18,Quinn Khan,quinn@granitebarbers.com,900.0,ACH,INV-1092
+P5089,2026-08-21,BEACON,jared@beaconfit.co,900.0,ACH,INV-1096
+P5090,2026-08-21,GLOW,derek@glowathletics.com,900.0,card,INV-1098
+P5091,2026-08-23,Stonebridge Med Spa - Plano,aisha@stonebridgemedspa.com,900.0,Zelle,
+P5092,2026-08-23,Lakeside Church,media@lakesidedfw.org,300.0,card,INV-1084
+P5093,2026-08-25,FAITH & FIRE PODCAST,leah@faithandfire.fm,300.0,card,
+P5094,2026-08-25,Jared Whitfield,jared@northpointroofingco.com,900.0,ACH,INV-1091
+P5095,2026-08-26,Imran Becker,imran@metroplexmakers.fm,550.0,Zelle,INV-1103
+P5096,2026-08-29,LAKESIDE CHURCH,media@lakesidedfw.org,225.0,Zelle,
+P5097,2026-09-02,Redbird Coffee Roasters,joy@redbirdcoffee.com,900.0,Zelle,INV-1099
+P5098,2026-09-02,HARBOR PT,lpatel@harborptdallas.com,2500.0,Zelle,
+P5099,2026-09-03,Apex Roofing,greg@apexroofingco.com,900.0,card,INV-1114
+P5100,2026-09-05,BRIGHTLINE MARKETING LLC,nina@brightlinemktg.com,900.0,ACH,Brightline Aug invoices
+P5101,2026-09-06,CARLOS ROMERO,media@lakesidedfw.org,225.0,card,
+P5102,2026-09-07,Torres's Auto Spa,derek@torressautospa.com,900.0,card,INV-1106
+P5103,2026-09-08,Walsh Ins,reggie@walshinsures.com,2500.0,card,INV-1111
+P5104,2026-09-09,Lakeside DFW,media@lakesidedfw.org,225.0,ACH,INV-1100
+P5105,2026-09-09,Imran Becker,imran@metroplexmakers.fm,550.0,Zelle,INV-1118
+P5106,2026-09-13,Faith and Fire,leah@faithandfire.fm,300.0,Zelle,INV-1112
+P5107,2026-09-15,Magnolia Med Spa - Frisco,kelsey@magnoliamedspa.com,1500.0,ACH,INV-1108
+P5108,2026-09-18,FAITH & FIRE PODCAST,leah@faithandfire.fm,300.0,card,INV-1107
+P5109,2026-09-18,LEAH MOORE,leah@faithandfire.fm,300.0,ACH,INV-1120
+P5110,2026-09-18,QUINN KHAN,quinn@granitebarbers.com,900.0,Zelle,INV-1122
+P5111,2026-09-19,Lone Star Realty LLC,leah@lonestarrealty.com,1500.0,ACH,INV-1127
+P5112,2026-09-19,Redbird Coffee Roasters,joy@redbirdcoffee.com,900.0,Zelle,INV-1126
+P5113,2026-09-20,Beacon,jared@beaconfit.co,900.0,card,INV-1128
+P5114,2026-09-21,Parks Auto,david@parksautospa.com,900.0,card,INV-1116
+P5115,2026-09-22,Leah Castillo,leah@lonestarrealty.com,1500.0,card,
+P5116,2026-09-23,Lakeside Media Team,media@lakesidedfw.org,225.0,card,INV-1124
+P5117,2026-09-23,JARED WHITFIELD,,450.0,Zelle,half now half later
+P5118,2026-09-23,Stonebridge Med Spa - Frisco,aisha@stonebridgemedspa.com,900.0,card,INV-1123
+P5119,2026-09-28,Faith & Fire Podcast,leah@faithandfire.fm,300.0,ACH,INV-1130
+P5120,2026-10-04,BRIGHTLINE MARKETING LLC,nina@brightlinemktg.com,900.0,ACH,Brightline Sep invoices
