@@ -1,4 +1,5 @@
 # Axeom Challenge — Pack 165
+
 **Prepared by:** Noor Fatima  
 **Reporting date:** October 6, 2026
 
@@ -11,8 +12,8 @@ I used Python and pandas to explore the data, identify inconsistencies, and calc
 Key findings:
 
 - **Clients:** Mapped 127 canonical client groups using names, emails, phone numbers, and related records. Ambiguous matches were not automatically treated as confirmed identities.
-- **Overdue invoices:** Identified 16 invoices with positive remaining balances, totalling **$15,500**, as of October 6, 2026. Matched payments were deducted before identifying overdue balances.
-- **Potentially never-billed bookings:** Identified 95 completed, positive-price bookings without an explicit invoice match, with a listed value of **$77,100**. These are potential billing gaps, not confirmed unpaid debt.
+- **Overdue invoices:** Identified 16 invoices with positive remaining balances, totalling **$15,500**, as of October 6, 2026, after reconciling matched payments. The invoice status-based count is 18 invoices totalling $16,700. However, INV-1090 ($300) and INV-1092 ($900) were marked unpaid despite having matching payments that fully covered their balances. These two invoices therefore have no remaining balance.
+- **Potentially never-billed bookings:** Identified 95 completed, positive-price bookings without an explicit invoice match, with a listed value of **$77,100**. These are potential billing gaps, not confirmed unpaid debt, because some may be covered by retainers, bundled invoices, or invoices without booking references.
 - **Billing errors:** Found two invoices marked unpaid despite matching payments fully covering their balances: INV-1090 and INV-1092.
 - **Lost requests:** No lost requests could be confirmed from the available evidence. An inquiry without a recorded response or booking was not automatically classified as lost.
 - **Retention risk:** Romero Law Firm was identified as the strongest current retention concern based on repeated naming instructions, a complaint, and subsequent contract-related messages.
@@ -27,7 +28,7 @@ I built a Python and Streamlit dashboard to make the supplied business data easi
 The dashboard includes:
 
 - **Clients:** A mapped client directory and related records.
-- **Money:** Invoice, payment, overdue, and reconciliation information.
+- **Money:** Invoice, payment, overdue, and invoice-level reconciliation information. It distinguishes invoices marked unpaid or partial from invoices with actual outstanding balances after matched payments are considered.
 - **Production:** Booking and video-production status information.
 - **Leads:** Lead information and follow-up priorities.
 - **File uploads:** CSV and TXT uploads to bring additional records into the dashboard, with safeguards for conflicting identifiers and upload conflicts.

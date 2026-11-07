@@ -1334,13 +1334,14 @@ leads = data.get(
 )
 
 
-overdue_count = 0
+ overdue_count = 0
 overdue_amount = 0
-
+reconciled_overdue_count = 0
+reconciled_overdue_amount = 0
 
 if (
     not invoices.empty
-    and {"due", "amount", "status"}.issubset(invoices.columns)
+    and {"due", "amount", "status", "invoice_no"}.issubset(invoices.columns)
 ):
 
     invoices = invoices.copy()
@@ -1355,24 +1356,63 @@ if (
         errors="coerce"
     ).fillna(0)
 
+    invoices["invoice_no"] = (
+        invoices["invoice_no"]
+        .fillna("")
+        .astype(str)
+        .str.strip()
+    )
+
     overdue = invoices[
-
         (invoices["due"] < REPORTING_DATE)
-
         &
-
         (
             invoices["status"]
             .astype(str)
             .str.lower()
+            .str.strip()
             .isin(["unpaid", "partial"])
         )
-
-    ]
+    ].copy()
 
     overdue_count = len(overdue)
-
     overdue_amount = overdue["amount"].sum()
+
+    overdue["matched_payment_amount"] = 0
+
+    if not invoice_reconciliation.empty:
+
+        payment_matches = invoice_reconciliation[
+            ["invoice_no", "matched_payment_amount"]
+        ].copy()
+
+        overdue = overdue.drop(
+            columns=["matched_payment_amount"]
+        ).merge(
+            payment_matches,
+            on="invoice_no",
+            how="left"
+        )
+
+    overdue["matched_payment_amount"] = (
+        overdue["matched_payment_amount"]
+        .fillna(0)
+    )
+
+    overdue["remaining_balance"] = (
+        overdue["amount"]
+        - overdue["matched_payment_amount"]
+    ).clip(lower=0)
+
+    outstanding = overdue[
+        overdue["remaining_balance"] > 0
+    ]
+
+    reconciled_overdue_count = len(outstanding)
+
+    reconciled_overdue_amount = (
+        outstanding["remaining_balance"].sum()
+    )
 
 
 pending_videos = 0
@@ -1400,24 +1440,21 @@ if (
 ):
 
     unanswered_leads = (
-
         leads["first_reply"].isna()
-
         |
-
         leads["first_reply"]
         .astype(str)
         .str.strip()
         .eq("")
-
     ).sum()
 
 
-col1, col2, col3 = st.columns(3)
+col1, col2, col3, col4 = st.columns(4)
 
 col1.metric(
-    "Unpaid / partial overdue invoices",
-    overdue_count
+    "Status-based overdue",
+    overdue_count,
+    help="Invoices marked unpaid or partial with a due date before the reporting date."
 )
 
 col1.caption(
@@ -1425,13 +1462,28 @@ col1.caption(
 )
 
 col2.metric(
+    "Reconciled outstanding",
+    reconciled_overdue_count,
+    help="Overdue invoice balances after deducting payments matched by exact invoice reference."
+)
+
+col2.caption(
+    f"Remaining balance: ${reconciled_overdue_amount:,.0f}"
+)
+
+col3.metric(
     "Videos not delivered",
     pending_videos
 )
 
-col3.metric(
+col4.metric(
     "Leads without reply date",
     unanswered_leads
+)
+
+st.caption(
+    "Reconciled figures use exact invoice-number payment references. "
+    "Unreferenced payments are not automatically allocated."
 )
 
 st.divider()
