@@ -2131,17 +2131,190 @@ with tab4:
 
     if not leads.empty:
 
+        # -----------------------------
+        # LEAD PERFORMANCE METRICS
+        # -----------------------------
+
+        lead_data = leads.copy()
+
+        # Identify relevant columns
+        source_col = "source"
+        status_col = "status"
+        reply_col = "first_reply"
+
+        if source_col in lead_data.columns:
+
+            lead_data[source_col] = (
+                lead_data[source_col]
+                .fillna("Unknown")
+                .astype(str)
+                .str.strip()
+            )
+
+        # Identify converted leads
+        if status_col in lead_data.columns:
+
+            lead_data["_status"] = (
+                lead_data[status_col]
+                .fillna("")
+                .astype(str)
+                .str.strip()
+                .str.lower()
+            )
+
+            converted_statuses = [
+                "converted",
+                "won",
+                "client",
+                "booked"
+            ]
+
+            lead_data["_converted"] = (
+                lead_data["_status"]
+                .isin(converted_statuses)
+            )
+
+            total_leads = len(lead_data)
+            converted_leads = int(
+                lead_data["_converted"].sum()
+            )
+
+            overall_conversion = (
+                converted_leads / total_leads * 100
+                if total_leads else 0
+            )
+
+            # Top-level metrics
+            c1, c2, c3 = st.columns(3)
+
+            c1.metric("Total leads", total_leads)
+
+            c2.metric(
+                "Converted leads",
+                converted_leads
+            )
+
+            c3.metric(
+                "Overall conversion",
+                f"{overall_conversion:.2f}%"
+            )
+
+            st.divider()
+
+            # -----------------------------
+            # CONVERSION BY SOURCE
+            # -----------------------------
+
+            if source_col in lead_data.columns:
+
+                st.subheader("Conversion by lead source")
+
+                source_summary = (
+                    lead_data.groupby(source_col)
+                    .agg(
+                        Total_Leads=("_converted", "size"),
+                        Converted_Leads=("_converted", "sum")
+                    )
+                    .reset_index()
+                )
+
+                source_summary["Conversion_Rate"] = (
+                    source_summary["Converted_Leads"]
+                    / source_summary["Total_Leads"] * 100
+                ).round(2)
+
+                source_summary = source_summary.sort_values(
+                    "Conversion_Rate",
+                    ascending=False
+                )
+
+                st.dataframe(
+                    source_summary,
+                    use_container_width=True,
+                    hide_index=True
+                )
+
+                best_source = source_summary.iloc[0]
+
+                st.success(
+                    f"{best_source[source_col]} leads had the "
+                    f"strongest observed conversion rate at "
+                    f"{best_source['Conversion_Rate']:.2f}%."
+                )
+
+            # -----------------------------
+            # RESPONSE TRACKING
+            # -----------------------------
+
+            st.divider()
+
+            st.subheader("Lead response tracking")
+
+            if reply_col in lead_data.columns:
+
+                missing_replies = lead_data[reply_col].isna() | (
+                    lead_data[reply_col].astype(str).str.strip()
+                    .isin(["", "nan", "None"])
+                )
+
+                missing_count = int(missing_replies.sum())
+
+                r1, r2 = st.columns(2)
+
+                r1.metric(
+                    "Missing response timestamps",
+                    missing_count
+                )
+
+                r2.metric(
+                    "Recorded response timestamps",
+                    total_leads - missing_count
+                )
+
+                st.info(
+                    f"I identified {missing_count} leads with "
+                    "missing response timestamps. These are kept "
+                    "separate rather than assuming they were ignored."
+                )
+
+                if missing_count:
+                    st.caption("Leads requiring response verification")
+
+                    st.dataframe(
+                        lead_data.loc[missing_replies],
+                        use_container_width=True,
+                        hide_index=True
+                    )
+
+            else:
+                st.warning(
+                    "The first_reply column was not found."
+                )
+
+        else:
+
+            st.warning(
+                "The status column was not found. "
+                "Cannot calculate conversion metrics."
+            )
+
+        # -----------------------------
+        # COMPLETE LEAD PIPELINE
+        # -----------------------------
+
+        st.divider()
+
+        st.subheader("Complete lead pipeline")
+
         st.dataframe(
             leads,
-            use_container_width=True
+            use_container_width=True,
+            hide_index=True
         )
 
     else:
 
-        st.warning(
-            "No lead data found."
-        )
-
+        st.warning("No lead data found.")
 
  
 # -----------------------------
