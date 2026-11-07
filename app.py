@@ -1288,30 +1288,31 @@ if not bookings.empty and not invoices.empty:
         )
     )
      
-    def reconciliation_status(row):
+def reconciliation_status(row):
+    status = str(row["status"]).lower().strip()
 
-        status = str(row["status"]).lower().strip()
+    if row["matched_payment_amount"] == 0:
+        if status == "paid":
+            return "Paid status - no matched reference"
+        return "No matched payment reference"
 
-        if row["matched_payment_amount"] == 0:
-            if status == "paid":
-                return "Paid status — no matched reference"
-            return "No matched payment reference"
+    if row["difference"] < 0:
+        return "Matched payments exceed invoice"
 
-        if row["difference"] < 0:
-            return "Matched payments exceed invoice"
+    if row["difference"] == 0:
+        return "Fully matched by reference"
 
-        if row["difference"] == 0:
-            return "Fully matched by reference"
+    return "Partially matched by reference"
 
-        return "Partially matched by reference"
 
+if not invoice_reconciliation.empty:
     invoice_reconciliation["reconciliation_result"] = (
         invoice_reconciliation.apply(
             reconciliation_status,
             axis=1
         )
     )
-    
+
 # -----------------------------
 # MONDAY PRIORITIES
 # -----------------------------
