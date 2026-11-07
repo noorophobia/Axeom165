@@ -1975,87 +1975,93 @@ with tab2:
     st.divider()
     st.divider()
 
-# Invoice-level reconciliation
-        st.subheader("Invoice-level reconciliation")
-        st.divider()
 
-        st.subheader("Potential unbilled bookings")
+    # -----------------------------
+    # INVOICE-LEVEL RECONCILIATION
+    # -----------------------------
 
-        if not booking_billing_review.empty:
+    st.subheader("Invoice-level reconciliation")
+    st.divider()
 
-            st.metric(
-                "Bookings without explicit invoice references",
-                len(booking_billing_review)
-            )
+    # Potential unbilled bookings
+    st.subheader("Potential unbilled bookings")
 
-            st.metric(
-                "Associated booking value",
-                f"${booking_billing_review['price'].sum():,.2f}"
-            )
+    if not booking_billing_review.empty:
 
-            st.warning(
-                "These bookings have no explicit booking ID in invoice "
-                "memos. This does not prove they are unbilled. "
-                "Check retainers, bundled invoices, and invoices "
-                "without booking references."
-            )
+        st.metric(
+            "Bookings without explicit invoice references",
+            len(booking_billing_review)
+        )
 
-            st.dataframe(
-                booking_billing_review[
-                    [
-                        "booking_id",
-                        "client_name",
-                        "service",
-                        "price",
-                        "review_reason",
-                        "billing_review"
-                    ]
-                ],
-                use_container_width=True,
-                hide_index=True
-            )
+        st.metric(
+            "Associated booking value",
+            f"${booking_billing_review['price'].sum():,.2f}"
+        )
 
-        else:
+        st.warning(
+            "These bookings have no explicit booking ID in invoice "
+            "memos. This does not prove they are unbilled. "
+            "Check retainers, bundled invoices, and invoices "
+            "without booking references."
+        )
 
-            st.success(
-                "All completed bookings have explicit invoice references."
-            )
-        if not invoice_reconciliation.empty:
+        st.dataframe(
+            booking_billing_review[
+                [
+                    "booking_id",
+                    "client_name",
+                    "service",
+                    "price",
+                    "review_reason",
+                    "billing_review"
+                ]
+            ],
+            use_container_width=True,
+            hide_index=True
+        )
 
-            st.caption(
-                "Only exact invoice-number references are matched. "
-                "Other payments remain unallocated."
-            )
+    else:
 
-            st.dataframe(
-                invoice_reconciliation,
-                use_container_width=True,
-                hide_index=True
-            )
+        st.success(
+            "All completed bookings have explicit invoice references."
+        )
 
-        else:
+    # Invoice reconciliation table
+    if not invoice_reconciliation.empty:
 
-            st.info(
-                "Invoice-level reconciliation is unavailable. "
-                "Check that invoice and payment data are loaded."
-            )
-            # Payment records
-            st.subheader("Payment register")
+        st.caption(
+            "Only exact invoice-number references are matched. "
+            "Other payments remain unallocated."
+        )
 
-            if not payments.empty:
+        st.dataframe(
+            invoice_reconciliation,
+            use_container_width=True,
+            hide_index=True
+        )
 
-                st.dataframe(
-                    payments,
-                    use_container_width=True,
-                    hide_index=True
-                )
+    else:
 
-            else:
+        st.info(
+            "Invoice-level reconciliation is unavailable. "
+            "Check that invoice and payment data are loaded."
+        )
 
-                st.info("No payment data found.")
+    # Payment register
+    st.subheader("Payment register")
 
+    if not payments.empty:
 
-        # -----------------------------
+        st.dataframe(
+            payments,
+            use_container_width=True,
+            hide_index=True
+        )
+
+    else:
+
+        st.info("No payment data found.")
+
 # PRODUCTION
 # -----------------------------
 
