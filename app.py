@@ -252,7 +252,7 @@ def load_data():
 
 
 # -----------------------------
-# SIDEBAR FILE UPLOAD
+# MAIN PAGE FILE UPLOAD
 # -----------------------------
 
 def get_file_hash(file_bytes):
@@ -265,9 +265,9 @@ if "processed_uploads" not in st.session_state:
     st.session_state.processed_uploads = set()
 
 
-st.sidebar.header("Update data")
+st.header("Update data")
 
-uploaded_files = st.sidebar.file_uploader(
+uploaded_files = st.file_uploader(
     "Add new files",
     type=["csv", "txt"],
     accept_multiple_files=True,
@@ -287,7 +287,7 @@ if uploaded_files:
             # Prevent processing the same file again
             # when Streamlit reruns the application.
             if file_hash in st.session_state.processed_uploads:
-                st.sidebar.info(
+                st.info(
                 f"{file.name}: already processed in this session."
                 )
                 continue
@@ -340,13 +340,13 @@ if uploaded_files:
                         encoding="utf-8"
                     )
 
-                    st.sidebar.success(
+                    st.success(
                         f"Added messages from {file.name}"
                     )
 
                 else:
 
-                    st.sidebar.info(
+                    st.info(
                         f"No new message content in {file.name}"
                     )
 
@@ -371,7 +371,7 @@ if uploaded_files:
 
                 if dataset is None:
 
-                    st.sidebar.error(
+                    st.error(
                         f"Could not identify dataset: {file.name}"
                     )
 
@@ -384,7 +384,7 @@ if uploaded_files:
 
                 if missing:
 
-                    st.sidebar.error(
+                    st.error(
                         f"{file.name} is missing: "
                         f"{', '.join(sorted(missing))}"
                     )
@@ -432,7 +432,7 @@ if uploaded_files:
 
                 st.session_state.processed_uploads.add(file_hash)
 
-                st.sidebar.success(
+                st.success(
                     f"{dataset}: {added_count} new records added. "
                     f"{duplicate_count} duplicates ignored. "
                     f"Total records: {len(combined_df)}"
@@ -440,7 +440,7 @@ if uploaded_files:
 
                 if conflict_count:
 
-                    st.sidebar.warning(
+                    st.warning(
                         f"{conflict_count} conflicting records "
                         "were saved for owner review. "
                         "Existing records were not overwritten."
@@ -452,7 +452,7 @@ if uploaded_files:
 
         except Exception as error:
 
-            st.sidebar.error(
+            st.error(
                 f"Could not process {file.name}: {error}"
             )
 
