@@ -1976,86 +1976,86 @@ with tab2:
     st.divider()
 
 # Invoice-level reconciliation
-st.subheader("Invoice-level reconciliation")
-st.divider()
+        st.subheader("Invoice-level reconciliation")
+        st.divider()
 
-st.subheader("Potential unbilled bookings")
+        st.subheader("Potential unbilled bookings")
 
-if not booking_billing_review.empty:
+        if not booking_billing_review.empty:
 
-    st.metric(
-        "Bookings without explicit invoice references",
-        len(booking_billing_review)
-    )
+            st.metric(
+                "Bookings without explicit invoice references",
+                len(booking_billing_review)
+            )
 
-    st.metric(
-        "Associated booking value",
-        f"${booking_billing_review['price'].sum():,.2f}"
-    )
+            st.metric(
+                "Associated booking value",
+                f"${booking_billing_review['price'].sum():,.2f}"
+            )
 
-    st.warning(
-        "These bookings have no explicit booking ID in invoice "
-        "memos. This does not prove they are unbilled. "
-        "Check retainers, bundled invoices, and invoices "
-        "without booking references."
-    )
+            st.warning(
+                "These bookings have no explicit booking ID in invoice "
+                "memos. This does not prove they are unbilled. "
+                "Check retainers, bundled invoices, and invoices "
+                "without booking references."
+            )
 
-    st.dataframe(
-        booking_billing_review[
-            [
-                "booking_id",
-                "client_name",
-                "service",
-                "price",
-                "review_reason",
-                "billing_review"
-            ]
-        ],
-        use_container_width=True,
-        hide_index=True
-    )
+            st.dataframe(
+                booking_billing_review[
+                    [
+                        "booking_id",
+                        "client_name",
+                        "service",
+                        "price",
+                        "review_reason",
+                        "billing_review"
+                    ]
+                ],
+                use_container_width=True,
+                hide_index=True
+            )
 
-else:
+        else:
 
-    st.success(
-        "All completed bookings have explicit invoice references."
-    )
-if not invoice_reconciliation.empty:
+            st.success(
+                "All completed bookings have explicit invoice references."
+            )
+        if not invoice_reconciliation.empty:
 
-    st.caption(
-        "Only exact invoice-number references are matched. "
-        "Other payments remain unallocated."
-    )
+            st.caption(
+                "Only exact invoice-number references are matched. "
+                "Other payments remain unallocated."
+            )
 
-    st.dataframe(
-        invoice_reconciliation,
-        use_container_width=True,
-        hide_index=True
-    )
+            st.dataframe(
+                invoice_reconciliation,
+                use_container_width=True,
+                hide_index=True
+            )
 
-else:
+        else:
 
-    st.info(
-        "Invoice-level reconciliation is unavailable. "
-        "Check that invoice and payment data are loaded."
-    )
-    # Payment records
-    st.subheader("Payment register")
+            st.info(
+                "Invoice-level reconciliation is unavailable. "
+                "Check that invoice and payment data are loaded."
+            )
+            # Payment records
+            st.subheader("Payment register")
 
-    if not payments.empty:
+            if not payments.empty:
 
-        st.dataframe(
-            payments,
-            use_container_width=True,
-            hide_index=True
-        )
+                st.dataframe(
+                    payments,
+                    use_container_width=True,
+                    hide_index=True
+                )
 
-    else:
+            else:
 
-        st.info("No payment data found.")
+                st.info("No payment data found.")
 
 
-# -----------------------------
+        # -----------------------------
 # PRODUCTION
 # -----------------------------
 
