@@ -2053,26 +2053,71 @@ else:
 
         st.info("No payment data found.")
 
+
 # -----------------------------
 # PRODUCTION
 # -----------------------------
 
 with tab3:
 
-    st.subheader("Production board")
+    st.subheader("Production overview")
 
     if not production.empty:
 
+        # Normalize production stages
+        production["stage_clean"] = (
+            production["stage"]
+            .astype(str)
+            .str.strip()
+            .str.lower()
+        )
+
+        stage_counts = production["stage_clean"].value_counts()
+
+        total_records = len(production)
+
+        delivered = int(stage_counts.get("delivered", 0))
+        in_edit = int(stage_counts.get("in edit", 0))
+        in_review = int(stage_counts.get("in review", 0))
+        in_revision = int(stage_counts.get("in revision", 0))
+
+        pending = total_records - delivered
+
+        # Main production metrics
+        col1, col2, col3 = st.columns(3)
+
+        col1.metric("Total production records", total_records)
+        col2.metric("Delivered", delivered)
+        col3.metric("Pending delivery", pending)
+
+        st.divider()
+
+        st.subheader("Production status breakdown")
+
+        col1, col2, col3 = st.columns(3)
+
+        col1.metric("In edit", in_edit)
+        col2.metric("In review", in_review)
+        col3.metric("In revision", in_revision)
+
+        st.caption(
+            "Pending delivery includes all records not currently "
+            "marked as delivered."
+        )
+
+        st.divider()
+
+        st.subheader("Production board")
+
         st.dataframe(
-            production,
-            use_container_width=True
+            production.drop(columns=["stage_clean"]),
+            use_container_width=True,
+            hide_index=True
         )
 
     else:
 
-        st.warning(
-            "No production data found."
-        )
+        st.warning("No production data found.")
 
 
 # -----------------------------
